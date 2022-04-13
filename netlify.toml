@@ -7,3 +7,7 @@
 
 [context.production]
   command = "make deploy-production"
+
+# Make sure we are using an uptodate Python version
+[build.environment]
+  PYTHON_VERSION = "3.7"
