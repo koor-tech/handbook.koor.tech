@@ -3,13 +3,13 @@ title: Tools
 ---
 
 * Source Code Management (SCM)
-  * GitHub
+    * GitHub
 * Password and Secret Store
-  * 1Password
+    * 1Password
 * (Static) Website Hosting
-  * Netlify
+    * Netlify
 * "Store Payments"
-  * Stripe
+    * Stripe
 * Meetings
-  * Google Meet
-  * Zoom (mostly for "external" meetings)
+    * Google Meet
+    * Zoom (mostly for "external" meetings)

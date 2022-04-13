@@ -1,3 +1,4 @@
-[data-md-color-primary="greenish"] {
-    --md-primary-fg-color: #28cb8f;
+:root {
+  --md-primary-fg-color: #2E3238;
+  --md-accent-fg-color: #28cb8f;
 }

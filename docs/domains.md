@@ -5,8 +5,8 @@ title: Domains
 We are using Cloudflare for DNS management.
 
 * `koor.tech` (Primary)
-  * Used for Google Workspace.
+    * Used for Google Workspace.
 * `koor.co`
-  * Unused.
+    * Unused.
 * `koor.dev`
-  * Unused.
+    * Unused.

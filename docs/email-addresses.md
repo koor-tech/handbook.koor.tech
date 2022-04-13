@@ -7,19 +7,19 @@ title: Email Addresses
 We currently use Google Workspace for Emails and Group Emails.
 
 * `accounting@koor.tech`
-  * Description: Accounting
+    * Description: Accounting
 * `admin@koor.tech`
-  * Description: Used for infrastructure accounts (e.g., DNS).
-  * Aliases:
-    * `hostmaster@koor.tech`
+    * Description: Used for infrastructure accounts (e.g., DNS).
+    * Aliases:
+        * `hostmaster@koor.tech`
 * `mailmaster@koor.tech`
-  * Description: postmaster didn't work..
+    * Description: postmaster didn't work..
 * `sales@koor.tech`
   * Aliases:
-    * `info@koor.tech`
+        * `info@koor.tech`
 * `payments@koor.tech`
-  * Description: Used for PayPal and Stripe.
+    * Description: Used for PayPal and Stripe.
 * `socialmedia@koor.tech`
-  * Description: Used for our Social Media accounts.
+    * Description: Used for our Social Media accounts.
 * `support@koor.tech`
-  * Description: Koor Support
+    * Description: Koor Support
