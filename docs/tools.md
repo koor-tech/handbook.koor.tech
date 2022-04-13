@@ -6,8 +6,12 @@ title: Tools
     * GitHub
 * Password and Secret Store
     * 1Password
+* DNS Management + Proxying
+    * Cloudflare
 * (Static) Website Hosting
-    * Netlify
+    * Cloudflare Pages
+* Form Submissions
+    * formspark.io
 * "Store Payments"
     * Stripe
 * Meetings
