@@ -11,11 +11,5 @@ prepare:
 		"git+https://${GH_USERNAME}:${GH_TOKEN}@github.com/galexrt/mkdocs-material-insiders.git"
 	pip3 install "mkdocs-minify-plugin>=0.3" "mkdocs-redirects>=1.0"
 
-deploy:
+deploy: prepare
 	mkdocs build --clean
-
-deploy-development: prepare
-	$(MAKE) deploy
-
-deploy-production: prepare
-	$(MAKE) deploy
