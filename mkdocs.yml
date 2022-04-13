@@ -29,8 +29,6 @@ theme:
     - tabs
 extra_css:
   - stylesheets/extra.css
-extra_javascript:
-  - javascripts/netlify-identity-widget.js
 plugins:
   - search
   - minify:
