@@ -1,9 +1,9 @@
-site_name: Koor Technologies, Inc. Handbook
-site_url: 'https://handbook.koor.tech'
-repo_url: https://github.com/koor-tech/handbook
+site_name: Koor Technologies Internal Documentation
+site_url: 'https://int-docs.koor.tech'
+repo_url: https://github.com/koor-tech/int-docs.koor.tech
 edit_uri: edit/main/docs/
 site_author: Koor Technologies, Inc. Team
-site_description: "Koor Technologies, Inc. Company Handbook inspired by GitLab's open handbook."
+site_description: "Koor Technologies, Inc. Company Documentation and Handbook inspired by GitLab's open handbook."
 use_directory_urls: true
 #copyright: ''
 theme:
@@ -14,7 +14,7 @@ theme:
   palette:
     scheme: 'default'
   icon:
-    repo: fontawesome/brands/github
+    repo: fontawesome/brands/git-alt
   features:
     - content.tabs.link
     - instant
@@ -29,6 +29,9 @@ theme:
     - tabs
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
 plugins:
   - search
   - minify:

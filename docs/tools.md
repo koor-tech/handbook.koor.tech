@@ -6,14 +6,25 @@ title: Tools
     * GitHub
 * Password and Secret Store
     * 1Password
-* DNS Management + Proxying
-    * Cloudflare
-* (Static) Website Hosting
-    * Cloudflare Pages
-* Form Submissions
-    * formspark.io
-* "Store Payments"
+* Infrastructure
+    * DNS Management + Proxying
+        * Cloudflare
+* Website
+    * (Static) Website Hosting
+        * Cloudflare Pages
+    * Form Submissions
+        * formspark.io
+* Payments
     * Stripe
+    * PayPal
 * Meetings
     * Google Meet
     * Zoom (mostly for "external" meetings)
+* Customer Relations Management (CRM)
+    * TODO
+* Invoicing Tool
+    * TODO
+* Service Desk
+    * TODO
+* Ticket Tracking
+    * TODO
