@@ -6,7 +6,14 @@ hide:
 
 ## Purpose
 
-This is the Koor Technologies, Inc. company and employee handbook. It contains .
+This is the Koor Technologies, Inc. company and employee handbook. It contains the employee handbook and our internal knowledge base.
+
+## Important Links
+
+It is a good idea to bookmark the following links:
+
+* [Koor Technologies, Inc. Internal Documentation](https://handbook.koor.tech/) - This internal documentation.
+* [App Launcher (Cloudflare Access)](https://koorinc.cloudflareaccess.com/#/Launcher) - Quick and easy way to access the tools used at Koor Technologies, Inc.
 
 ### Table of Contents
 
@@ -23,10 +30,12 @@ This is the Koor Technologies, Inc. company and employee handbook. It contains .
     * [Benefits](people-ops/benefits.md)
     * [Hiring](people-ops/hiring.md)
     * [Holidays / Paid Time Off](people-ops/holidays-pto.md)
+    * [Offboarding](people-ops/offboarding.md)
     * [Recruiting](people-ops/recruiting.md)
-    * [Training & Development](people-ops/training-and-development.md)
+    * [Knowledge, Training & Development](people-ops/knowledge-training-and-development.md)
     * [Travel](people-ops/travel.md)
-* [Offboarding](offboarding.md)
-* [Onboarding](onboarding.md)
+    * [Onboarding](people-ops/onboarding/index.md)
+        * [Checklist: Manager](people-ops/onboarding/checklist-manager.md)
+        * [Checklist: New Employee](people-ops/onboarding/checklist-new-employee.md)
 * [Tools](tools.md)
 * [Performance Metrics & Evaluation](performance-metrics-and-evaluation.md)

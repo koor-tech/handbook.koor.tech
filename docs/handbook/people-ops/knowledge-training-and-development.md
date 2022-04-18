@@ -1,8 +1,14 @@
 ---
-title: Knowledge Management
+title: Knowledge, Training & Development
 ---
 
-The tools we are using can be found [here](../tools.md).
+## Knowledge Sharing
+
+It is important for us to constantly share our knowledge, either through pair programming, presentations or discussions.
+
+If you want to present or discuss a topic, please use the `#knowledge` Slack channel.
+
+## Training & Development
 
 ### Courses
 

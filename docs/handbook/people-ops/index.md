@@ -52,7 +52,7 @@ You need to have a good workstation to work from home to be a productive contrib
 
 The following setup is required for all teammates:
 
-- Computer \-- see [laptop purchase and setup](https://about.gitlab.com/handbook/business-ops/it-ops-team/#laptops) from GitLab. We recommend [Apple MacBook Pro 14", 512 GB](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-space-gray-8-core-cpu-14-core-gpu-512gb) for non-engineers and [Apple MacBook Pro 16"](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-10-core-cpu-32-core-gpu-1tb) for engineers. Team members may refresh their laptop every 36 months. Please submit your Apple purchase request to \[Add Company Name Here\] ***If you're new to Macbook, please visit our*** ***[Knowledge Management](training-and-development.md#knowledge-management) page in the handbook to learn the new operating system***.
+- Computer \-- see [laptop purchase and setup](https://about.gitlab.com/handbook/business-ops/it-ops-team/#laptops) from GitLab. We recommend [Apple MacBook Pro 14", 512 GB](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-space-gray-8-core-cpu-14-core-gpu-512gb) for non-engineers and [Apple MacBook Pro 16"](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-10-core-cpu-32-core-gpu-1tb) for engineers. Team members may refresh their laptop every 36 months. Please submit your Apple purchase request to \[Add Company Name Here\] ***If you're new to Macbook, please visit our*** ***[Knowledge Management](knowledge-training-and-development.md#knowledge-management) page in the handbook to learn the new operating system***.
 - [Camera](https://www.logitech.com/en-us/products/webcams/c920s-pro-hd-webcam.960-001257.html?crid=1865) for videoconferences
 - [Light](https://www.amazon.com/Webcam-Light-Stream-Selfie-Logitech/dp/B07G379ZBH/ref=sr_1_11?dchild=1][27]keywords=desk+key+light][27]qid=1609263224][27]refinements=p_85%3A2470955011][27]rnid=2470954011][27]rps=1][27]sr=8-11) that makes your face visible on videoconference calls
 - High-speed, reliable internet
@@ -107,7 +107,18 @@ For warranty reasons, we recommend buying directly from the manufacturer rather 
 
 Please add our company logo to your email signature.
 
-### Mac OS tips
+**Signature Template**:
+
+```
+YOUR_FIRST_NAME YOUR_LAST_NAME
+YOUR_JOB_TITLE
+Koor Technologies, Inc.
+https://koor.tech/
+
+KOOR_COMPANY_LOGO
+```
+
+### Mac OS Tips
 
 If you're new to Mac, please review this helpful [video](https://www.youtube.com/watch?v=67keaaWOKzE) intro to OSX from Windows.
 

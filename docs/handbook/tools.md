@@ -29,7 +29,7 @@ We use a variety of productivity tools in addition to those mentioned in Communi
 | [LinkedIn](https://www.linkedin.com/)               | Social media:[https://www.linkedin.com/company/koor-technologies-inc/](https://www.linkedin.com/company/koor-technologies-inc/) |
 | [Silicon Valley Bank](https://www.svb.com/)         | \[finance\] Manage cash and make wire transfers                                                                                 |
 | [Slack](https://slack.com/)                         | Team communications & chats                                                                                                     |
-| [Twitter](https://twitter.com/)                     | \[Marketing\] Handles: @koor_tech and @galexrt                                                                                  |
+| [Twitter](https://twitter.com/)                     | \[Marketing\] Handles: [@koor_tech](https://twitter.com/koor_tech) and [@galexrt](https://twitter.com/galexrt)                                                                                  |
 | WhatsApp*                                           | Commonly used to communicate with people internationally                                                                        |
 | [Zoom](https://zoom.us/)                            | Video conference calls                                                                                                          |
 
@@ -112,7 +112,7 @@ Docs, Drive, Calendar, Spreadsheets
 #### Google Drive
 
 1. By default documents are viewable by everyone at the company. This means anyone with a Koor Technologies, Inc. email address can see the document if they have the link, but it will not show up in their search results.
-    1. When a document should have [limited access](../communication.md#limited-access), adjust the document to Restricted. Do this by selecting Share \--\> Change under "Koor Technologies, Inc. Anyone in this group can view" \--\> Restricted from the dropdown.
+    1. When a document should have [limited access](communication.md#limited-access), adjust the document to Restricted. Do this by selecting Share \--\> Change under "Koor Technologies, Inc. Anyone in this group can view" \--\> Restricted from the dropdown.
 2. Generally speaking, when you share a document share it with \[insert group email\]. We want to allow anyone to contribute to all company work products, and this ensures that when someone needs to access it they can. (There may be some specific cases where information or access rights need to be more restrictive, but please do it sparingly.)
 3. Documents should use these prefixes: 1. \[public\] - open to everyone, even outside of dgdp 1. \[koor\] - available to all at koor (assumed if not labeled) 1. \[restricted\] - shared, but only to specific individuals. May also want to adjust the sharing settings 1. \[private\] - might be useful to put this for any files that you wish to keep to yourself.
 4. To use documents that are stored in a shared drive, it is helpful to create a link to that shared drive from your personal drive. To do this:
