@@ -2,23 +2,13 @@
 title: Onboarding
 ---
 
-## Welcome to Koor Technologies, Inc.!
-
-#### Onboarding a new advisor
-
-Advisor agreements are sent through [DocuSign](https://www.docusign.com/), using the "Advisor Agreement" template. To send a new advisor agreement, you'll need the new advisor's name, and the number of shares they are offered. Once the agreement is sent, add a new row to the [advisory board spreadsheet](https://docs.google.com/spreadsheets/d/15knBE2-PrQ1Ad-QcIk0mxCN-xFsATKK9hcifqrm0qFQ/edit#gid=1803674483) and enter the new advisor's information. Use this spreadsheet to track the advisor's progress through the onboarding process.
-
-**Note**: Be sure to mark any columns that haven't been completed yet as "TODO"
-
-When the agreement is completed, make sure it is in the correct Google Drive folder, and ask the new advisor to add us on [Linkedin](https://www.linkedin.com/company/71111416), [Crunchbase](https://www.crunchbase.com/organization/fleet-device-management) and [Angellist](https://angel.co/company/fleetdm).
-
-### Onboarding process
+## Onboarding process
 
 Welcome to the team!
 
-Before you join, your manager should create an onboarding ticket in GitLab. To do this:
+Before you join, your manager should create an onboarding ticket in GitHub. To do this:
 
-1. Go to [Onboarding Process](onboarding.md)
+1. Go to the [Onboarding Checklist](onboarding.md)
 2. Create a Title of "Onboarding \-- \<employee_name\>"
 3. Select Choose a template next to "Description"
 4. Select the New Teammate Onboarding template. This template has todos for the new teammate, for their manager, and to help set up the proper administrative needs.
@@ -62,3 +52,11 @@ When a new teammate joins, we take the opportunity for the whole company to come
 - We go through in order of Start Date from our [Team Milestones](https://docs.google.com/spreadsheets/d/1POhDzesk5fEjiafkWxJmsFnjbY5F_c--0fmFdSiO2vE/edit#gid=0)
 - Each person introduces themselves, explains their role, and shares some tidbit about themselves (which changes for each meeting).
 - Each person then calls on the next teammate on the list.
+
+## Onboarding a new advisor
+
+Advisor agreements are sent through [DocuSign](https://www.docusign.com/), using the "Advisor Agreement" template. To send a new advisor agreement, you'll need the new advisor's name, and the number of shares they are offered. Once the agreement is sent, add a new row to the [advisory board spreadsheet](https://docs.google.com/spreadsheets/d/15knBE2-PrQ1Ad-QcIk0mxCN-xFsATKK9hcifqrm0qFQ/edit#gid=1803674483) and enter the new advisor's information. Use this spreadsheet to track the advisor's progress through the onboarding process.
+
+**Note**: Be sure to mark any columns that haven't been completed yet as "TODO"
+
+When the agreement is completed, make sure it is in the correct Google Drive folder, and ask the new advisor to add us on [Linkedin](https://www.linkedin.com/company/80224304/) and [Crunchbase](https://www.crunchbase.com/organization/fleet-device-management).

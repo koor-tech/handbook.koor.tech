@@ -100,7 +100,7 @@ The most important aspects of our performance framework are:
 - KPIs are also at a function or team level and measure the health of existing capabilities. Each function has responsibilities that they must contribute in order for the company to run. Finance pays invoices and closes the books; engineering rapidly builds high-quality features; our product serves users. Each function will keep a variety of Performance Indicators (PIs) to evaluate whether it's delivering what's needed. Those that are most important will be considered "Key" (a "KPI") and raised to the awareness of other departments.
 - Individual performance feedback focuses on creating a productive dialog between a team member and their manager. It aims to build self-awareness and foster professional development. We do not have numPeople Opsal scores or a formal process that ties personal goals with team OKRs or PIs. Instead, the process will collect input from the team member and others familiar with their work around strengths, areas for improvement, and general. We also facilitate feedback from team members to their managers.
 
-Note that we do not have a compensation review process at this time.
+**Note**: We do not have a compensation review process at this time.
 
 #### Why we don't link OKRs with personal goals
 

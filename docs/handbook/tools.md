@@ -4,6 +4,9 @@ title: Tools
 
 Here are the primary tools that we use to collaborate with each other explained.
 
+!!! hint
+    To quickly access most of our commonly used web apps, checkout: [Koor - App Launcher](https://koorinc.cloudflareaccess.com/#/Launcher).
+
 ## Productivity Tools
 
 We use a variety of productivity tools in addition to those mentioned in Communications. You're welcome to use your own private productivity tools. Here's a list of those that the company licenses for shared productivity or for which we have company accounts:
@@ -14,11 +17,12 @@ We use a variety of productivity tools in addition to those mentioned in Communi
 | [Bill.com](https://www.bill.com/)                   | Manage invoices and accounts payable                                                                                            |
 | [Brex](https://www.brex.com/)                       | Company credit card                                                                                                             |
 | [Calendly](https://calendly.com/)                   | Calendar scheduling                                                                                                             |
-| [Cloudflare](https://cloudflare.com/) + [Cloudflare Pages](https://pages.cloudflare.com/) | DNS Management and (static) website hosting
+| [Cloudflare](https://cloudflare.com/)               | DNS Management + Zero Trust Access Control                                                                                      |
+| [Cloudflare Pages](https://pages.cloudflare.com/)   | (Static) website hosting                                                                                                        |
 | [Docker](https://www.docker.com/)                   | \[engineering\] Containerization of packages for deployment                                                                     |
 | [Earth Class Mail](https://www.earthclassmail.com/) | Manage postal mail online                                                                                                       |
-| [Formspark.io](https://formspark.io/) | Website form submissions |
-| [GitHub](https://github.com/)                       | Source control                                                                                               |
+| [Formspark.io](https://formspark.io/)               | Website form submissions                                                                                                        |
+| [GitHub](https://github.com/)                       | Source control                                                                                                                  |
 | Google G Suite                                      | Email and office applications                                                                                                   |
 | [Gusto](https://gusto.com/)                         | Payroll for US-based teammates                                                                                                  |
 | [Hootsuite](https://www.hootsuite.com/)             | Posts to and monitors a variety of social media channels                                                                        |
@@ -99,12 +103,25 @@ Conventions for using Slack:
 
 ### GitHub
 
-This is our main project management tool. See our GitHub page for more on how to use it.
+This is our main source code management tool. See our GitHub page for more on how to use it.
 
 ### Google Suite
 
 Docs, Drive, Calendar, Spreadsheets
 
+#### Google Drive
+
+1. By default documents are viewable by everyone at the company. This means anyone with a Koor Technologies, Inc. email address can see the document if they have the link, but it will not show up in their search results.
+    1. When a document should have [limited access](../communication.md#limited-access), adjust the document to Restricted. Do this by selecting Share \--\> Change under "Koor Technologies, Inc. Anyone in this group can view" \--\> Restricted from the dropdown.
+2. Generally speaking, when you share a document share it with \[insert group email\]. We want to allow anyone to contribute to all company work products, and this ensures that when someone needs to access it they can. (There may be some specific cases where information or access rights need to be more restrictive, but please do it sparingly.)
+3. Documents should use these prefixes: 1. \[public\] - open to everyone, even outside of dgdp 1. \[koor\] - available to all at koor (assumed if not labeled) 1. \[restricted\] - shared, but only to specific individuals. May also want to adjust the sharing settings 1. \[private\] - might be useful to put this for any files that you wish to keep to yourself.
+4. To use documents that are stored in a shared drive, it is helpful to create a link to that shared drive from your personal drive. To do this:
+    1. Head to [drive.google.com](https://drive.google.com/)
+    2. Click on "Shared with me"
+    3. Tap the name of the folder you want to add to your Google folder
+    4. Click on the name of the folder
+    5. Click on "Add shortcut to drive"
+
 ### Zoom
 
-For videoconferencing
+For videoconferencing and meetings.

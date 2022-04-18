@@ -1,0 +1,5 @@
+---
+title: 'Checklist: Manager'
+---
+
+- [ ] TODO

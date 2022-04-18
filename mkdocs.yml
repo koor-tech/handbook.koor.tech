@@ -42,7 +42,8 @@ plugins:
         remove_comments: true
       #js_files: []
   - redirects:
-      redirect_maps: {}
+      redirect_maps:
+        'index.md': 'handbook/index.md'
 markdown_extensions:
   - admonition
   - attr_list

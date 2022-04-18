@@ -133,7 +133,7 @@ We encourage you to take the national holidays in your home country. We've made 
 3. Import into your Google Calendar using its Settings: Import & export feature
 4. Confirm it added the dates properly
 
-Note that you should notify your manager when you opt which dates to take and if you made an deviations from these defaults. It's not necessary to email all@ if you use these default dates.
+**Note**: You should notify your manager when you opt which dates to take and if you made an deviations from these defaults. It's not necessary to email all@ if you use these default dates.
 
 #### Absenteeism
 
@@ -170,13 +170,13 @@ If you receive an error message **"Uh-oh! It doesn't look like you have access t
 
 ##### Slack Commands
 
-- /pto-roots ooo Create an OOO event.
-- /pto-roots me View your OOO dashboard to edit, add or remove OOO events.
-- /pto-roots whosout See upcoming OOO for everyone in the channel where this command is used.
-- /pto-roots @username Check if a particular person is OOO and if they are, see which of your co-workers are covering for them.
-- /pto-roots feedback This is your direct line to support. At any time, use this command to report bugs or share your thoughts on how the product can be improved or what's working well.
-- /pto-roots help A top-level look at PTO by Roots items that you may need help with, and how to receive help.
-- /pto-roots settings This is where you modify your profile and calendar settings. This is also where you opt-in and out-put for reminders, including monthly messages prompting you to consider what PTO you may take this month.
+- `/pto-roots ooo` - Create an OOO event.
+- `/pto-roots me` - View your OOO dashboard to edit, add or remove OOO events.
+- `/pto-roots whosout` - See upcoming OOO for everyone in the channel where this command is used.
+- `/pto-roots @username` - Check if a particular person is OOO and if they are, see which of your co-workers are covering for them.
+- `/pto-roots feedback` - This is your direct line to support. At any time, use this command to report bugs or share your thoughts on how the product can be improved or what's working well.
+- `/pto-roots help` - A top-level look at PTO by Roots items that you may need help with, and how to receive help.
+- `/pto-roots settings` - This is where you modify your profile and calendar settings. This is also where you opt-in and out-put for reminders, including monthly messages prompting you to consider what PTO you may take this month.
 
 ##### Additional Features
 
@@ -234,7 +234,7 @@ Please note, if you are planning to change or extend your Parental Leave by usin
 For Your Team Head:
 
 - PTO by Roots will notify Your Team Head of any upcoming parental leave.
-- Notify the team member that the parental leave request was received by sending a confirmation e-mail. .
+- Notify the team member that the parental leave request was received by sending a confirmation e-mail.
 - PTO by Roots will automatically update the employment status.
 - Check if the team member has confirmed their return via email. If not, send the Return to Work e-mail to the team member and manager.
 - Do a weekly audit of parental leave return dates. If a team member hasn't sent an e-mail within 3 days of returning, send them the return to work e-mail, copying the manager in.

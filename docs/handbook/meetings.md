@@ -108,7 +108,7 @@ Here are "norms" for the call:
 
 - Prior to the call, please add a discussion topic or update to the meeting agenda. Prefix the question with your name.
 - In the call, we will go through them in order, giving each person the chance to voice their updates.
-- Note that this call is joined by GitLab's "CEO Shadows" \-- please see more about this program here: [https://about.gitlab.com/handbook/ceo/shadow/](https://about.gitlab.com/handbook/ceo/shadow/)
+- **Note**: This call is joined by GitLab's "CEO Shadows" \-- please see more about this program here: [https://about.gitlab.com/handbook/ceo/shadow/](https://about.gitlab.com/handbook/ceo/shadow/)
 
 ### Pre-mortem
 

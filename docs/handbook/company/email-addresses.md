@@ -23,3 +23,5 @@ We use Google Workspace for company emailing and group emails.
     * Description: Used for our Social Media accounts.
 * `support@koor.tech`
     * Description: Koor Support
+* `security@koor.tech`
+    * Description: Security related inquiries from internal and externals.
