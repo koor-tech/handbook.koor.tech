@@ -1,5 +1,5 @@
-site_name: Koor Technologies Internal Documentation
-site_url: 'https://int-docs.koor.tech'
+site_name: Koor Technologies, Inc. Internal Documentation
+site_url: 'https://internal.koor.tech'
 repo_url: https://github.com/koor-tech/int-docs.koor.tech
 edit_uri: edit/main/docs/
 site_author: Koor Technologies, Inc. Team
@@ -20,6 +20,7 @@ theme:
     - instant
     - navigation.expand
     - navigation.indexes
+    - navigation.tabs
     - navigation.top
     - navigation.tracking
     - privacy

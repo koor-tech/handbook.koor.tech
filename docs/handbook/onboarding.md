@@ -6,11 +6,11 @@ title: Onboarding
 
 #### Onboarding a new advisor
 
-Advisor agreements are sent through [DocuSign][62], using the "Advisor Agreement" template. To send a new advisor agreement, you'll need the new advisor's name, and the number of shares they are offered. Once the agreement is sent, add a new row to the [advisory board spreadsheet][66] and enter the new advisor's information. Use this spreadsheet to track the advisor's progress through the onboarding process.
+Advisor agreements are sent through [DocuSign](https://www.docusign.com/), using the "Advisor Agreement" template. To send a new advisor agreement, you'll need the new advisor's name, and the number of shares they are offered. Once the agreement is sent, add a new row to the [advisory board spreadsheet](https://docs.google.com/spreadsheets/d/15knBE2-PrQ1Ad-QcIk0mxCN-xFsATKK9hcifqrm0qFQ/edit#gid=1803674483) and enter the new advisor's information. Use this spreadsheet to track the advisor's progress through the onboarding process.
 
 **Note**: Be sure to mark any columns that haven't been completed yet as "TODO"
 
-When the agreement is completed, make sure it is in the correct Google Drive folder, and ask the new advisor to add us on [Linkedin][67], [Crunchbase][68] and [Angellist][69].
+When the agreement is completed, make sure it is in the correct Google Drive folder, and ask the new advisor to add us on [Linkedin](https://www.linkedin.com/company/71111416), [Crunchbase](https://www.crunchbase.com/organization/fleet-device-management) and [Angellist](https://angel.co/company/fleetdm).
 
 ### Onboarding process
 
@@ -22,7 +22,7 @@ Before you join, your manager should create an onboarding ticket in GitLab. To d
 2. Create a Title of "Onboarding \-- \<employee_name\>"
 3. Select Choose a template next to "Description"
 4. Select the New Teammate Onboarding template. This template has todos for the new teammate, for their manager, and to help set up the proper administrative needs.
-5. Schedule a daily check-in for each day of the first two weeks. Add [this document][70] as the notes for the agenda
+5. Schedule a daily check-in for each day of the first two weeks. Add [this document](https://docs.google.com/document/d/1bwpASnXhPPOZSlwsA4zxVMq_JLe4I7kMZZWmAoVHuHw/edit#heading=h.3yw2kts4rqy5) as the notes for the agenda
 
 ### Schedule
 
@@ -36,7 +36,7 @@ In week 1, we will cover these topics:
 4. Meeting norms
 5. Handbook-first process and training on its first use cases
 6. What's novel / uncommon about Koor Technologies, Inc. practices
-7. Go through expectations of your workstation setup, review Finance processes & People Group - Led by PeopleOps, make sure you complete the [Emergency Contact Form][71]
+7. Go through expectations of your workstation setup, review Finance processes & People Group - Led by PeopleOps, make sure you complete the [Emergency Contact Form](https://docs.google.com/forms/d/1uK_Am6cKLlJrso5chhnsktIctJB4bkNzn8xA0M5q6qg)
 8. Meet the Team - [Welcome to Koor Technologies, Inc. - All Team Members Call TODO]
 
 In week 2, you will work with your manager to:
@@ -58,7 +58,7 @@ If you're moving for work, Koor Technologies, Inc. will pay relocation costs sub
 
 When a new teammate joins, we take the opportunity for the whole company to come together and welcome them to the team. Like the Biweekly Team call, this call is different than all other Koor Technologies, Inc. meetings because it is mostly focused on the team we're building, not our product or programs or customer relationships. We do this ritual to celebrate the growth of our team, to reflect back on how we've grown over time and how every single new person has changed the trajectory of our company, to form new relationships among ourselves and to help everyone know the newest member of the Koor Technologies, Inc. team.
 
-- We use our [all-team notes document][72] to guide the conversation
-- We go through in order of Start Date from our [Team Milestones][73]
+- We use our [all-team notes document](https://docs.google.com/document/d/19e9cAvzQUjctZydByialvsT-ufKH8nMgfztVqSS3Yw0/edit) to guide the conversation
+- We go through in order of Start Date from our [Team Milestones](https://docs.google.com/spreadsheets/d/1POhDzesk5fEjiafkWxJmsFnjbY5F_c--0fmFdSiO2vE/edit#gid=0)
 - Each person introduces themselves, explains their role, and shares some tidbit about themselves (which changes for each meeting).
 - Each person then calls on the next teammate on the list.

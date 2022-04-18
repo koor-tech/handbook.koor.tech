@@ -16,22 +16,22 @@ To schedule Zoom meetings from within Google Calendar:
 
 ### Internal meeting scheduling
 
-1. Use the Google Calendar [find a meeting time](https://support.google.com/calendar/answer/37161?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Cfind-a-meeting-time) feature to coordinate meetings with Koor Technologies, Inc. team members. Enter the @Koor Technologies, Inc..com emails for each participant into the "Meet with\..." box in Google Calendar and the calendar availability for each participant will appear in your view. Then, when you select a meeting time, those participants will automatically be invited and a video conference will be attached to the invite.
+1. Use the Google Calendar [find a meeting time](https://support.google.com/calendar/answer/37161?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Cfind-a-meeting-time) feature to coordinate meetings with Koor Technologies, Inc. team members. Enter the @koor.tech emails for each participant into the "Meet with\..." box in Google Calendar and the calendar availability for each participant will appear in your view. Then, when you select a meeting time, those participants will automatically be invited and a video conference will be attached to the invite.
 2. Please prefer this strategy over negotiating meeting times via chat \-- This can save a lot of communication overhead, especially when scheduling with multiple participants.
 3. It is important to [set your working hours in Google Calendar](https://support.google.com/calendar/answer/7638168?hl=en&co=GENIE.Platform%3DDesktop), and block out any personal time/events/PTO so that team members do not inadvertently schedule time when you are not available. Many team members use the free tier of [**reclaim.ai**](https://reclaim.ai/) to synchronize personal event times (without event details) into their work calendars. It is also common practice to block out time for focused work.
 
 ### External meeting scheduling
 
-When scheduling external meetings, provide external participants with a [Calendly][12] link to schedule with the relevant internal participants. If you need a Calendly account, reach out to @\[person\] via Slack.
+When scheduling external meetings, provide external participants with a [Calendly](https://calendly.com/) link to schedule with the relevant internal participants. If you need a Calendly account, reach out to @\[person\] via Slack.
 
 ### Meeting format
 
-1. Meetings must be scheduled using [Google Calendar][13] and should have a zoom link included
+1. Meetings must be scheduled using [Google Calendar](https://calendar.google.com/) and should have a zoom link included
 2. **All meetings** must have an agenda in a shared Google Doc that's linked in the Description. Items for discussion must be listed in the agenda prior to the start of the meeting.
 3. If client facing meeting, set time zone to local time to prevent meeting shifts due to day light savings. If internal meeting with multiple team members, then use the time zone for the organizer of the meeting unless needed otherwise.
 4. Meeting requests will remain **ON HOLD** if the above format is not completed (Example: missing documentation, agenda, etc)
 5. When a meeting has no agenda for a few weeks, it should be reviewed and a decision should be made whether to cancel or restructure it.
-6. Meetings start right on time, and must be "[speedy meetings][14]." This means they end 5 minutes prior to a 30-minute slot or 10 minutes prior to an hour slot
+6. Meetings start right on time, and must be "[speedy meetings](https://gmail.googleblog.com/2011/06/change-google-calendars-default-meeting.html)." This means they end 5 minutes prior to a 30-minute slot or 10 minutes prior to an hour slot
 7. All teammates should have the meeting notes open during the meeting and add questions or comments in the doc in real time. Done well, this is much more effective than using Zoom chats.
 8. The bi-weekly team meeting is a ritual that focuses on community-building not efficiency, and operates under a different approach to setting and managing agendas.
 
@@ -108,7 +108,7 @@ Here are "norms" for the call:
 
 - Prior to the call, please add a discussion topic or update to the meeting agenda. Prefix the question with your name.
 - In the call, we will go through them in order, giving each person the chance to voice their updates.
-- Note that this call is joined by GitLab's "CEO Shadows" \-- please see more about this program here: [https://about.gitlab.com/handbook/ceo/shadow/][15]
+- Note that this call is joined by GitLab's "CEO Shadows" \-- please see more about this program here: [https://about.gitlab.com/handbook/ceo/shadow/](https://about.gitlab.com/handbook/ceo/shadow/)
 
 ### Pre-mortem
 

@@ -4,7 +4,7 @@ title: Communication
 
 ### Communication Norms
 
-Remote communication can be difficult at times, especially spanning timezones, cultures, work-styles, a variety of applications, and sometimes challenging connectivity issues. The following best practices are adapted from GitLab's [communication guidelines][7] and meant to help us maximize our asynchronous productivity. Some are general and some application-specific.
+Remote communication can be difficult at times, especially spanning timezones, cultures, work-styles, a variety of applications, and sometimes challenging connectivity issues. The following best practices are adapted from GitLab's [communication guidelines](https://about.gitlab.com/handbook/communication/) and meant to help us maximize our asynchronous productivity. Some are general and some application-specific.
 
 ### General
 
@@ -26,11 +26,11 @@ Share "bad news" quickly and straightforwardly. Be thankful to receive it \-- ba
 
 One thing that can make bad news so difficult to share is that it may come with a sense of self-recrimination. In this case it can be helpful to acknowledge the feeling first (e.g. "I'm concerned that I might have made a mistake") and then to forge ahead and share the news. We all make mistakes; it's easiest to help recover and learn from them if they're acknowledged straightforwardly.
 
-Bad news also may be difficult to share if it comes with a sense of blame, e.g. if you believe someone else made a mistake. In this case, you should consider the mistake a separate issue from the bad news and consider sharing it as "negative feedback." [Give negative feedback in the smallest setting possible][8] \-- e.g. a 1:1 video call. Treating the bad news and negative feedback as distinct issues allows you to consider the timing and format of sharing each independently.[GitLab Values][8]
+Bad news also may be difficult to share if it comes with a sense of blame, e.g. if you believe someone else made a mistake. In this case, you should consider the mistake a separate issue from the bad news and consider sharing it as "negative feedback." [Give negative feedback in the smallest setting possible](https://about.gitlab.com/handbook/values/#negative-feedback-is-1-1) \-- e.g. a 1:1 video call. Treating the bad news and negative feedback as distinct issues allows you to consider the timing and format of sharing each independently.[GitLab Values](https://about.gitlab.com/handbook/values/#negative-feedback-is-1-1)
 
 ### Date format
 
-Dates should be written in [ISO format][9]: `yyyy-mm-dd`. This is unambiguous, machine readable, and sortable. This is especially important because we work in multiple countries; some default to M/D and some to D/M, so "5/4" could be interpreted as "April 5" or "May 4."
+Dates should be written in [ISO format](https://en.wikipedia.org/wiki/ISO_8601): `yyyy-mm-dd`. This is unambiguous, machine readable, and sortable. This is especially important because we work in multiple countries; some default to M/D and some to D/M, so "5/4" could be interpreted as "April 5" or "May 4."
 
 While it's recommended to specify `yyyy-mm-dd` for important communications, it is acceptable to use mm-dd as a shorthand. It is not acceptable to use slash ("/") or m-d. For example, it is okay to use "05-04" for "May 4", but not okay to use "5-4", "4-5", "5/4", or "4/5". Better still is to use the year, or the ISO recommendation of "\--". For example: "2021-05-04" or "\--05-04".
 
@@ -94,4 +94,4 @@ The items below are not shared with all team members. Limited access is a more s
 8. Acquisition offers for us are not public since informing people of an acquisition that might not happen can be very disruptive
 9. Acquisition offers we give are not public since the organization being acquired frequently prefers to have them stay private.
 
-Our default is transparency, but there is sensitive information that can either not be shared publicly or can only be shared with a limited internal group. We follow Gitlab's guidelines for [not public][10] and [limited access][11] information.
+Our default is transparency, but there is sensitive information that can either not be shared publicly or can only be shared with a limited internal group. We follow Gitlab's guidelines for [not public](https://about.gitlab.com/handbook/communication/#not-public) and [limited access](https://about.gitlab.com/handbook/communication/#limited-access) information.

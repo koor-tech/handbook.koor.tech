@@ -38,7 +38,7 @@ title: Finance
 - The AP accountant will reply to the accounting@koor.tech and the vendor to acknowledge that the invoice has been processed in Bill.com. The turnaround time is usually 1-2 business days from the day the invoice is submitted to Accounting and the acknowledgment.
 - AP Accountant needs to make sure to use the contractor's contact email to send out bill.com e-invite (do not use the contractor's Koor Technologies, Inc. email). This will help us to make sure the applicable contractors can receive their tax forms even if they are no longer working with Koor Technologies, Inc.
 - For US vendors, upload a copy of W-9 in Bill.com under the Document section
-- For non-US vendors, upload a copy of [W-8BEN Form][4] in Bill.com under the Document section
+- For non-US vendors, upload a copy of [W-8BEN Form](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf) in Bill.com under the Document section
 
 ### Invoice Payments
 
@@ -58,45 +58,28 @@ All wires from SVB are initiated by Accounting and approved by Koor Technologies
 #### Wire requestor's responsibilities:
 
 1. Make sure the vendor provides all the required information as outlined below before requesting a wire payment
-
 2. For a new vendor's 1st payment, please send an email to accounting@koor.tech with invoices, wire instructions, Form W-8BEN-E (if non-US vendors). For the 2nd payment and onward, send invoice only is okay unless the vendor requests any changes, such as bank changes
-
 3. Make sure the vendor provides a formal invoice. (A quotation and/or a Pro Forma Invoice cannot be accepted to issue a payment) Exceptions should be discussed with the CTO or CEO and Accounting.
-
 4. For non-US vendors, make sure the invoices indicate the proper currency Wire payment is used to pay any vendors who cannot get paid via Bill.com or to provides funds to **non-US team members** for business expenses. To request a wire payment, please send an email request to accounting@koor.tech along with:
-
 5. The invoice to be paid
-
 6. Vendor's wire instructions - see below-requested information about wire instructions
-
 7. If a foreign currency wire payment is required, please indicate which currency
-
 8. If a wire payment needs to arrive by a certain date, please be very specific about it so Accounting can plan accordingly
-
 9. A brief description for the Purpose of Payment (per bank requirement for international wires)
-
 10. **Bank Fees** If any bank fees that Koor Technologies, Inc. should be covering to ensure the recipient can receive the full payment, please notify Accounting about how much bank fees to add to the wire total as the fees can vary vendor by vendor. For example, some Zambia vendors don't need Koor Technologies, Inc. to include any bank transfer charges, some of them do. Given each vendor's situation is different, Accounting requests vendors to provide how much bank fee to include and in what currency with the 1st payment request. For future recurring payments, Accounting can include the same amount of bank fees without asking again unless new changes are provided by the vendor and the amount of change is justified by Accounting.
     Typically, a wire instruction needs to include below:
-
-11. Recipient's name
-
-12. Recipient's address
-
-13. Recipient's bank name
-
-14. Recipient's bank address
-
-15. Recipient's bank account
-
-16. Recipient's bank ABA Routing Numbers (if domestic wire within the United States)
-
-17. Recipient's IBAN, BIC, or SWIFT Code (if international bank outside of United States)
-
-- Sometimes the bank may require to provide additional information, Accounting will reach out to the wire requestor if such request arises. \*
-- Wire payment is usually quicker, but for international wire payment, it still takes a few business days to clear. We suggest you submit the wire request at least 7 business days prior to the payment due date to allow accounting to get the wire initiated and approved.
-- If the wire payment is urgent, please flag "**URGENT Payment Request**" in the subject line when you send the wire request to accounting@koor.tech. Please don't submit a payment request via a Gitlab ticket as it can easily be buried in the thread.
-- If the wire payment is recurring, please send the invoice that needs to be paid to Accounting and indicates this is a recurring payment with no wire instruction change. Please be specific if the wire needs to arrive by a certain date so Accounting can plan the wire accordingly.
-Once a wire payment is initiated and approved, the controller will send a proof of payment to the wire requestor in the following business day or when such document becomes available in SVB. When the controller is not available, such as on vacation, the \[designee\] will provide such proof of payment.
+    1.  Recipient's name
+    2.  Recipient's address
+    3.  Recipient's bank name
+    4.  Recipient's bank address
+    5.  Recipient's bank account
+    6.  Recipient's bank ABA Routing Numbers (if domestic wire within the United States)
+    7.  Recipient's IBAN, BIC, or SWIFT Code (if international bank outside of United States)
+    - Sometimes the bank may require to provide additional information, Accounting will reach out to the wire requestor if such request arises. \*
+    - Wire payment is usually quicker, but for international wire payment, it still takes a few business days to clear. We suggest you submit the wire request at least 7 business days prior to the payment due date to allow accounting to get the wire initiated and approved.
+    - If the wire payment is urgent, please flag "**URGENT Payment Request**" in the subject line when you send the wire request to accounting@koor.tech. Please don't submit a payment request via a Gitlab ticket as it can easily be buried in the thread.
+    - If the wire payment is recurring, please send the invoice that needs to be paid to Accounting and indicates this is a recurring payment with no wire instruction change. Please be specific if the wire needs to arrive by a certain date so Accounting can plan the wire accordingly.
+11. Once a wire payment is initiated and approved, the controller will send a proof of payment to the wire requestor in the following business day or when such document becomes available in SVB. When the controller is not available, such as on vacation, the \[designee\] will provide such proof of payment.
 
 ### Payroll
 
@@ -106,14 +89,15 @@ Once a wire payment is initiated and approved, the controller will send a proof 
 
 ### Contracted Non-US Team Members
 
-- For contracted **non-US team members**, a completed W-8BEN Form is collected during the [Pilot][5] onboarding process.
-- Payments related to the contracted services are usually processed in [Pilot][5] monthly.
+- For contracted **non-US team members**, a completed W-8BEN Form is collected during the [Pilot](#pilot) onboarding process.
+- Payments related to the contracted services are usually processed in [Pilot](#pilot) monthly.
 - Expense reimbursement reports from the **non-US team members** are required to submit in Expensify.
+
 Please refer to the Expense Reports and Pilot sections below for more details.
 
 ### Pilot
 
-Koor Technologies, Inc. uses [Pilot][6] to process payments for **non-US team members.**
+Koor Technologies, Inc. uses [Pilot](https://pilot.co/) to process payments for **non-US team members.**
 
 When a team member successfully completes the onboarding process, the direct manager of the new hire should notify Accounting immediately via sending an email to [accounting@koor.tech](mailto:accounting@koor.tech) with the information below:
 

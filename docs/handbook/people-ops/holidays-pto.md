@@ -34,7 +34,7 @@ Starting on December 24th, Koor Technologies, Inc. enjoys a company Christmas Ho
 
 Please remember to update PTO by Roots and select Christmas Holiday Week.
 
-For Support during the holiday, please refer to the [2021 Holidays On Call Schedule][44]
+For Support during the holiday, please refer to the [2021 Holidays On Call Schedule](https://docs.google.com/spreadsheets/d/14zc5ARkvYHFQIEbPBtrZLm2oyyolP4cA-ks8Ie64Bnw/edit#gid=0)
 
 #### 2021 End of Year Celebration - *Time extended through \[date\]*
 
@@ -102,8 +102,8 @@ We emulate GitLab's "don't ask, must tell" policy, and encourage people to take 
 
 References that may be helpful:
 
-- [GitLab's Paid Time Off Policy][45]
-- [GitLab's Guidance on Mental Health][46]
+- [GitLab's Paid Time Off Policy](https://about.gitlab.com/handbook/paid-time-off/)
+- [GitLab's Guidance on Mental Health](https://about.gitlab.com/company/culture/all-remote/mental-health/)
 
 #### How to Take Time Off
 
@@ -125,11 +125,11 @@ You can take time off whenever you want. However, please be responsible in when 
 
 We encourage you to take the national holidays in your home country. We've made this easy by providing a calendar with those dates so that you can add them in bulk.
 
-1. Visit our [Important Dates Spreadsheet][47] and see the tab for your National Holidays
+1. Visit our [Important Dates Spreadsheet](https://docs.google.com/spreadsheets/d/1POhDzesk5fEjiafkWxJmsFnjbY5F_c--0fmFdSiO2vE/edit#gid=882612580) and see the tab for your National Holidays
 2. Create a local CSV file of that tab, using the menu option File: Download: CSV.
     - After you create a copy, feel free to add or remove dates as fit to your circumstances
     - Note that holidays that occur on weekdays have start and end times, so that importing them will block off your calendar
-    - [More instructions][48] are available from Google
+    - [More instructions](https://support.google.com/calendar/answer/37118?co=GENIE.Platform%3DDesktop][48]hl=en) are available from Google
 3. Import into your Google Calendar using its Settings: Import & export feature
 4. Confirm it added the dates properly
 
@@ -139,9 +139,9 @@ Note that you should notify your manager when you opt which dates to take and if
 
 Our time off policy is flexible, but requires proactive communication. Any team member who takes 3 consecutive days without prior notification will be considered to have voluntarily resigned.
 
-If someone is absent, the manager will make effort to contact the team member or someone listed as their emergency contact. Please share [emergency contact information via this form][49] with people-ops, so that we know who to call in case of an unexpected absence.
+If someone is absent, the manager will make effort to contact the team member or someone listed as their emergency contact. Please share [emergency contact information via this form](https://docs.google.com/forms/d/e/1FAIpQLSfabH3dmyzT1jfI6wvc-gJ-1noyqK53QF7vTlNK7dWAj4Nnyw/viewform?usp=sf_link) with people-ops, so that we know who to call in case of an unexpected absence.
 
-Managers can find information on who to call in our [Emergency Contact Information Sheet][50]
+Managers can find information on who to call in our [Emergency Contact Information Sheet](https://docs.google.com/spreadsheets/d/1h1QcknDamZukc0OOoG35W9BEm3q9vTMUJi8nBSrbLB0/edit?usp=sharing)
 
 #### Communicating Your Time Off
 
@@ -149,16 +149,16 @@ Once you've decided to take time off and your manager is aware, it should be com
 
 1. Mark the time as Out of office on your calendar.
     1. Select the Automatically decline new and existing meetings option so that your meeting status will show "declined"
-2. You should add the time off using PTO by Roots to Slack. Please use the following syntax which uses the [ISO 8601][9] date notation in order to avoid confusion: OOO from YYYY-MM-DD to YYYY-MM-DD, please contact XXX for assistance.
+2. You should add the time off using PTO by Roots to Slack. Please use the following syntax which uses the [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) date notation in order to avoid confusion: OOO from YYYY-MM-DD to YYYY-MM-DD, please contact XXX for assistance.
 3. Email \[insert group email\] with the dates you will be away (this is not necessary for National holidays planned in advance; see below for that process)
 4. If you won't check email at all, add an out-of-office response in your email settings with the start and end date of your time off so that people reaching out to you on email will be notified
 5. It may be useful to share your planned time off as a **FYI** on your team's Slack channel(s), especially if you lead a team.
 
 #### PTO by Roots
 
-[PTO by Roots][51] allows employees and managers to coordinate time off seamlessly with intuitive Slack commands. The integration from Slack automatically monitors PTO balances and takes action. PTO by Roots also reminds employees of their upcoming time off and helps them assign roles and tasks for co-workers, giving all parties involved greater alignment and peace of mind.
+[PTO by Roots](https://www.tryroots.io/pto) allows employees and managers to coordinate time off seamlessly with intuitive Slack commands. The integration from Slack automatically monitors PTO balances and takes action. PTO by Roots also reminds employees of their upcoming time off and helps them assign roles and tasks for co-workers, giving all parties involved greater alignment and peace of mind.
 
-[PTO by Roots Training Video][52]
+[PTO by Roots Training Video](https://drive.google.com/file/d/1t-rRHvWxo9IguvtHuacR0pAlK3nHWS4H/view?usp=sharing)
 
 Please be aware that new team members' PTO by Roots accounts are activated and synced automatically once a day, so if you try to access PTO by Roots on your first day and receive an error message, please attempt to access PTO by Roots on Day 2. If you still receive an error message, let your assigned People Ops Specialist know in your onboarding issue.
 

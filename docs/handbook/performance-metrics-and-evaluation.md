@@ -10,7 +10,7 @@ At Koor Technologies, Inc., performance feedback is a continuous process. We giv
 
 Managing and identifying underperformance can be one of the most difficult responsibilities of a manager, but it's also one of the most important. As a people leader, to be fair and transparent with the team member, you want to address underperformance in a timely and structured way.
 
-Koor Technologies, Inc. will leverage GitLab's [skill-based and will-based performance model][53] to identify the root cause of the team members' underperformance and with that determine the suitable remediation plan. The remediation plan will differ based on the type of performance issue.
+Koor Technologies, Inc. will leverage GitLab's [skill-based and will-based performance model](https://about.gitlab.com/handbook/leadership/underperformance/#skills-based-performance) to identify the root cause of the team members' underperformance and with that determine the suitable remediation plan. The remediation plan will differ based on the type of performance issue.
 
 #### Remediation for underperformance
 
@@ -28,7 +28,7 @@ Coaching is the preferred option to deal with underperformance and is the first 
 
 Managers are expected to address performance concerns in a timely manner. Managers should address concerns verbally during one-on-one meetings or in impromptu private coaching sessions with the team member. These conversations should be documented by the manager and shared with the team member so to ensure the context is clearly "coaching related to underperformance" and not simply "feedback" that may be provided more regularly and informally. The written feedback also should ensure alignment on where improvements need to be made and by when, and give the team member an opportunity to request clarification or a conversation with peopleops or the CEO. The note should be brief (a few key bullet points or a paragraph), and should be sent via email to the team member within 24 hours of the verbal discussion.
 
-The GitLab handbook [coaching section][54] has other useful tips, including an email template.
+The GitLab handbook [coaching section](https://about.gitlab.com/handbook/leadership/underperformance/#coaching) has other useful tips, including an email template.
 
 #### Written Warning
 
@@ -75,7 +75,7 @@ Please contact \[insert title\] if you have questions on how to give the feedbac
 
 Starting on \[insert date\] we are beginning a team-member review cycle to provide feedback on performance and growth. Some important context:
 
-- We're using [Culture Amp][55] to request and collect feedback.
+- We're using [Culture Amp](https://www.cultureamp.com/) to request and collect feedback.
 - Peer feedback request should be completed by \[insert date\].
 - By \[insert date\] Managers have written performance reviews for their teams and discuss with CEO
 - Managers have delivered performance reviews to team by \[insert date\]
@@ -89,13 +89,13 @@ In order to achieve our goals, we must think about how we break it down, and man
 - Team-level Key Performance Indicators (KPIs) that we use to measure health of existing organizational capabilities
 - Individual performance feedback, that we use to grow as individuals and develop our careers
 
-Our process is modeled after GitLab's but simplified because we're so much smaller. You can learn more about their process through their pages on [OKRs][56], [KPIs][57], and [360 feedback][58].
+Our process is modeled after GitLab's but simplified because we're so much smaller. You can learn more about their process through their pages on [OKRs](https://about.gitlab.com/company/okrs/), [KPIs](https://about.gitlab.com/handbook/ceo/kpis/), and [360 feedback](https://about.gitlab.com/handbook/people-group/360-feedback/).
 
 #### Key aspects of Koor Technologies, Inc. performance management
 
 The most important aspects of our performance framework are:
 
-- We have one north star \-- population growth. This helps us measure the results of all of our other efforts and prioritize what matters. At the end of the day, our contribution to the world will scale with the number of people living in cities powered by Koor Technologies, Inc..
+- We have one north star \-- population growth. This helps us measure the results of all of our other efforts and prioritize what matters. At the end of the day, our contribution to the world will scale with the number of people living in cities powered by Koor Technologies, Inc.
 - OKRs are written and evaluated each quarter and are intended primarily for organization functions or teams rather than individuals. They articulate measurable goals we aim to achieve in order to materially advance our capabilities. They should be focused and ambitious \-- i.e. we should expect between 1 and 3 OKRs per function and set them to stretch us beyond what we are sure we can achieve.
 - KPIs are also at a function or team level and measure the health of existing capabilities. Each function has responsibilities that they must contribute in order for the company to run. Finance pays invoices and closes the books; engineering rapidly builds high-quality features; our product serves users. Each function will keep a variety of Performance Indicators (PIs) to evaluate whether it's delivering what's needed. Those that are most important will be considered "Key" (a "KPI") and raised to the awareness of other departments.
 - Individual performance feedback focuses on creating a productive dialog between a team member and their manager. It aims to build self-awareness and foster professional development. We do not have numPeople Opsal scores or a formal process that ties personal goals with team OKRs or PIs. Instead, the process will collect input from the team member and others familiar with their work around strengths, areas for improvement, and general. We also facilitate feedback from team members to their managers.
@@ -131,7 +131,7 @@ Notes on our implementation of OKRs and KPIs:
 
 Our north star metric has monthly milestones. We aim to hit these month over month. However, growth is not always continuous and there are times when we won't hit the goal. When this happens, it's a good opportunity for us to understand what went wrong (if applicable) and refocus our energy and creative spirit to get back on track. Our process when this happens is as follows:
 
-1. Each teammate takes 10-15 minutes to [brainstorm 5-10 ideas][59] to improve.
+1. Each teammate takes 10-15 minutes to [brainstorm 5-10 ideas](https://forms.gle/4Tpd8PedNHYZXxtH8) to improve.
 2. Flag ideas that you particularly like with \*\*
 3. CEO will review all ideas and choose a few to focus on
 4. In the next Sprint Retrospective, we will brainstorm what would be some iterative approaches to those ideas, focusing on simple and actionable near-term steps. For example: can we get 50% of the value of the idea at 10% of the cost? What's the smallest iteration that can make some progress toward the goal?

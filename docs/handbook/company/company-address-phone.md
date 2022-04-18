@@ -2,7 +2,7 @@
 title: Company Mailing Address & Phone
 ---
 
-We have a mailing address through [Earth Class Mail][94]. This service scans our mail and sends it to us as an email attachment. Here is our address:
+We have a mailing address through [Earth Class Mail](https://www.earthclassmail.com/). This service scans our mail and sends it to us as an email attachment. Here is our address:
 
 Please use our dedicated mailbox for all accounts requiring a **mailing address** or **billing address**:
 

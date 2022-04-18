@@ -2,36 +2,92 @@
 title: Tools
 ---
 
-### Primary Tools
+Here are the primary tools that we use to collaborate with each other explained.
 
-Here are the primary tools that we use to collaborate with each other.
+## Productivity Tools
 
-## Slack
+We use a variety of productivity tools in addition to those mentioned in Communications. You're welcome to use your own private productivity tools. Here's a list of those that the company licenses for shared productivity or for which we have company accounts:
 
-At Koor Technologies, Inc., we do not send internal emails to each other. Instead, we prefer to use Slack to communicate with other folks who work at Koor Technologies, Inc..
+| **Application**                                     | **Purpose**                                                                                                                     |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [1Password](https://1password.com/)                 | Store shared passwords and account information                                                                                  |
+| [Bill.com](https://www.bill.com/)                   | Manage invoices and accounts payable                                                                                            |
+| [Brex](https://www.brex.com/)                       | Company credit card                                                                                                             |
+| [Calendly](https://calendly.com/)                   | Calendar scheduling                                                                                                             |
+| [Cloudflare](https://cloudflare.com/) + [Cloudflare Pages](https://pages.cloudflare.com/) | DNS Management and (static) website hosting
+| [Docker](https://www.docker.com/)                   | \[engineering\] Containerization of packages for deployment                                                                     |
+| [Earth Class Mail](https://www.earthclassmail.com/) | Manage postal mail online                                                                                                       |
+| [Formspark.io](https://formspark.io/) | Website form submissions |
+| [GitHub](https://github.com/)                       | Source control                                                                                               |
+| Google G Suite                                      | Email and office applications                                                                                                   |
+| [Gusto](https://gusto.com/)                         | Payroll for US-based teammates                                                                                                  |
+| [Hootsuite](https://www.hootsuite.com/)             | Posts to and monitors a variety of social media channels                                                                        |
+| [LinkedIn](https://www.linkedin.com/)               | Social media:[https://www.linkedin.com/company/koor-technologies-inc/](https://www.linkedin.com/company/koor-technologies-inc/) |
+| [Silicon Valley Bank](https://www.svb.com/)         | \[finance\] Manage cash and make wire transfers                                                                                 |
+| [Slack](https://slack.com/)                         | Team communications & chats                                                                                                     |
+| [Twitter](https://twitter.com/)                     | \[Marketing\] Handles: @koor_tech and @galexrt                                                                                  |
+| WhatsApp*                                           | Commonly used to communicate with people internationally                                                                        |
+| [Zoom](https://zoom.us/)                            | Video conference calls                                                                                                          |
+
+\* Not licensed, but commonly used for work-related activity.
+
+### By Category
+
+* Source Code Management (SCM)
+    * GitHub
+* Password and Secret Store
+    * 1Password
+* Infrastructure
+    * DNS Management + Proxying
+        * Cloudflare
+* Website
+    * (Static) Website Hosting
+        * Cloudflare Pages
+    * Form Submissions
+        * formspark.io
+* Payments
+    * Stripe
+    * PayPal
+* Meetings
+    * Google Meet
+    * Zoom (mostly for "external" meetings)
+* Customer Relations Management (CRM)
+    * TODO
+* Invoicing Tool
+    * TODO
+* Service Desk
+    * TODO
+* Ticket Tracking
+    * TODO
+
+## Explained
+
+### Slack
+
+At Koor Technologies, Inc., we do not send internal emails to each other. Instead, we prefer to use Slack to communicate with other folks who work at Koor Technologies, Inc.
 
 We use threads in Slack as much as possible. Threads help limit noise for other people following the channel and reduce notification overload.
 
 We configure our working hours in Slack to ensure everyone knows when they can get in touch with others.
 
-### Slack channels
+#### Slack channels
 
-We have specific channels for various topics, but we also have more general channels for the teams at Koor Technologies, Inc..
+We have specific channels for various topics, but we also have more general channels for the teams at Koor Technologies, Inc.
 
 We use these prefixes to organize the Koor Technologies, Inc. Slack:
 
 - *g-*: for team/group channels. *(**Note**: "g-" is short for "group")*
 - *oooh-*: used to discuss and share interesting information about a topic.
 - *help-*: for asking for help on specific topics.
-- *at* or *Koor Technologies, Inc.-at*: for customer channels.
+- *at* or *koor-at*: for customer channels.
 
-### Slack
+#### Slack Conventions
 
 Conventions for using Slack:
 
 - Use public channels whenever possible. Threads within public channels can prevent spamming people, while still allowing others to be aware of what's going on and to contribute if they have something to add.
 - Posts will be considered FYI unless they mention a specific person @mention individuals to flag specifically for them
-- Emoji acknowledgements are appreciated. See more on [GitLab's page][74].
+- Emoji acknowledgements are appreciated. See more on [GitLab's page](https://about.gitlab.com/company/culture/all-remote/informal-communication/#using-emojis-to-convey-emotion).
 - When communicating time in slack, prefer to specify in team's respective timezone or use UTC
 - Use @Channel for announcements
 - People can "browse all channels" and choose which channel to join, all internal Koor Technologies, Inc. channels are open to employees. If you would like to rename or change the name of a channel please contact your Slack Administrator

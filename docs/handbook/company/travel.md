@@ -22,16 +22,16 @@ While Koor Technologies, Inc. is a remote company, at time team members may trav
 
 ## Travel Insurance
 
-Koor Technologies, Inc. offers travel insurance for business travel for all the US-based employees. Full details of Travel Policy can be found in [Here][86]
+Koor Technologies, Inc. offers travel insurance for business travel for all the US-based employees. Full details of Travel Policy can be found in [Here](https://drive.google.com/file/d/188gtgD_5S_-mL8UkPiudgritsiiiyDUR/view?usp=sharing)
 
 ### Flights
 
 Planning flights far in advance can help you get cheaper fares when booking. For example you can set alerts when there is a significant drop in price for your travel destination.
 
-- [Google Flights][87] - Great for comparing and setting up alerts
-- [Skyscanner][88] - Great for comparing and setting up alerts
-- [Kiwi][89] - Great experience for booking flights on mobile devices
-- [Airwander][90] - Great for booking flights with stopovers
+- [Google Flights](https://www.google.com/flights/) - Great for comparing and setting up alerts
+- [Skyscanner](https://www.skyscanner.com/) - Great for comparing and setting up alerts
+- [Kiwi](https://www.kiwi.com/) - Great experience for booking flights on mobile devices
+- [Airwander](http://airwander.com/) - Great for booking flights with stopovers
 
 ## Travel Visas
 

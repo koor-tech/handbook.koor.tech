@@ -6,7 +6,7 @@ This handbook page includes information about our brand, and guidelines on using
 
 ### Name
 
-The name of our company is 'Koor Technologies, Inc.'. We use 'Koor' or 'Koor.Tech' as a shortcut - but be careful to use this only when in a context where it is clear that you are referring to Koor Technologies, Inc..
+The name of our company is 'Koor Technologies, Inc.'. We use 'Koor' or 'Koor.Tech' as a shortcut - but be careful to use this only when in a context where it is clear that you are referring to Koor Technologies, Inc.
 
 Incorrect usage:
 
@@ -27,11 +27,11 @@ We should think of our brand as important to entrepreneurs building new cities. 
 
 ### Company letterhead
 
-Our company Letterhead can be accessed [here][130]. This is read-only; make a copy to edit
+Our company Letterhead can be accessed [here](https://docs.google.com/document/d/1MBJYZuGHofTMg9ml1Q1v1TaPvz6j2EnMJRnZNVVmAmI/edit?usp=sharing). This is read-only; make a copy to edit
 
 ### Logos
 
-We use the following logos at Koor Technologies, Inc.. When using the logos, please keep space between the logo and other images or text. Generally a good amount of separation space is the size of the Koor Technologies, Inc. 'house' away from the logo
+We use the following logos at Koor Technologies, Inc. When using the logos, please keep space between the logo and other images or text. Generally a good amount of separation space is the size of the Koor Technologies, Inc. 'house' away from the logo
 
 - Logo 1, The Koor Technologies, Inc. house:
 - Logo 2, The Koor Technologies, Inc. house with text, orange:
@@ -39,7 +39,7 @@ We use the following logos at Koor Technologies, Inc.. When using the logos, ple
 
 ### Marketing Assets
 
-Company assets, including full resolution versions of the logo, are available in our [Marketing Assets][131] shared drive
+Company assets, including full resolution versions of the logo, are available in our [Marketing Assets](https://drive.google.com/drive/u/1/folders/0AEq4mz4LcLacUk9PVA) shared drive
 
 ### Vision
 
@@ -74,7 +74,7 @@ Koor Technologies, Inc. succeeds by accelerating growth and delivering responsiv
 - Account-Based Marketing
 - Social Media (Twitter, Facebook, Youtube, Linkedin)
 - Targeted ads
-- Note that to manage LinkedIn company page, your personal LI account must be added as an admin. There's no separate login via 1Password
+- **Note**: To manage the company LinkedIn page, your personal LinkedIn account must be added as an admin. There should be no separate login for that.
 
 ### Inbound Marketing
 
@@ -88,8 +88,8 @@ Koor Technologies, Inc. succeeds by accelerating growth and delivering responsiv
 
 Koor Technologies, Inc. has the following social media accounts:
 
-- Twitter: [@koor_tech][132]
-- LinkedIn: [Koor Technologies, Inc.][104]
+- Twitter: [@koor_tech](https://twitter.com/koor_tech)
+- LinkedIn: [Koor Technologies, Inc.](https://www.linkedin.com/company/koor-technologies-inc/)
 
 We also have some social media presence through our Artists In Residence program. Those are listed here.
 
@@ -111,7 +111,7 @@ We also have some social media presence through our Artists In Residence program
 - Monitor events and trending conversations to tweet appropriately.
 - Use images, GIFs, and/or videos whenever possible.
 - Use emojis to add emotion when it applies.
-- Ask questions and run polls (see poll ideas here [https://business.twitter.com/en/blog/engaging-twitter-poll-ideas.html][133]).
+- Ask questions and run polls (see poll ideas here [https://business.twitter.com/en/blog/engaging-twitter-poll-ideas.html](https://business.twitter.com/en/blog/engaging-twitter-poll-ideas.html)).
 - Do not express political views.
 
 ### Tweet Approval Process
@@ -153,7 +153,7 @@ At the end of each sprint, CEO posts an update to a variety of social media chan
 1. Videos from each teammate are complete by AM on the Wednesday of the sprint end. See demo process for details on this.
 2. Confirm that all videos are compiled in a YouTube playlist titled Progress Updates YYYY-MM-DD
 3. Add CEO video as first video in playlist; reorder the others roughly with the most important / informative updates nearest the top
-4. Post the video and 1-2 highlights to Twitter from the [@koor_tech][132] account. Add \# and #remotework hashtags.
+4. Post the video and 1-2 highlights to Twitter from the [@koor_tech](https://twitter.com/koor_tech) account. Add \# and #remotework hashtags.
 5. CEO retweets from his personal account and \[EA:\] using Hootsuite, schedules the same post in our other media channels: including Facebook: Koor Technologies, Inc., LinkedIn: Koor Technologies, Inc., and LinkedIn:.
 
 ### Sprint Update Video Guidelines
@@ -169,3 +169,7 @@ At the end of each sprint, CEO posts an update to a variety of social media chan
 6. For engineers: front-end features should be shown on production and in mobile view. Back-end features should show code snippets or handbook documentation.
 7. For non-engineers: accomplishments or learnings should be shared rather than that an event took place. e.g. "We trained 5 users and they were able to complete xyz (or had difficulty with abc)" is much better than "we completed a training"
 8. Heads of Departments will include a one-slide update on OKRs on each sprint update
+
+### Recruiting
+
+See [People Ops Recruiting page](../people-ops/recruiting.md).

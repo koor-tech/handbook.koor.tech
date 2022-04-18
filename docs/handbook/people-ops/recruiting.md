@@ -6,7 +6,7 @@ We aim to build a world-class team. This page goes through processes for interna
 
 ## Jobs and boards
 
-We use [Greenhouse][134] to host all jobs and manage our recruiting and interview process. All team members are welcome to participate, and will be asked to play different roles for different positions. Our open jobs are listed on [our website][135].
+We use [Greenhouse](https://app3.greenhouse.io/) to host all jobs and manage our recruiting and interview process. All team members are welcome to participate, and will be asked to play different roles for different positions. Our open jobs are listed on [our website](https://koor.tech/about/).
 
 ## Internal Referral Incentive Program for Software Engineers
 
@@ -49,7 +49,7 @@ For positions reporting to CEO, candidates will speak with multiple team members
 
 ### Engineering Interview Process
 
-Open positions are posted on our [job board][136]. Please apply through there, and your application will be reviewed and responded to. If it appears there's a good potential fit, here's an overview of the steps in our engineering interview process:
+Open positions are posted on our [job board](https://koor.tech). Please apply through there, and your application will be reviewed and responded to. If it appears there's a good potential fit, here's an overview of the steps in our engineering interview process:
 
 1. Initial introduction - 25 minutes with either CEO or Head of Engineering. What we'll go through:
     - High-level meeting call to ensure the candidate and Koor Technologies, Inc. align on job requirements
@@ -59,14 +59,14 @@ Open positions are posted on our [job board][136]. Please apply through there, a
     - What you should expect in the next steps of the hiring process
 2. Coding challenge - 2-3 hour exercise to demonstrate your strengths
 3. Technical interview - 50 minutes with Head of Engineering or appropriate technical resource
-    - Use [this template][137]. Make a copy and fill in the relevant information.
+    - Use [this template](https://docs.google.com/document/d/11SZQBCEpkegel5slpf43d7WSa-kL_E-gqJtfOUzX6dg). Make a copy and fill in the relevant information.
 4. CEO interview - 50 minutes with CEO
 5. Interview panel - Optional - 40 minutes with a representative of each team (engineering, partners, customer success)
 6. References \-- 3-5 references including a manager, a peer, and cross-functional partner
 
 ### UI/UX Designer Interview Process
 
-Open positions are posted on our [job board][136]. Please apply through there, and your application will be reviewed and responded to. If it appears there's a good potential fit, here's an overview of the steps in our engineering interview process:
+Open positions are posted on our [job board](https://koor.tech). Please apply through there, and your application will be reviewed and responded to. If it appears there's a good potential fit, here's an overview of the steps in our engineering interview process:
 
 1. Initial introduction - 25 minutes with either the Product Manager or CEO. What we'll go through:
     - High-level meeting call to ensure the candidate and Koor Technologies, Inc. align on job requirements
@@ -75,23 +75,23 @@ Open positions are posted on our [job board][136]. Please apply through there, a
     - What you are looking for in your ideal role?
     - What you should expect in the next steps of the hiring process
 2. UX team Interview - 40 minutes with a representative of the UX team
-3. Competency based interview - 50 minutes with Product Manager or submission of the [UX Case Study challenge][138]
+3. Competency based interview - 50 minutes with Product Manager or submission of the [UX Case Study challenge](https://docs.google.com/document/d/12DjEmw5NMPLI5KPmeBOkjUhWZsSbxc7vhMJGeAk870Q/edit?usp=sharing)
 4. Interview panel - 40 minutes with a representative of each team (engineering, partners, customer success)
 5. CEO interview - 50 minutes with CEO
 6. References \-- 3-5 references including a manager, a peer, and cross-functional partner
 
 ### Customer Success Manager (CSM) Interview Process
 
-Customer Success Managers are an integral part of the Koor Technologies, Inc. team and a rigorous process is used in the selection process. See our [job posting][139] for details on the position.
+Customer Success Managers are an integral part of the Koor Technologies, Inc. team and a rigorous process is used in the selection process. See our [job posting](https://koor.tech/) for details on the position.
 
-Interview questions template can be found [here][140] (internal to Koor Technologies, Inc.) while these are steps in the process:
+Interview questions template can be found [here](https://docs.google.com/document/d/18EC2BdUXvhzTnXiwL0ZNuo4w8YQ8dr5K-N7UxLf1WP8/edit) (internal to Koor Technologies, Inc.) while these are steps in the process:
 
-1. Use the [CSM Interview Notes][141] docuement for all interviews notes.
+1. Use the [CSM Interview Notes](https://docs.google.com/document/d/1oRk8SeOuqnB24wAOwsUXnkzscyCrq98qdLbwkrQBQWg/edit#heading=h.7zecvmj0myvd) docuement for all interviews notes.
 2. Initial introduction - 25 minutes with Head of Customer Success. This is structured as:
     - High-level meeting call to ensure the candidate and Koor Technologies, Inc. align on job requirements
     - Resume walk through to identify transferable experience
     - What you should expect in the next steps of the hiring process
-3. Technical Interview/Case-Study Exercise - 50 minutes with Head of Customer Success where candidate's technical knowledge of the CSM role will be assessed. The [case study details][142] are provided to candidates that have been shortlisted to this stage.
+3. Technical Interview/Case-Study Exercise - 50 minutes with Head of Customer Success where candidate's technical knowledge of the CSM role will be assessed. The [case study details](https://docs.google.com/document/d/1sA53mOHTJYBy47w4Fnef7S8zDdxy12Nio_y3PMPysK0/edit) are provided to candidates that have been shortlisted to this stage.
 4. Product/Engineering
     - Technical assessment for non-engineers
     - 50 minutes with the Head of Product/Head of Engineering or representative. The candidates application experience and knowledge will be assessed in this session
@@ -102,9 +102,9 @@ Interview questions template can be found [here][140] (internal to Koor Technolo
 
 ### Head of Product Interview Process
 
-We are looking for a strategic leader to bring our product to the next level. See our [job posting][143] for details on the position. Here are the steps in the process:
+We are looking for a strategic leader to bring our product to the next level. See our [job posting](https://koor.tech/#head-of-product) for details on the position. Here are the steps in the process:
 
-1. Use the [Head of Product Interview Notes][144] docuement for all interviews notes.
+1. Use the [Head of Product Interview Notes](https://docs.google.com/document/d/1qZ92OYD8_uOfS8GleXRcii-KjnZbHsyZD1SoG4NC10A/edit#heading=h.j515o6wnks9j) docuement for all interviews notes.
 2. Introductory conversation(s) with CEO or recruiting representative. Get to know the company, CEO, and determine if there's a reasonable overall alignment of interest and experience. 25 minutes.
 3. Interview with CEO. Go in-depth to your background and experiences. 50 minutes.
 4. Panel interviews. Meet some of your potential peers on the leadership team. Technical & Customer management. 50 minutes each.
@@ -115,7 +115,7 @@ We are looking for a strategic leader to bring our product to the next level. Se
 
 ### CEO Interview
 
-Before your CEO interview, please be sure to have watched our most recent [sprint update][145]. The CEO interview tends to be fast-paced and values succinct answers. There's a lot to get through in a short amount of time, and the best interviews allow for follow up questions on your initial responses. Here are the some of the questions that will likely be asked:
+Before your CEO interview, please be sure to have watched our most recent [sprint update](https://youtube.com/channel/UCALY7l5iisNVrEyvLgQa3ig/playlists?view_as=subscriber). The CEO interview tends to be fast-paced and values succinct answers. There's a lot to get through in a short amount of time, and the best interviews allow for follow up questions on your initial responses. Here are the some of the questions that will likely be asked:
 
 1. How would you introduce Koor Technologies, Inc. to a new prospective customer, colleague, or friend?
 2. Will you walk me through your resume?
@@ -143,7 +143,7 @@ Here are some tips on how to have a good interview with the CEO:
 
 Some candidates will be required to meet with our investor. Before sending interview invitations, it's important to prepare a summary doc with relevant information. The interview doc is internal and should **not** be shared with the candidate.
 
-**Note for Candidates** We recommend you prepare for your conversation with the Koor Technologies, Inc. Investor. You can browse the [GitLab CEO Handbook page][146] and in particular review the [pointers from his direct reports][147] and context on [how he conducts interviews][148].
+**Note for Candidates** We recommend you prepare for your conversation with the Koor Technologies, Inc. Investor. You can browse the [GitLab CEO Handbook page](https://about.gitlab.com/handbook/ceo/) and in particular review the [pointers from his direct reports](https://about.gitlab.com/handbook/ceo/#pointers-from-ceo-direct-reports) and context on [how he conducts interviews](https://about.gitlab.com/handbook/ceo/#interviewing-and-conducting-meetings).
 
 Our advice on how to interview with our CEO also applies.
 
@@ -171,29 +171,29 @@ Here are frequently asked questions and our answers:
     1. We're committed to being an all-remote company with no offices. We think this yields better results: it will build a culturally diverse workforce necessary to operate in cities around the world, offers great advantages to employees like control over personal time and no commute, and is much more productive than semi-remote environments that disadvantage remote employees over those at headquarters.
     2. This does take an investment in the process to make work, for example: good hygiene around documented communications, a handbook that's operationally useful and gets contribution from the whole company, and team social chats \-- agendaless meetings just for socializing. These are good practices anyway, but many companies don't invest sufficiently because so much of their process evolves informally.
 3. How many teammates are you?
-    1. Our current team is listed on our [website][135]
+    1. Our current team is listed on our [website](https://koor.tech/about/)
 4. What's your value proposition?
     1. For cities, we help them attract and build relationships with residents, deliver and improve municipal services, and have an innovative and cost-efficient software infrastructure.
     2. For residents, we provide access to all city services in one place and a way to give feedback and be heard. We expect this to build strong communities and better places to live.
 5. What's the compensation range?
-    1. We aim to pay at the 50th percentile of the local market in which we're hiring. We factor in the role, seniority, and location. Your exact compensation amount will be based on your experience level and market conditions. Note that we do not offer options/equity at this time. Some references we use to calibrate on market rates are reports from the [Birches Group][149], [Payscale.com][150], [Glass Door][151], [Salary.com][152], and [Blind][153].
+    1. We aim to pay at the 50th percentile of the local market in which we're hiring. We factor in the role, seniority, and location. Your exact compensation amount will be based on your experience level and market conditions. Note that we do not offer options/equity at this time. Some references we use to calibrate on market rates are reports from the [Birches Group](https://birchesgroup.com/), [Payscale.com](https://payscale.com/), [Glass Door](https://glassdoor.com/), [Salary.com](https://salary.com/), and [Blind](https://teamblind.com/).
 6. Why don't you offer options/equity?
     1. We view this as a huge opportunity, but one that will take a while to mature. We envision a product with a large footprint and know that cities take a while to decide on and adopt new technology. This kind of opportunity better suits a visionary investor than a traditional venture capitalist. We're therefore structured as a sole-proprietorship LLC and our aim is to demonstrate product-market fit and a clear roadmap that warrants larger investment from outside investors. When we achieve this we will reconsider distributing equity to employees.
 7. Have you specified growth targets and timelines? How well are you doing against those goals?
-    1. Please see details on our [goals page][154]
-    2. Please see progress against top-line goals from our latest "Progress Update" from our [YouTube Playlists][155].
+    1. Please see details on our [goals page](https://handbook.koor.tech/company/goals/#company-goal)
+    2. Please see progress against top-line goals from our latest "Progress Update" from our [YouTube Playlists](https://youtube.com/channel/UCALY7l5iisNVrEyvLgQa3ig/playlists).
 8. Is there a defined process that will guide how customers will transition from the current partnership status to revenue generating status?
-    1. Our plan is to grow revenue along with our partner cities' revenue. This aligns our incentives with the theirs: to create economic growth. As an end-to-end platform ([see vision here][156]) there are many opportunities to monetize. We work with our partners to consider the best approach for them, and have explored transactions, revenue share, and monthly fees based on population.
+    1. Our plan is to grow revenue along with our partner cities' revenue. This aligns our incentives with the theirs: to create economic growth. As an end-to-end platform ([see vision here](https://docs.google.com/presentation/d/1c-Ci9QVSc-H0vwtelS0mL4Ka5v2kbzr-1BfOSfLp4d4/edit#slide=id.g5137e6e1a9_0_244)) there are many opportunities to monetize. We work with our partners to consider the best approach for them, and have explored transactions, revenue share, and monthly fees based on population.
 
 ## Tips for a successful interview
 
-**Test your tech in advance** There's nothing worse than having technical difficulties during an important call. That's why it is important to get familiar with [Zoom][119] before your interview.
+**Test your tech in advance** There's nothing worse than having technical difficulties during an important call. That's why it is important to get familiar with [Zoom](https://zoom.us/) before your interview.
 
-- To begin, download the app to your phone or desktop ahead of time. If you've never used Zoom before, familiarize yourself with the quick start-up guide for new users. See [bandwidth requirements][157]
+- To begin, download the app to your phone or desktop ahead of time. If you've never used Zoom before, familiarize yourself with the quick start-up guide for new users. See [bandwidth requirements](https://support.zoom.us/hc/en-us/articles/201362023-System-requirements-for-Windows-macOS-and-Linux)
 
 - Once you have downloaded the Zoom app, take a moment to start your own private meeting to get familiar with the interface and features.
 - You can take your test one step further by recording yourself and watching it to find areas of improvement.
-- Ensure that you have a stable internet connection. Use an ethernet cable if necessary. You can check your bandwidth through [SpeedTest][158] or [Bandwidth Place][159]
+- Ensure that you have a stable internet connection. Use an ethernet cable if necessary. You can check your bandwidth through [SpeedTest](https://speedtest.net/) or [Bandwidth Place](https://bandwidthplace.com/)
 
 - Test out your sound. Use headphones to hear clearly and to block outside noise.
 
@@ -209,15 +209,15 @@ We would like to talk with a current or former colleague from each of these cate
 4. Someone you've supervised, if you're applying for a management position
 5. Someone else of your choosing
 
-We encourage you to share people who have worked with you closely and know your capabilities well. We also encourage you to ask them to be candid so we can get to understand who you are and what you can bring to the team. We have a [reference script][160] that we use, but do not share in advance because we want candid and spontaneous responses.
+We encourage you to share people who have worked with you closely and know your capabilities well. We also encourage you to ask them to be candid so we can get to understand who you are and what you can bring to the team. We have a [reference script](https://docs.google.com/document/d/1xNIPigVRPgoZZX5fkLvsBY9Dgt77za6pgyIunz33PVs/edit#heading=h.hh2zfqnu4rt) that we use, but do not share in advance because we want candid and spontaneous responses.
 
 ## Offer
 
-Offers should be delivered verbally, then with an email attaching a signed [Offer Letter][161], and then with a legal contract. Some team members join us through an agency, in which case the details are worked out in the conversation with their agency. For independent, full-time team members, use this [offer template and script][162].
+Offers should be delivered verbally, then with an email attaching a signed [Offer Letter](https://docs.google.com/document/d/1Amc2qu1UceRi_IKii6ThCQnEWqDDRO7Iz4I7Cl97Zj8/edit), and then with a legal contract. Some team members join us through an agency, in which case the details are worked out in the conversation with their agency. For independent, full-time team members, use this [offer template and script](https://docs.google.com/document/d/1ph51ZB_Cg1p3gkK47I_yBmQ1yEG_cVcwjtHGYdlTC8Y/edit).
 
 ## US Based Consultants
 
-When retaining the services of a U.S. based consultant, please use the following [Consulting Agreement][163]
+When retaining the services of a U.S. based consultant, please use the following [Consulting Agreement](https://docs.google.com/document/d/108h0ksfFGc0J6u2MvDLJG9-hpR3W_LcJ6X-XBGInVSw/edit)
 
 Follow these steps to fill in the Consulting Agreement:
 
@@ -245,7 +245,7 @@ Follow these steps to fill in the Consulting Agreement:
 11. Email peopleops@koor.tech to inform them to set up the consultant with a 1099.
 12. Save the executed copy of the Agreement to our Shared Drive for contracts. (Ask CEO for link.)
 
-***After our annual*** ***[360 Performance Review][164], each Head Team should update their team's Job Description to represent each member's actual role accurately.***
+***After our annual*** ***[360 Performance Review](https://handbook.koor.tech/people-group/360-feedback/), each Head Team should update their team's Job Description to represent each member's actual role accurately.***
 
 ## Executive Assistant
 

@@ -4,7 +4,7 @@ title: Email Addresses
 
 ## Group Emails
 
-We currently use Google Workspace for Emails and Group Emails.
+We use Google Workspace for company emailing and group emails.
 
 * `accounting@koor.tech`
     * Description: Accounting

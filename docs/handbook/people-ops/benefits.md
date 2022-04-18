@@ -6,7 +6,7 @@ In this section, we describe what we offer to our Team Members; our default poli
 
 Koor Technologies, Inc. covers 100% for team members and 66% for dependent of the Health Plan Premium monthly costs.
 
-- US-based team members can select their benefits through [Gusto][43]
+- US-based team members can select their benefits through [Gusto](https://gusto.com/)
     - Your internet bill
     - Your cell phone bill
     - Any other recurring expenses that are aligned with our policies.

@@ -4,7 +4,7 @@ title: Investors/Fundraising
 
 ### Elevator Pitch
 
-Koor Technologies, Inc. is building an end-to-end platform for new cities to connect with residents, accelerate growth, and deliver responsive public services. We have a [one-minute pitch][75] available on our YouTube channel and [a company overview deck here][76]. The key points to convey when first introducing our story are:
+Koor Technologies, Inc. is building an end-to-end platform for new cities to connect with residents, accelerate growth, and deliver responsive public services. We have a [one-minute pitch](https://www.youtube.com/watch?v=ahTyhj7K9Hc) available on our YouTube channel and [a company overview deck here](https://docs.google.com/presentation/d/1c-Ci9QVSc-H0vwtelS0mL4Ka5v2kbzr-1BfOSfLp4d4/edit). The key points to convey when first introducing our story are:
 
 1. Cities are economic engines and the biggest drivers of access to high quality of life.
 2. There are too few great places to live, and restrictive national policies make them inaccessible to most people.
@@ -15,24 +15,24 @@ Koor Technologies, Inc. is building an end-to-end platform for new cities to con
 
 Our Elevator Pitch:
 
-Our **Overview Deck** is linked [on our website][77]
+Our **Overview Deck** is linked [on our website](https://koor.tech/about). TODO create overview deck
 
 ### Investor materials
 
-Answers to common investor questions are available in our [accelerator pitch responses][78] (team members only).
+Answers to common investor questions are available in our [accelerator pitch responses](https://docs.google.com/document/d/1Q92NxVX7Ymdc3kbq1CzZuzXtogbZyuAjUMoJ__K7GmU/edit) (team members only).
 
 ### Product demo
 
-- We have a [product demo][79] available.
-- Our [Product demo script][80] is available for anyone that wants to record or update our product demo (team members only)
+- We have a [product demo](https://www.youtube.com/watch?v=ucCIBSxNUjc) available.
+- Our [Product demo script](https://docs.google.com/document/d/15oT0Xn61Pq69uDFWt2B4XyQwI2RwnvlvlWXn23wufHM/edit) is available for anyone that wants to record or update our product demo (team members only)
 
 ## About Koor Technologies, Inc.
 
 ### Values
 
-By default, we will adopt the values from [GitLab][81], who has them well documented in their [Handbook][82]. GitLab has built a great all-remote company and their handbook provides a template for many of the processes and practices we aspire to. (In addition, GitLab's CEO is the founding investor of Koor Technologies, Inc.). Therefore, we leverage their work by default and then adapt or modify it when we find that other approaches work better in our context.
+By default, we will adopt the values from [GitLab](https://gitlab.com/), who has them well documented in their [Handbook](https://about.gitlab.com/handbook/). GitLab has built a great all-remote company and their handbook provides a template for many of the processes and practices we aspire to. (In addition, GitLab's CEO is the founding investor of Koor Technologies, Inc.). Therefore, we leverage their work by default and then adapt or modify it when we find that other approaches work better in our context.
 
-One starting place we've leveraged their work is in [Values][83]. They highlight these six:
+One starting place we've leveraged their work is in [Values](https://about.gitlab.com/handbook/values/). They highlight these six:
 
 - Collaboration
 - Results
@@ -81,7 +81,7 @@ One of the GitLab sub-values that we most want to highlight for ourselves is to 
 
 Another sub-value that we find particularly interesting is Gitlab's **bias toward asynchronous communication** within diversity and inclusion. This seems somewhat unusual in the context of D&I, but it in fact is an important practice to allow people who are in different timezones, or who prefer to work their own hours, to contribute effectively. It helps build a global culture, people working in different timezones, or people having control over their own working time within the day. And that there's not inadvertently an advantage for being based in one country or region.
 
-We also agree with the importance that GitLab places on avoiding unfriendly comments about characteristics of people in order to help [foster a safe community][84] for all.
+We also agree with the importance that GitLab places on avoiding unfriendly comments about characteristics of people in order to help [foster a safe community](https://about.gitlab.com/handbook/values/#building-a-safe-community) for all.
 
 We aim open-mindedness and pragmatism over ideology.
 
@@ -104,9 +104,9 @@ Iteration is also important in how we think of our "handbook-first" processes. W
 
 *Trustworthiness* is actually the higher goal here. Transparency helps to build trust. We are public by default, which fosters accountability, allows people to repeat what they've heard, enforces consistency of message among different stakeholders (and helps rein in the instinct to tailor our communications so that our audience hears what they want to hear \-- a practice that would be very inefficient in an all-remote company where it may take 24 hours before you talk with that person again.)
 
-- We also must be careful not to share sensitive material, as confidentiality is also important toward building trust. We follow Gitlab's guidelines for [not public][10] and [limited access][11] information.
+- We also must be careful not to share sensitive material, as confidentiality is also important toward building trust. We follow Gitlab's guidelines for [not public](https://about.gitlab.com/handbook/communication/#not-public) and [limited access](https://about.gitlab.com/handbook/communication/#limited-access) information.
 
-We like their articulation of "[[disagree, commit, and disagree (again)]{.underline}][85]" and think it's a nice extension of the more common idea of "disagree and commit." The key insight here is that one can be working to achieve results, even while aiming to reverse a previous decision that was made. However, to reverse a previous decision it's also expected to bring new information or perspective and to assume that the original decision was made with positive intent.
+We like their articulation of "[[disagree, commit, and disagree (again)]{.underline}](https://about.gitlab.com/handbook/values/#disagree-commit-and-disagree)" and think it's a nice extension of the more common idea of "disagree and commit." The key insight here is that one can be working to achieve results, even while aiming to reverse a previous decision that was made. However, to reverse a previous decision it's also expected to bring new information or perspective and to assume that the original decision was made with positive intent.
 
 ### Practices Associated with Specific Values
 
