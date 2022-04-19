@@ -247,9 +247,11 @@ Follow these steps to fill in the Consulting Agreement:
 
 ***After our annual*** ***[360 Performance Review](https://handbook.koor.tech/people-group/360-feedback/), each Head Team should update their team's Job Description to represent each member's actual role accurately.***
 
-## Executive Assistant
+## Roles
 
-### Description
+### Cloud Storage Engineer
+
+#### Description
 
 - Calendar management for the CEO and executive team as needed. Includes coordinating schedules over multiple time zones.
 - Meeting facilitation and preparation, including Zoom, phone and web conference calls
@@ -273,219 +275,27 @@ Follow these steps to fill in the Consulting Agreement:
 - Perform other duties as assigned by the supervisor
 - Share with everyone in the company using the @general Slack channel a monthly update of all-company operational KPI metrics.
 
-### Requirements
+#### Requirements
 
-- Bachelor's degree
 - Use English as primary work language
-- Minimum of 5 years' experience as an Executive Assistant and/or Project Coordinator
+- Minimum of 3 years' experience as an Engineer working with Ceph
 - Experience working in a remote environment is a plus
 - Advanced G-Suite, MS Suite experience, and travel management required
 - Experience supporting multiple managers with calendar management, travel arrangements, scheduling of meetings and events
 - Experience working with executives, senior managers, and subject matter experts
 - Experience working with international remote teams
 - Cultural sensitivity to be able to work well with people from all over the world
-- Understanding of commercial tax law (employment, tax law filing, etc.)
-- Proficiency with the Microsoft Office suite (Word, Excel, Outlook, and PowerPoint) and 1Password, G-Suite, and Dropbox.
+- Proficiency with the Google Suite/Workspace, 1Password, and GitHub.
 - Legal and tax experience is highly sought after
 - Ability to work extended hours as needed
 - Proven track record of providing high-end support
 
-## Head of Engineering
+### CEO
 
-### Description
+#### Description
 
-The Founding Head of Engineering at Koor Technologies, Inc. will lead the full lifecycle of our product development from inception to its first active users and beyond. They will lay the technical foundations for how cities will manage security and privacy, connect with their residents and stakeholders, administer modern and accountable services, and connect with a broader software ecosystem. Just as importantly, they will create our engineering culture and organization: they will determine the skills we need and recruit an innovative and distributed team to join, develop our standards and processes, drive our goals and results. We expect this leader to operate as a player / coach - contributing great code and setting standards while helping others meet a high quality bar. They will lead our formative product group, grow and evolve rapidly, and be expected to take on senior management responsibilities as they become necessary.
+- TODO
 
-### Requirements
+#### Requirements
 
-- Technical credibility based on past development work (including security work)
-- Experience building a complex, multi-stakeholder product
-- Excellent written and verbal communication skills
-- Ability to build a team quickly and recruit top talent
-- Strong customer orientation and management philosophy
-- Knowledge of agile project management techniques and best practices
-- Demonstrated track record of success at multiple organizations
-- Experience working remote, managing remotely, and/or working with remote offices
-- Expertise in Ruby and React and numerous other technologies in a standard SaaS stack
-- 10+ years of work experience
-
-## Full Stack Engineer
-
-### Description
-
-- Compile and analyze data, processes, and codes to troubleshoot problems and identify areas for improvement.
-- Collaborate with team members to establish objectives and design more scalable, cohesive code to enhance the user experience.
-- Develop back end website applications.
-- Design and develop APIs.
-- Develop front end website architecture.
-- Design user interactions on web pages.
-- Work alongside production managers and designers for web features.
-- See a project through from conception to completion.
-- Participate in continuing education and training to remain current on best practices, learn new programming languages, and better assist other team members.
-- Write tests and set code standards
-- Manage our tech stack, based on Ruby/Rails, Javascript/React, Postgres, Redis, and Heroku
-- Reports to the Head of Engineering
-
-### Requirements
-
-- 5+ years of work experience as a software engineer
-- Experience in developing Blockchain application is preferred
-- Experience in City management is preferred
-- Experience building and deploying high-capacity applications in cloud environments (AWS or Heroku)
-- Fluency in Ruby and Javascript, and familiarity with other languages such as Java, PHP, or Python.
-- Experience with SQL, Postgres, Redis, Elasticsearch and or Redshift, CodeBuild & CodeDeploy, Lambda, S3, API Gateway, Unix command-line navigation, Git / \[insert Gitlab/GitHub\]
-- Focus on efficiency, user experience, and process improvement.
-- Ability to work well with geographically distributed teams as well as highly collaborative environments.
-- Strong problem solving, verbal and written communication skills, and comfort with ambiguity.
-- Believer in Test Driven Development and Continuous Integration
-
-## User Interface Designer
-
-### Description
-
-Experienced and talented UI designer to design and shape unique, user-centric products and experiences. The ideal candidate will have experience working in agile teams, with developers, with customers, and with product management. You will be able to make deliberate design decisions and to translate any given user-experience journey into a smooth and intuitive interaction, and to design functional and attractive screens for engineering.
-
-### Responsibilities
-
-- Be a great team player, experienced in working with agile teams.
-- Ability to collaborate closely with developers, copywriters and UX designers.
-- Create, improve and use wireframes, prototypes, style guides, user flows, and effectively communicate your interaction ideas using any of these methods.
-- Present and articulate your design decisions.
-- All your design decisions should be based on the overall design roadmap as well as your own design thinking and fundamental principles (i.e. color theory, visual weight, etc.)
-- Continually keep yourself and updated with the latest changes in industry standards.
-
-### Requirements
-
-- Three or more years of experience and proven track record.
-- Strong portfolio to be presented during interview.
-- Hands-on experience creating wireframes, prototypes, storyboards, user flows, etc.
-- Experience using tools such as Photoshop, Sketch, Illustrator, InVision, UXPin, Quartz.
-- Understanding of basic front-end languages: HTML5, CSS3 Javascript.
-- Creative ideas with problem solving mindset.
-- Experience working in an agile/scrum development process.
-- Be open to receiving objective criticism and improving upon it.
-
-## Head of Customer Success
-
-The Head of Customer Success will lead the implementation with our customers (city administrators), crafting a joint strategy to help them grow with our platform. They will set strategic goals for our CS organization, manage the team that drives user adoption, and run our support operations. Reporting to the CEO, they will have an instrumental role in setting company direction, providing feedback and insights to product and engineering teams, and helping us bring on new customers. They must have good relationship savvy and business acumen, excellent written and verbal communication skills, familiarity with SaaS software deployments, and an orientation toward action consistent with values-driven leadership.
-
-### Description
-
-- Drive customer outcomes, often amid ambiguous situations
-- Grow relationships with customers' management teams
-- Work with customer to set strategic goals and priorities that align with ours
-- Advocate adoption of our platform with customers and their constituencies
-- Run customer service and support operations
-- Provide actionable insights both to customer and to other Koor Technologies, Inc. teams
-- Lead Customer Success team, develop its members, and grow it as we scale
-
-### Requirements
-
-- 5+ years leading customer-facing teams
-- Technical proficiency with a range of SaaS platforms
-- Demonstrated success in managing a team to outcomes
-- Experience in sales or account management
-- Strong analytical skills and ability to leverage data to inform decisions
-- Understanding of training, support, and/or operations management
-- Experience working in an international organization
-- Ability to attract and retain talent
-- Empathy, humility and listening skills
-
-## Customer Success Manager
-
-### Description
-
-The Koor Technologies, Inc. Customer Success Manager is responsible for increasing user adoption in a customer community and ensuring users achieve their goals. They become a trusted advisor and representative of our customer, helping them to utilize our software and helping our product team understand how to improve the platform to better meet customer needs. They develop meaningful relationships both with residents and community members as well as city users and managers to understand and articulate goals, train people on how our software helps them, and ensure increased adoption and smooth customer operations. This is a vital role to the success of our community and a key influencer in shaping our product.
-
-### Responsibilities
-
-- Training and rollout of new features
-- Define user and stakeholder goals and plans
-- Establish a regular communication cadence with key account stakeholders
-- Collect user and stakeholder feedback and share in a structured way with product team
-- Proactively monitor and report on health of customer operations
-- Provide customer support and troubleshooting when issues arise
-- Participate in quarterly business reviews with customer and product teams
-
-### Requirements
-
-- 5+ years of work experience
-- Excellent verbal and written communication skills
-- Proactive mindset, looking for ways to improve and willing to advocate on behalf of users
-- Demonstrated persistent patience in dealing with customers
-- Able to quickly understand our application and relate it to user experience
-- BA degree expected
-- Experience with training or teaching a plus
-- Familiarity with Google Docs, Sheets, and Slides; Slack and Asana is required
-- Familiarity with other SaaS software for CRM, ERP, security, or finance is a plus
-
-## Product Manager
-
-### Description
-
-The Product Manager is responsible for product planning and execution throughout the Product Life Cycle. They will work with a wide range of external stakeholders including city leaders, administrative staff, pioneering residents, and prospective homeowners to build a product that becomes a centerpiece to grow new city communities. They must identify and articulate needs among these groups that will be the basis of a product that's in high demand and active use. They will work closely with Koor Technologies, Inc.'s engineering, customer success and partnerships teams to define the product vision and prioritize needs. They will employ creative product and process solutions to help us grow our weekly active users week over week. They'll work with the CEO to ensure the product aligns with the company's overall vision and strategy.
-
-### Requirements
-
-- Prior experience as a Product Manager
-- Demonstrated success defining and launching excellent products
-- Excellent written and verbal communication skills
-- Excellent teamwork skills
-- Technical background
-- Bachelor's degree
-- Ability to locate at new client sites for several weeks at a time
-- 8+ years of work experience
-
-### Nice-to-have
-
-- Prior experience working in city innovation projects
-- Work in a startup companies
-- Building enterprise products
-- Managing global teams
-- Familiarity with open source projects
-
-### Role Update
-
-- Synthesize learnings from users, CSMs, and sales prospects into "stories" and epics that are easily understood and actionable by design and engineering
-- Drive sales by uncovering prospects' needs, articulating value propositions, and devising modular approaches that allow us to get a foot in the door and grow
-- Contextualize stories with examples of other products that solve similar problems so that we can assess common paradigms and avoid reinventing the wheel
-- Prioritize and features and epics into a product roadmap that lets software provide leverage on other team's work to achieve strategic goals
-- Measure adoption and usage of product through analytics and other means to evaluate what's working well and where we can improve or retire features
-- Design processes that allow a global team to efficiently communicate and synthesize learnings, and to understand how the product has evolved and what's planned to come
-- Customer Needs, Partner Needs, Training and Adoption
-
-## Head of Strategic Partnerships
-
-Responsible both for contributing within your role and helping to build and improve our processes and culture across the company. The direct goal will be to sign partnership agreements with new city partners, growing Koor Technologies, Inc.'s projected revenue.
-
-### Responsibilities 
-
-- Sign deals with new cities who will good strategic partners for Koor Technologies, Inc.
-- Refine and articulate value propositions and qualities that will lead to good partnerships
-- Build a pipeline of city developers interested in partnering
-- Cultivate relationships with city developers, special economic zones, and think tanks
-- Manage an account from early interest to a signed deal
-- Promote Koor Technologies, Inc. as a thought leader in the new city market
-- Share insights, feedback, and processes that help us improve
-- Lead the company and help build culture of effective global asynchronous teamwork
-- Grow revenue
-
-## CEO
-
-### Responsibilities
-
-- Provide inspired leadership company-wide.
-- Make high-level decisions about policy and strategy.
-- Report to the investor (board of directors) and keep them informed.
-- Develop and implement operational policies and a strategic plan.
-- Act as the primary spokesperson for the company.
-- Develop the company's culture and overall company vision.
-- Help with recruiting new staff members when necessary.
-- Create an environment that promotes great performance and positive morale.
-- Oversee the company's fiscal activity, including budgeting, reporting, and auditing.
-- Work with senior stakeholders, chief financial officer, chief information officer, and other executives.
-- Assure all legal and regulatory documents are filed and monitor compliance with laws and regulations.
-- Work with the executive board to determine values and mission, and plan for short and long-term goals.
-- Identify and address problems and opportunities for the company.
-- Build partnerships and alliances with other organizations.
-- Oversee the day-to-day operation of the company.
+- TODO
