@@ -280,7 +280,7 @@ Follow these steps to fill in the Consulting Agreement:
 - Use English as primary work language
 - Minimum of 3 years' experience as an Engineer working with Ceph
 - Experience working in a remote environment is a plus
-- Advanced G-Suite, MS Suite experience, and travel management required
+- Advanced G-Suite, and travel management required
 - Experience supporting multiple managers with calendar management, travel arrangements, scheduling of meetings and events
 - Experience working with executives, senior managers, and subject matter experts
 - Experience working with international remote teams

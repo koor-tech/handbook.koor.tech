@@ -1,9 +1,9 @@
-site_name: Koor Technologies, Inc. Internal Documentation
-site_url: 'https://internal.koor.tech'
-repo_url: https://github.com/koor-tech/int-docs.koor.tech
+site_name: Koor Technologies, Inc. Handbook
+site_url: 'https://handbook.koor.tech'
+repo_url: https://github.com/koor-tech/handbook.koor.tech
 edit_uri: edit/main/docs/
 site_author: Koor Technologies, Inc. Team
-site_description: "Koor Technologies, Inc. Company Documentation and Handbook inspired by GitLab's open handbook."
+site_description: "Koor Technologies, Inc. Company Handbook inspired by GitLab's open handbook."
 use_directory_urls: true
 #copyright: ''
 theme:

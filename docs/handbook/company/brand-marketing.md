@@ -47,27 +47,13 @@ Koor Technologies, Inc. succeeds by accelerating growth and delivering responsiv
 
 ### Koor Technologies, Inc. Marketing Audiences
 
-### City builders
+#### Businesses using Rook Ceph
 
-- Description: Governments, entrepreneurs, and organizations that are building self-stylized new cities of the future.
+- Description: TODO
 - Marketing Style: Typically are curious about master/urban planning, egovernance/digital public services, current economic and legal reform (ie SEZs/Charter cities), methods for acquiring and selling land, equity and debt issuances, and attracting anchor tenants (pioneering residents and businesses). *Data-driven, urbanization-focused, 'wonkish', contrarian, visionary*
 - Examples: Blog post on common challenges at differing stages of city development, twitter posts with an urbanization graph
 - Pre-Koor Technologies, Inc. Software Vendors: A suite of software products, not fit for purpose, poorly connected, and not designed for emerging markets
 - Goal: Marketing Qualified Leads (MQLs)
-
-### Property/Real-estate Developers
-
-- Description: Residential or multi-use property developers that are building within new cities, or at a large enough scale to be full communities on their own.
-- Marketing Style: Interested in how they can differentiate their real-estate offerings in order to attract buyers/tenants. Are looking to cut costs, shorten timelines, and increase revenue in order to increase their Return on Investment "ROI" and meet/exceed their Internal Rate of Return "IRR" on their initial investment \_Industry-relevant, differentiating, return-focused, efficient, profit-maximizing
-- Current software vendors: Property Management software not designed for large mixed-use developments nor emerging markets
-- Goal: Marketing Qualified Leads (MQLs)
-
-### Pioneer Residents
-
-- Description: Citizens who would be interested in buying land and/or moving into a new community. Knowledge Workers, Job Seekers, Retail Real Estate Investors. We hypothesize that land purchasers are typically upper-middle-class residents of a nearby city or members of the diaspora looking for investment opportunities. Initial residents are either choosing so for job reasons (eg move closer to work) or for consumption reasons (ie moving for a better quality of life).
-- Marketing Style: Interested in investment opportunities and where are new great places to live, work, and play. *Accessible, return-oriented, visionary, amenity-focused, community-centric*
-- Example: Blog post on investing in new cities, sharing information about internet speeds & coworking/coliving areas
-- Goal: Population of Koor Technologies, Inc. Supported Cities
 
 ### Outbound Marketing
 
