@@ -9,8 +9,8 @@ use_directory_urls: true
 theme:
   name: material
   font: false
-  favicon: images/favicon.png
-  logo: images/logo.png
+  favicon: images/favicon.svg
+  logo: images/logo.svg
   palette:
     scheme: 'default'
   icon:
