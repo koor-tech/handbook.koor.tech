@@ -4,6 +4,9 @@ title: People Ops
 
 ### Directly responsible individuals
 
+!!! todo
+    Find DRI contacts #TODO
+
 At Koor Technologies, Inc. we use the concept of directly responsible individuals (DRIs), a person who is singularly responsible for a given aspect of the open source project, the product, or the company. This person is responsible for accomplishing goals and making decisions about a particular aspect of Koor Technologies, Inc. DRIs help us collaborate efficiently by knowing exactly who is responsible, and can make decisions about the work they're doing.
 
 | Aspect                                                         | DRI                      |
@@ -44,16 +47,16 @@ Most of the team at Koor Technologies, Inc. use 16" MacBook Pros, but team membe
 
 When selecting your new laptop, we ask that you optimize your configuration to have a large hard drive and be available for delivery or pickup quickly, without waiting for customization.
 
-When a device has been purchased, it's added to the [spreadsheet of company equipment](https://docs.google.com/spreadsheets/d/1hFlymLlRWIaWeVh14IRz03yE-ytBLfUaqVz0VVmmoGI/edit#gid=0) where we keep track of devices and equipment purchased by Koor Technologies, Inc. When the team member receives their computer, they will complete the entry by adding a description, model, and serial number to the spreadsheet.
+When a device has been purchased, it's added to the [spreadsheet of company equipment](https://docs.google.com/spreadsheets/d/11vb66ffv9oVP0ogA9SHnxPQ3-_eDfE8c/edit) where we keep track of devices and equipment purchased by Koor Technologies, Inc. When the team member receives their computer, they will complete the entry by adding a description, model, and serial number to the spreadsheet.
 
-You need to have a good workstation to work from home to be a productive contributor at Koor Technologies, Inc. Full-time teammates may use company money to purchase [office equipment and supplies](https://about.gitlab.com/handbook/spending-company-money/#office-equipment-and-supplies), as they do at GitLab. (Part time teammates or contractors should ask their manager before making purchases.) We mostly follow the guidelines described in their policies, though one important distinction is that within Koor Technologies, Inc., purchases exceeding $500 USD are company property and required to be tracked in the [Employee Equipment - Fixed Asset Tracking sheet](https://docs.google.com/spreadsheets/d/1QCesUFmXBiuTcgf2UI5jnc7M4QjqwpcoMhw8rXaGgGs/edit?usp=sharing). There's a link below that provides details on reasonable prices for items on the list, and look at our [finance page](../finance.md#invoice-submissions) for instructions on how to file expenses.
+You need to have a good workstation to work from home to be a productive contributor at Koor Technologies, Inc. Full-time teammates may use company money to purchase [office equipment and supplies](https://about.gitlab.com/handbook/spending-company-money/#office-equipment-and-supplies), as they do at GitLab. (Part time teammates or contractors should ask their manager before making purchases.) We mostly follow the guidelines described in their policies, though one important distinction is that within Koor Technologies, Inc., purchases exceeding $500 USD are company property and required to be tracked in the [Employee Equipment - Fixed Asset Tracking sheet](https://docs.google.com/spreadsheets/d/11vb66ffv9oVP0ogA9SHnxPQ3-_eDfE8c/edit). There's a link below that provides details on reasonable prices for items on the list, and look at our [finance page](../finance.md#invoice-submissions) for instructions on how to file expenses.
 
 #### Required setup
 
 The following setup is required for all teammates:
 
-- Computer \-- see [laptop purchase and setup](https://about.gitlab.com/handbook/business-ops/it-ops-team/#laptops) from GitLab. We recommend [Apple MacBook Pro 14", 512 GB](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-space-gray-8-core-cpu-14-core-gpu-512gb) for non-engineers and [Apple MacBook Pro 16"](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-10-core-cpu-32-core-gpu-1tb) for engineers. Team members may refresh their laptop every 36 months. Please submit your Apple purchase request to \[Add Company Name Here\] ***If you're new to Macbook, please visit our*** ***[Knowledge Management](knowledge-training-and-development.md#knowledge-management) page in the handbook to learn the new operating system***.
-- [Camera](https://www.logitech.com/en-us/products/webcams/c920s-pro-hd-webcam.960-001257.html?crid=1865) for videoconferences
+- Computer \-- see [laptop purchase and setup](https://about.gitlab.com/handbook/business-ops/it-ops-team/#laptops) from GitLab. We recommend [Lenovo ThinkPad P14s Gen 2 (AMD)](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadp/p14s-amd-g2/22wsp144sa2), [Apple MacBook Pro 14", 512 GB](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-space-gray-8-core-cpu-14-core-gpu-512gb) for non-engineers and [Apple MacBook Pro 16"](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-10-core-cpu-32-core-gpu-1tb) for engineers. Team members may refresh their laptop every 36 months. Please submit your Apple purchase request to to the [PeopleOps Team](mailto:peopleops@koor.tech) ***If you're new to Macbook, please visit our*** ***[Knowledge Management](knowledge-training-and-development.md#knowledge-management) page in the handbook to learn the new operating system***.
+- [Camera](https://www.logitech.com/en-us/products/webcams/c920s-pro-hd-webcam.960-001257.html?crid=1865) for video conferences
 - [Light](https://www.amazon.com/Webcam-Light-Stream-Selfie-Logitech/dp/B07G379ZBH/ref=sr_1_11?dchild=1][27]keywords=desk+key+light][27]qid=1609263224][27]refinements=p_85%3A2470955011][27]rnid=2470954011][27]rps=1][27]sr=8-11) that makes your face visible on videoconference calls
 - High-speed, reliable internet
 - Power source, if it's not reliable in your area. We recommend solar power as it is efficient.

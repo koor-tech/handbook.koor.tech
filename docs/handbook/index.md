@@ -12,7 +12,6 @@ This is the Koor Technologies, Inc. company and employee handbook. It contains t
 
 It is a good idea to bookmark the following links:
 
-* [Koor Technologies, Inc. Internal Documentation](https://handbook.koor.tech/) - This internal documentation.
 * [App Launcher (Cloudflare Access)](https://koorinc.cloudflareaccess.com/#/Launcher) - Quick and easy way to access the tools used at Koor Technologies, Inc.
 
 ### Table of Contents

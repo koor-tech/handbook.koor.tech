@@ -2,9 +2,12 @@
 title: Investors/Fundraising
 ---
 
+!!! warning
+    This page is not uptodate for Koor Technologies, Inc. and is still being setup for the future.
+
 ### Elevator Pitch
 
-Koor Technologies, Inc. is building an end-to-end platform for new cities to connect with residents, accelerate growth, and deliver responsive public services. We have a [one-minute pitch](https://www.youtube.com/watch?v=ahTyhj7K9Hc) available on our YouTube channel and [a company overview deck here](https://docs.google.com/presentation/d/1c-Ci9QVSc-H0vwtelS0mL4Ka5v2kbzr-1BfOSfLp4d4/edit). The key points to convey when first introducing our story are:
+Koor Technologies, Inc. is building an end-to-end platform for new cities to connect with residents, accelerate growth, and deliver responsive public services. We have a [one-minute pitch](#TODO) available on our YouTube channel and [a company overview deck here](#TODO). The key points to convey when first introducing our story are:
 
 1. Cities are economic engines and the biggest drivers of access to high quality of life.
 2. There are too few great places to live, and restrictive national policies make them inaccessible to most people.
@@ -19,12 +22,11 @@ Our **Overview Deck** is linked [on our website](https://koor.tech/about). TODO 
 
 ### Investor materials
 
-Answers to common investor questions are available in our [accelerator pitch responses](https://docs.google.com/document/d/1Q92NxVX7Ymdc3kbq1CzZuzXtogbZyuAjUMoJ__K7GmU/edit) (team members only).
+Answers to common investor questions are available in our [accelerator pitch responses](#TODO) (team members only).
 
 ### Product demo
 
-- We have a [product demo](https://www.youtube.com/watch?v=ucCIBSxNUjc) available.
-- Our [Product demo script](https://docs.google.com/document/d/15oT0Xn61Pq69uDFWt2B4XyQwI2RwnvlvlWXn23wufHM/edit) is available for anyone that wants to record or update our product demo (team members only)
+- We don't have a product demo available.
 
 ## About Koor Technologies, Inc.
 

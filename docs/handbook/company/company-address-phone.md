@@ -13,4 +13,5 @@ San Francisco, CA 94104-5401
 USA
 ```
 
-**Note**: the company does not have any method of receiving packages or physical items.
+!!! note
+    The company does not have any method of receiving packages or physical items.

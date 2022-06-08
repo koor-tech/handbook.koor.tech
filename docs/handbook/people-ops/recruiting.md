@@ -6,7 +6,7 @@ We aim to build a world-class team. This page goes through processes for interna
 
 ## Jobs and boards
 
-We use [Greenhouse](https://app3.greenhouse.io/) to host all jobs and manage our recruiting and interview process. All team members are welcome to participate, and will be asked to play different roles for different positions. Our open jobs are listed on [our website](https://koor.tech/about/).
+We use [Greenhouse](https://app4.greenhouse.io/) to host all jobs and manage our recruiting and interview process. All team members are welcome to participate, and will be asked to play different roles for different positions. Our open jobs are listed on [our website](https://koor.tech/about/).
 
 ## Internal Referral Incentive Program for Software Engineers
 
@@ -49,6 +49,9 @@ For positions reporting to CEO, candidates will speak with multiple team members
 
 ### Engineering Interview Process
 
+!!! note
+    This process is currently still under development.
+
 Open positions are posted on our [job board](https://koor.tech). Please apply through there, and your application will be reviewed and responded to. If it appears there's a good potential fit, here's an overview of the steps in our engineering interview process:
 
 1. Initial introduction - 25 minutes with either CEO or Head of Engineering. What we'll go through:
@@ -63,81 +66,6 @@ Open positions are posted on our [job board](https://koor.tech). Please apply th
 4. CEO interview - 50 minutes with CEO
 5. Interview panel - Optional - 40 minutes with a representative of each team (engineering, partners, customer success)
 6. References \-- 3-5 references including a manager, a peer, and cross-functional partner
-
-### UI/UX Designer Interview Process
-
-Open positions are posted on our [job board](https://koor.tech). Please apply through there, and your application will be reviewed and responded to. If it appears there's a good potential fit, here's an overview of the steps in our engineering interview process:
-
-1. Initial introduction - 25 minutes with either the Product Manager or CEO. What we'll go through:
-    - High-level meeting call to ensure the candidate and Koor Technologies, Inc. align on job requirements
-    - What Koor Technologies, Inc. and the position are about to ensure it matches your expectations
-    - Resume walk through -- We want to make sure we fully understand your work experience
-    - What you are looking for in your ideal role?
-    - What you should expect in the next steps of the hiring process
-2. UX team Interview - 40 minutes with a representative of the UX team
-3. Competency based interview - 50 minutes with Product Manager or submission of the [UX Case Study challenge](https://docs.google.com/document/d/12DjEmw5NMPLI5KPmeBOkjUhWZsSbxc7vhMJGeAk870Q/edit?usp=sharing)
-4. Interview panel - 40 minutes with a representative of each team (engineering, partners, customer success)
-5. CEO interview - 50 minutes with CEO
-6. References \-- 3-5 references including a manager, a peer, and cross-functional partner
-
-### Customer Success Manager (CSM) Interview Process
-
-Customer Success Managers are an integral part of the Koor Technologies, Inc. team and a rigorous process is used in the selection process. See our [job posting](https://koor.tech/) for details on the position.
-
-Interview questions template can be found [here](https://docs.google.com/document/d/18EC2BdUXvhzTnXiwL0ZNuo4w8YQ8dr5K-N7UxLf1WP8/edit) (internal to Koor Technologies, Inc.) while these are steps in the process:
-
-1. Use the [CSM Interview Notes](https://docs.google.com/document/d/1oRk8SeOuqnB24wAOwsUXnkzscyCrq98qdLbwkrQBQWg/edit#heading=h.7zecvmj0myvd) docuement for all interviews notes.
-2. Initial introduction - 25 minutes with Head of Customer Success. This is structured as:
-    - High-level meeting call to ensure the candidate and Koor Technologies, Inc. align on job requirements
-    - Resume walk through to identify transferable experience
-    - What you should expect in the next steps of the hiring process
-3. Technical Interview/Case-Study Exercise - 50 minutes with Head of Customer Success where candidate's technical knowledge of the CSM role will be assessed. The [case study details](https://docs.google.com/document/d/1sA53mOHTJYBy47w4Fnef7S8zDdxy12Nio_y3PMPysK0/edit) are provided to candidates that have been shortlisted to this stage.
-4. Product/Engineering
-    - Technical assessment for non-engineers
-    - 50 minutes with the Head of Product/Head of Engineering or representative. The candidates application experience and knowledge will be assessed in this session
-5. Peer-Panel Interview - 30 minutes with CSM to assess cultural fit
-6. CEO interview - 50 minutes with CEO
-7. Synchronous discussion between hiring manager and other interviewers to make a decision on the candidates that have successfully passed the previous interview steps.
-8. References \-- 3-5 references including a manager, a peer, and cross-functional partner
-
-### Head of Product Interview Process
-
-We are looking for a strategic leader to bring our product to the next level. See our [job posting](https://koor.tech/#head-of-product) for details on the position. Here are the steps in the process:
-
-1. Use the [Head of Product Interview Notes](https://docs.google.com/document/d/1qZ92OYD8_uOfS8GleXRcii-KjnZbHsyZD1SoG4NC10A/edit#heading=h.j515o6wnks9j) docuement for all interviews notes.
-2. Introductory conversation(s) with CEO or recruiting representative. Get to know the company, CEO, and determine if there's a reasonable overall alignment of interest and experience. 25 minutes.
-3. Interview with CEO. Go in-depth to your background and experiences. 50 minutes.
-4. Panel interviews. Meet some of your potential peers on the leadership team. Technical & Customer management. 50 minutes each.
-5. Exercise. Demonstrate skills in feature prioritization and communication. 1-2 hours prep + 50-minute meeting.
-6. CEO Conversation (if necessary). If there are follow-up questions from the previous rounds or further topics to discuss, we'll allocate more time.
-7. Investor Interview. This role requires meeting the Koor Technologies, Inc. investor. See investor interview tips below.
-8. Reference checks. We'll want to learn more about you from people you've worked closely with. See references below
-
-### CEO Interview
-
-Before your CEO interview, please be sure to have watched our most recent [sprint update](https://youtube.com/channel/UCALY7l5iisNVrEyvLgQa3ig/playlists?view_as=subscriber). The CEO interview tends to be fast-paced and values succinct answers. There's a lot to get through in a short amount of time, and the best interviews allow for follow up questions on your initial responses. Here are the some of the questions that will likely be asked:
-
-1. How would you introduce Koor Technologies, Inc. to a new prospective customer, colleague, or friend?
-2. Will you walk me through your resume?
-3. How did you first become interested in the field of work? How have your interests changed over time, and what has influenced your choices?
-4. What interested you in Koor Technologies, Inc.? Have you been looking at other opportunities? If so, what do they have in common, and in what ways are they different?
-5. What aspects of our mission excite you most? Are there areas that you see as potential concerns? What do you think will be some challenges we will face in the next 6-12 months and what are your thoughts on how to address them? (Please share some thoughts about challenges pertinent both to our company as a whole and to your role in particular.)
-6. Tell me about a complex project that you worked on. What made it challenging? How did you approach it? How does it exemplify how you approach your work?
-7. What's your experience with remote work? What are some of the practices you've developed to be effective? What practices from the company have you experienced that were helpful or detrimental?
-8. Tell me about a colleague with whom you've worked in the past who you thought was truly exceptional. What qualities or practices did they demonstrate? In what ways are you similar to them, and in what ways are you different?
-9. Please consider the best and next best teams you've worked with. How would you characterize them? What did they have in common, and what distinguished the best from its next counterpart?
-10. What did you observe in our last sprint update?
-11. What questions do you have for me?
-
-Note that this is not necessarily exhaustive. We may also explore specific questions that arose from my review of your experience, your fit with Koor Technologies, Inc., or discussions from previous rounds of interviews.
-
-#### Advice on how to interview well with the CEO
-
-Here are some tips on how to have a good interview with the CEO:
-
-- Be concise. Answer directly and specifically; let him ask follow ups as necessary.
-- Be willing to ask for clarification if needed.
-- Be honest and straightforward. Don't try to spin or obfuscate, even if he probes in areas you're not proud of.
 
 ### Investor Interview
 
@@ -289,13 +217,3 @@ Follow these steps to fill in the Consulting Agreement:
 - Legal and tax experience is highly sought after
 - Ability to work extended hours as needed
 - Proven track record of providing high-end support
-
-### CEO
-
-#### Description
-
-- TODO
-
-#### Requirements
-
-- TODO

@@ -6,7 +6,7 @@ title: Hiring
 
 1. Reach out to CEO and CTO and give them an opportunity to meet the candidate.
 2. Research compensation using [Pave](https://www.pave.com/), making sure to adjust for the cost of living where the candidate will do the work. If you're unsure of your findings, ask for help from the CEO.
-3. Share the compensation information you've gathered with People Ops. They will confirm the information with the CEO and document this decision in the [compensation decisions document](https://docs.google.com/document/d/1NQ-IjcOTbyFluCWqsFLMfP4SvnopoXDcX0civ-STS5c/edit) for future reference.
+3. Share the compensation information you've gathered with People Ops. They will confirm the information with the CEO and document this decision in the [compensation decisions document](#TODO) for future reference.
 4. After compensation has been determined, create two documents for the candidate:
     - "Exit scenarios" spreadsheet
     - "Informal offer email" template.
@@ -32,4 +32,4 @@ title: Hiring
     **Note**: International contractor and employment agreements are handled by the Pilot.co when you start the hiring process.
 3. For US employees/contractors After an agreement is signed and stored in the correct Google Drive folder, People Ops will start onboarding the new team member in [Gusto](https://www.gusto.com/). If the new team member is a W-2 employee, People Ops will reach out to them and schedule an I-9 verification meeting.
     **Note**: If we're hiring in a new state, we'll have to register for state taxes and unemployment. This process can be handled by Gusto. Usually.
-4. Before their first day at Koor Technologies, Inc., People Ops will create a [Google Workspace account](https://admin.google.com/ac/users) for the new team member, add them to the Koor Technologies, Inc. \[insert Gitlab/\[insert Gitlab/GitHub\]\], create an onboarding issue in the Koor Technologies, Inc./confidential \[insert Gitlab/GitHub\] repo, and invite them to join the Koor Technologies, Inc. Slack. If the new team member needs to purchase a work computer, People Ops will set them up with a [Brex](https://dashboard.brex.com/team/invite-user) card.
+4. Before their first day at Koor Technologies, Inc., People Ops will create a [Google Workspace account](https://admin.google.com/ac/users) for the new team member, add them to the Koor Technologies, Inc. [GitHub](https://github.com/koor-tech), create an onboarding issue task in the Koor Technologies, Inc. [Linear board](https://linear.app/koorinc/team/GEN/all), and invite them to join the Koor Technologies, Inc. Slack. If the new team member needs to purchase a work computer, People Ops will set them up with a [Brex](https://dashboard.brex.com/team/invite-user) card.

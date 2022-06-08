@@ -17,8 +17,8 @@ Koor Technologies, Inc. will leverage GitLab's [skill-based and will-based perfo
 Managers should address performance concerns early and not wait until the performance problems have become unrecoverable. Feedback should be given early, it should be specific and documented. Remediation options will vary based on the circumstances, but as a best practice managers should leverage one or more of these approaches:
 
 1. Coaching - engage with the team member to help diagnose problem(s) and solution(s), perhaps with some outside guidance such as articles or courses. Requires written followup but not cc to peopleops.
-2. Written warning - an explicit notice that performance is not meeting the company's needs, citing examples of problems and clarity on expectations moving forward. (manager must cc \[insert group email\])
-3. Performance Improvement Plan (PIP) - a formal plan documenting problems, expectations, and a timeline for resolution to avoid termination. (manager must cc \[insert group email\]).
+2. Written warning - an explicit notice that performance is not meeting the company's needs, citing examples of problems and clarity on expectations moving forward. (manager must cc [peopleops@koor.tech](mailto:peopleops@koor.tech))
+3. Performance Improvement Plan (PIP) - a formal plan documenting problems, expectations, and a timeline for resolution to avoid termination. (manager must cc [peopleops@koor.tech](mailto:peopleops@koor.tech)).
 
 With either a Written Warning or Performance Improvement Plan the team member will meet jointly with their manager and the CEO to review the concerns outlined, discuss remediation steps, share additional context, or request additional help or support.
 
@@ -32,7 +32,7 @@ The GitLab handbook [coaching section](https://about.gitlab.com/handbook/leaders
 
 #### Written Warning
 
-A Written Warning is used to bring attention to new or ongoing deficiencies in conduct and/or performance issues. The intent is to define the seriousness of the situation to encourage immediate corrective action. On a zoom meeting, the manager will inform the team member that they will be receiving a written warning. The Warning will identify development areas/gaps, outline what success looks like, and specific action/deliverables and due dates. This letter must then be sent to the team member and to \[insert group email\].
+A Written Warning is used to bring attention to new or ongoing deficiencies in conduct and/or performance issues. The intent is to define the seriousness of the situation to encourage immediate corrective action. On a zoom meeting, the manager will inform the team member that they will be receiving a written warning. The Warning will identify development areas/gaps, outline what success looks like, and specific action/deliverables and due dates. This letter must then be sent to the team member and to [peopleops@koor.tech](mailto:peopleops@koor.tech).
 
 As noted above, after receipt of a Warning, the team member will have an opportunity to discuss jointly with their manager and CEO.
 
@@ -46,36 +46,10 @@ For team members who truly lack the skill for the role or for those team members
 
 As noted above, after receipt of a PIP, the team member will have an opportunity to discuss with their manager and CEO together.
 
-#### 360 Feedback
-
-Starting in \[insert date\], we are beginning a team-member review cycle to provide feedback on performance and growth. Some important context:
-
-- We're starting with reviews of only two team members: \[insert title\] and \[insert title\] (this is in order to be iterative and practice the process)
-- We're using Culture Amp to request and collect feedback
-- Our aim is to have the process complete by \[insert date\]
-
-If you want more context or back-story, the \[Company Goals page\] discusses our performance management framework and philosophy, and our specific goal for this round is outlined in a \[GitLab\] ticket.
-
-After this first iteration we will get input on the process and roll it out for the rest of our team members. Follow this OKR for more.
-
-Process to complete this cycle:
-
-1. \[insert title\] and \[insert title\] will nominate people to provide feedback on them. They will focus on those with whom they've worked directly. \[**Due:** \[insert date\]\]
-    - If you don't receive an invite but want to provide input, please reach out to \[insert title\] and ask to be included
-2. Reviewers enter feedback in the system. We expect this process to take 15-20 (and not more than 30) minutes per person, so please don't overthink it. This feedback will be sent to CEO to incorporate into their reviews. \[**Due:** \[insert date\]\]
-   **Note**: we're focused on 3 questions:
-    - What's working well that they should continue?
-    - What can they improve upon?
-    - How well do they exhibit our values?
-3. CEO will compile results and share with these team members. \[**Due:** \[insert date\]\]
-
-Please contact \[insert title\] if you have questions on how to give the feedback or utilize Culture Amp.
-
 ### All Koor Technologies, Inc. - Company Performance Review
 
 Starting on \[insert date\] we are beginning a team-member review cycle to provide feedback on performance and growth. Some important context:
 
-- We're using [Culture Amp](https://www.cultureamp.com/) to request and collect feedback.
 - Peer feedback request should be completed by \[insert date\].
 - By \[insert date\] Managers have written performance reviews for their teams and discuss with CEO
 - Managers have delivered performance reviews to team by \[insert date\]
@@ -131,8 +105,8 @@ Notes on our implementation of OKRs and KPIs:
 
 Our north star metric has monthly milestones. We aim to hit these month over month. However, growth is not always continuous and there are times when we won't hit the goal. When this happens, it's a good opportunity for us to understand what went wrong (if applicable) and refocus our energy and creative spirit to get back on track. Our process when this happens is as follows:
 
-1. Each teammate takes 10-15 minutes to [brainstorm 5-10 ideas](https://forms.gle/4Tpd8PedNHYZXxtH8) to improve.
-2. Flag ideas that you particularly like with \*\*
-3. CEO will review all ideas and choose a few to focus on
+1. Each teammate takes 10-15 minutes to [brainstorm 5-10 ideas](#TODO) to improve.
+2. Flag ideas that you particularly like with Alexander Trost
+3. C-Level will review all ideas and choose a few to focus on
 4. In the next Sprint Retrospective, we will brainstorm what would be some iterative approaches to those ideas, focusing on simple and actionable near-term steps. For example: can we get 50% of the value of the idea at 10% of the cost? What's the smallest iteration that can make some progress toward the goal?
 5. We'll write a few stories to add to the sprint about to kick off

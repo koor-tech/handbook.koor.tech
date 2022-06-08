@@ -35,7 +35,7 @@ title: Finance
 ### Invoice Receiving Acknowledgement and Documentations (Accounting's Responsibilities)
 
 - Process invoices received in accounting@koor.tech in Bill.com and route the invoices for approval in Bill.com according to the Invoice Approval Hierarchy.
-- The AP accountant will reply to the accounting@koor.tech and the vendor to acknowledge that the invoice has been processed in Bill.com. The turnaround time is usually 1-2 business days from the day the invoice is submitted to Accounting and the acknowledgment.
+- The AP accountant will reply to the `accounting@koor.tech` and the vendor to acknowledge that the invoice has been processed in Bill.com. The turnaround time is usually 1-2 business days from the day the invoice is submitted to Accounting and the acknowledgment.
 - AP Accountant needs to make sure to use the contractor's contact email to send out bill.com e-invite (do not use the contractor's Koor Technologies, Inc. email). This will help us to make sure the applicable contractors can receive their tax forms even if they are no longer working with Koor Technologies, Inc.
 - For US vendors, upload a copy of W-9 in Bill.com under the Document section
 - For non-US vendors, upload a copy of [W-8BEN Form](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf) in Bill.com under the Document section
@@ -68,13 +68,13 @@ All wires from SVB are initiated by Accounting and approved by Koor Technologies
 9. A brief description for the Purpose of Payment (per bank requirement for international wires)
 10. **Bank Fees** If any bank fees that Koor Technologies, Inc. should be covering to ensure the recipient can receive the full payment, please notify Accounting about how much bank fees to add to the wire total as the fees can vary vendor by vendor. For example, some Zambia vendors don't need Koor Technologies, Inc. to include any bank transfer charges, some of them do. Given each vendor's situation is different, Accounting requests vendors to provide how much bank fee to include and in what currency with the 1st payment request. For future recurring payments, Accounting can include the same amount of bank fees without asking again unless new changes are provided by the vendor and the amount of change is justified by Accounting.
     Typically, a wire instruction needs to include below:
-    1.  Recipient's name
-    2.  Recipient's address
-    3.  Recipient's bank name
-    4.  Recipient's bank address
-    5.  Recipient's bank account
-    6.  Recipient's bank ABA Routing Numbers (if domestic wire within the United States)
-    7.  Recipient's IBAN, BIC, or SWIFT Code (if international bank outside of United States)
+    1. Recipient's name
+    2. Recipient's address
+    3. Recipient's bank name
+    4. Recipient's bank address
+    5. Recipient's bank account
+    6. Recipient's bank ABA Routing Numbers (if domestic wire within the United States)
+    7. Recipient's IBAN, BIC, or SWIFT Code (if international bank outside of United States)
     - Sometimes the bank may require to provide additional information, Accounting will reach out to the wire requestor if such request arises. \*
     - Wire payment is usually quicker, but for international wire payment, it still takes a few business days to clear. We suggest you submit the wire request at least 7 business days prior to the payment due date to allow accounting to get the wire initiated and approved.
     - If the wire payment is urgent, please flag "**URGENT Payment Request**" in the subject line when you send the wire request to accounting@koor.tech. Please don't submit a payment request via a Gitlab ticket as it can easily be buried in the thread.

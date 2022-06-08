@@ -7,7 +7,7 @@ While Koor Technologies, Inc. is a remote company, at time team members may trav
 - Create a trip folder and share notes on trip goal and plans
 - Upload daily pictures from the visits
 - Share daily learnings from the visit using a loom video with team
-- Setup regular calls with \[insert group email\] as optional for team to ask questions
+- Setup regular calls in the `#travel` Slack channel as optional for team to ask questions
 - Add product or program ideas from the trip to Gitlab using standard or emergency escalation process
 
 ## Expenses While Traveling
@@ -22,7 +22,7 @@ While Koor Technologies, Inc. is a remote company, at time team members may trav
 
 ## Travel Insurance
 
-Koor Technologies, Inc. offers travel insurance for business travel for all the US-based employees. Full details of Travel Policy can be found in [Here](https://drive.google.com/file/d/188gtgD_5S_-mL8UkPiudgritsiiiyDUR/view?usp=sharing)
+Koor Technologies, Inc. offers travel insurance for business travel for all the US-based employees. Full details of Travel Insurance Policy can be found in [Here](#TODO).
 
 ### Flights
 

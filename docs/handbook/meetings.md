@@ -57,13 +57,13 @@ Taking notes during meetings provides structure to the call itself, but also mak
 
 #### Using "rolling" vs. "by date" agendas
 
-Rolling agendas are used for 1:1s with the CEO, and are suggested for most 1:1 interactions. They are valuable to ensure completion of topics (because those topics are removed as soon as they are done), and don't lend themselves well to sharing context with others.
+Rolling agendas are used for 1:1s with the C-Level, and are suggested for most 1:1 interactions. They are valuable to ensure completion of topics (because those topics are removed as soon as they are done), and don't lend themselves well to sharing context with others.
 
 "By date" agendas are organized as notes per meeting, and have a persistent record that can be shared with other participants. These are well-suited to meetings that may benefit from asynchronous participation or where notes may be referenced by people who were not present for the conversation. They work well for team meetings. These notes still should be considered "ephemeral" and action items moved to GitLab issues. See GitLab usage.
 
 ### Rolling agenda
 
-Some of our meetings (and all CEO 1:1s) have a "Rolling Agenda." This means that the document is formatted as a numbered list, with each number representing a topic to discuss. New items are added to the bottom of the document, and in each discussion we work from the bottom and proceed as far up the list as we can. Once an item requires no more discussion it will be deleted. If we don't make it to a topic in one conversation it remains there for the next one, or until needed.
+Some of our meetings (and all C-Level 1:1s) have a "Rolling Agenda." This means that the document is formatted as a numbered list, with each number representing a topic to discuss. New items are added to the bottom of the document, and in each discussion we work from the bottom and proceed as far up the list as we can. Once an item requires no more discussion it will be deleted. If we don't make it to a topic in one conversation it remains there for the next one, or until needed.
 
 ### Labels for agenda topics
 
@@ -96,7 +96,7 @@ Here's how to approach cleaning the agenda document:
 
 ### 1:1 Meetings
 
-CEO has weekly 1:1 meetings with each of his direct reports. They use the rolling agenda format. Each 1:1 starts with a < 10 minute recap from the direct report of "FYIs and Concerns". The purpose of this is to efficiently bring the CEO up to speed on the most important context for the rest of the discussion. They also serve as a practice for efficient and succinct communication and as a means to verify that the direct report is on top of the right set of issues. Each topic in the "FYIs and concerns" should be a sentence or two, and may entail a quick clarification or question. Items that need more discussion than that should be called out as separate agenda topics.
+C-Level has weekly 1:1 meetings with each of his direct reports. They use the rolling agenda format. Each 1:1 starts with a < 10 minute recap from the direct report of "FYIs and Concerns". The purpose of this is to efficiently bring the C-Level up to speed on the most important context for the rest of the discussion. They also serve as a practice for efficient and succinct communication and as a means to verify that the direct report is on top of the right set of issues. Each topic in the "FYIs and concerns" should be a sentence or two, and may entail a quick clarification or question. Items that need more discussion than that should be called out as separate agenda topics.
 
 Meetings are an important aspect of effective collaboration. They are also an expensive investment of teammate time, and (especially importantly) the synchronous time that can be scarce when working across disparate time zones. The following norms aim to establish efficient and effective practices.
 
@@ -126,4 +126,4 @@ The process is:
 
 ### Virtual coffee talks
 
-To keep a personal connection with how people are doing, the CEO holds virtual coffee talks with each person in the company. The aim is to do these at least once per quarter, and more often as time permits. These do not have a formal agenda, but you are encouraged to share your thoughts about what's working well and what could be improved culturally. We'll use the 1:1 Agenda document to collect thoughts if there are specific topics. Preparation is encouraged but not required.
+To keep a personal connection with how people are doing, the C-Level holds virtual coffee talks with each person in the company. The aim is to do these at least once per quarter, and more often as time permits. These do not have a formal agenda, but you are encouraged to share your thoughts about what's working well and what could be improved culturally. We'll use the 1:1 Agenda document to collect thoughts if there are specific topics. Preparation is encouraged but not required.

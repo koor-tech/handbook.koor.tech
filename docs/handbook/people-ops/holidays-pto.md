@@ -32,11 +32,12 @@ Either way, it's up to you to ensure that your responsibilities are covered, and
 
 Starting on December 24th, Koor Technologies, Inc. enjoys a company Christmas Holiday Week. We close our offices for the week so people can take this time to rest and celebrate the holidays, and focus on their loved ones.
 
-Please remember to update PTO by Roots and select Christmas Holiday Week.
+!!! note
+    We don't have a on call schedule at the moment.
 
-For Support during the holiday, please refer to the [2021 Holidays On Call Schedule](https://docs.google.com/spreadsheets/d/14zc5ARkvYHFQIEbPBtrZLm2oyyolP4cA-ks8Ie64Bnw/edit#gid=0)
+For Support during the holiday, please refer to the [2022 Holidays On Call Schedule](#TODO)
 
-#### 2021 End of Year Celebration - *Time extended through \[date\]*
+#### 2022 End of Year Celebration - *21.12.2022*
 
 The end of year is a natural time for celebration and togetherness. For many companies, an "end of year party" is a time to be together with coworkers and to share the experience with significant others. We also want these qualities, but as an all-remote company, take a different approach.
 
@@ -66,7 +67,7 @@ We will look at scheduling future dates roughly quarterly. In line with our Paid
 Any Koor Technologies, Inc. team member is able to propose a Family and Friends Day. To propose a Family and Friends Day please follow the steps outlined below:
 
 1. Review the Koor Technologies, Inc. Team Meetings calendar for major conflicts, review major holidays, and avoid scheduled Investor calls and Customer Council Meetings.
-2. Submit a request to peopleops@koor.tech
+2. Submit a request to [peopleops@koor.tech](mailto:peopleops@koor.tech)
 
 #### I'm in a role which requires me to work that day. How can I still benefit from this initiative?
 
@@ -107,6 +108,9 @@ References that may be helpful:
 
 #### How to Take Time Off
 
+!!! note
+    We need to adjust this section based on the tooling we will have going on for PTO / people self service management.
+
 You can take time off whenever you want. However, please be responsible in when you take it and how you communicate it. Here are a few things to consider:
 
 1. Check with your manager to try to avoid being out around a critical milestone or at the same time that others on your team will be out
@@ -125,7 +129,7 @@ You can take time off whenever you want. However, please be responsible in when 
 
 We encourage you to take the national holidays in your home country. We've made this easy by providing a calendar with those dates so that you can add them in bulk.
 
-1. Visit our [Important Dates Spreadsheet](https://docs.google.com/spreadsheets/d/1POhDzesk5fEjiafkWxJmsFnjbY5F_c--0fmFdSiO2vE/edit#gid=882612580) and see the tab for your National Holidays
+1. Visit our [Important Dates Spreadsheet](https://docs.google.com/spreadsheets/d/1hUtMw2a6iEXmTO-XpEIpx8DZncOZUE00kGskNzsTTjs/edit#gid=0) and see the tab for your National Holidays
 2. Create a local CSV file of that tab, using the menu option File: Download: CSV.
     - After you create a copy, feel free to add or remove dates as fit to your circumstances
     - Note that holidays that occur on weekdays have start and end times, so that importing them will block off your calendar
@@ -139,9 +143,12 @@ We encourage you to take the national holidays in your home country. We've made 
 
 Our time off policy is flexible, but requires proactive communication. Any team member who takes 3 consecutive days without prior notification will be considered to have voluntarily resigned.
 
-If someone is absent, the manager will make effort to contact the team member or someone listed as their emergency contact. Please share [emergency contact information via this form](https://docs.google.com/forms/d/e/1FAIpQLSfabH3dmyzT1jfI6wvc-gJ-1noyqK53QF7vTlNK7dWAj4Nnyw/viewform?usp=sf_link) with people-ops, so that we know who to call in case of an unexpected absence.
+!!! note
+    During hiring this is also requested from each employee.
 
-Managers can find information on who to call in our [Emergency Contact Information Sheet](https://docs.google.com/spreadsheets/d/1h1QcknDamZukc0OOoG35W9BEm3q9vTMUJi8nBSrbLB0/edit?usp=sharing)
+If someone is absent, the manager will make effort to contact the team member or someone listed as their emergency contact. Please share [emergency contact information via this form](#TODO) with people-ops, so that we know who to call in case of an unexpected absence.
+
+Managers can find information on who to call in our [Emergency Contact Information Sheet](https://docs.google.com/spreadsheets/d/1asszGCWVZXT2YsJ785jYRO049trUgr6jl56GtztR1mQ/edit#gid=0)
 
 #### Communicating Your Time Off
 
@@ -149,12 +156,15 @@ Once you've decided to take time off and your manager is aware, it should be com
 
 1. Mark the time as Out of office on your calendar.
     1. Select the Automatically decline new and existing meetings option so that your meeting status will show "declined"
-2. You should add the time off using PTO by Roots to Slack. Please use the following syntax which uses the [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) date notation in order to avoid confusion: OOO from YYYY-MM-DD to YYYY-MM-DD, please contact XXX for assistance.
-3. Email \[insert group email\] with the dates you will be away (this is not necessary for National holidays planned in advance; see below for that process)
+2. You should add the time off using _PTO Tool we will use_. Please use the following syntax which uses the [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) date notation in order to avoid confusion: OOO from YYYY-MM-DD to YYYY-MM-DD, please contact XXX for assistance.
+3. Email [peopleops@koor.tech](mailto:peopleops@koor.tech) with the dates you will be away (this is not necessary for National holidays planned in advance; see below for that process)
 4. If you won't check email at all, add an out-of-office response in your email settings with the start and end date of your time off so that people reaching out to you on email will be notified
 5. It may be useful to share your planned time off as a **FYI** on your team's Slack channel(s), especially if you lead a team.
 
 #### PTO by Roots
+
+!!! note
+    We are not using PTO by Roots at the moment but this might change depending on the tooling for employee self service.
 
 [PTO by Roots](https://www.tryroots.io/pto) allows employees and managers to coordinate time off seamlessly with intuitive Slack commands. The integration from Slack automatically monitors PTO balances and takes action. PTO by Roots also reminds employees of their upcoming time off and helps them assign roles and tasks for co-workers, giving all parties involved greater alignment and peace of mind.
 

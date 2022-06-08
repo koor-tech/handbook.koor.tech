@@ -27,19 +27,19 @@ We should think of our brand as important to entrepreneurs building new cities. 
 
 ### Company letterhead
 
-Our company Letterhead can be accessed [here](https://docs.google.com/document/d/1MBJYZuGHofTMg9ml1Q1v1TaPvz6j2EnMJRnZNVVmAmI/edit?usp=sharing). This is read-only; make a copy to edit
+Our company Letterhead can be accessed [here](#TODO). This is read-only; make a copy to edit
 
 ### Logos
 
-We use the following logos at Koor Technologies, Inc. When using the logos, please keep space between the logo and other images or text. Generally a good amount of separation space is the size of the Koor Technologies, Inc. 'house' away from the logo
+We use the following logos at Koor Technologies, Inc. When using the logos, please keep space between the logo and other images or text. Generally a good amount of separation space is the size of the Koor Technologies, Inc. 'K' away from the logo
 
-- Logo 1, The Koor Technologies, Inc. house:
-- Logo 2, The Koor Technologies, Inc. house with text, orange:
-- Logo 3, The Koor Technologies, Inc. house with text, black
+- Logo 1, The Koor Technologies, Inc. logo:
+- Logo 2, The Koor Technologies, Inc. logo with text, orange:
+- Logo 3, The Koor Technologies, Inc. logoe with text, black
 
 ### Marketing Assets
 
-Company assets, including full resolution versions of the logo, are available in our [Marketing Assets](https://drive.google.com/drive/u/1/folders/0AEq4mz4LcLacUk9PVA) shared drive
+Company assets, including full resolution versions of the logo, are available in our [Marketing Assets](https://github.com/koor-tech/media) shared drive
 
 ### Vision
 
@@ -49,16 +49,16 @@ Koor Technologies, Inc. succeeds by accelerating growth and delivering responsiv
 
 #### Businesses using Rook Ceph
 
-- Description: TODO
-- Marketing Style: Typically are curious about master/urban planning, egovernance/digital public services, current economic and legal reform (ie SEZs/Charter cities), methods for acquiring and selling land, equity and debt issuances, and attracting anchor tenants (pioneering residents and businesses). *Data-driven, urbanization-focused, 'wonkish', contrarian, visionary*
-- Examples: Blog post on common challenges at differing stages of city development, twitter posts with an urbanization graph
+- Description: Koor is providing a storage distribution on Rook Ceph to further make it easier to provide block, filesystem and object storage to applications.
+- Marketing Style: Typically are curious about storage for their containerized and microservices applications.
+- Examples: Blog post on common challenges at using storage in Kubernetes, OpenShift, etc.
 - Pre-Koor Technologies, Inc. Software Vendors: A suite of software products, not fit for purpose, poorly connected, and not designed for emerging markets
 - Goal: Marketing Qualified Leads (MQLs)
 
 ### Outbound Marketing
 
 - Account-Based Marketing
-- Social Media (Twitter, Facebook, Youtube, Linkedin)
+- Social Media (Twitter, Youtube, Linkedin)
 - Targeted ads
 - **Note**: To manage the company LinkedIn page, your personal LinkedIn account must be added as an admin. There should be no separate login for that.
 
@@ -134,20 +134,23 @@ We also have some social media presence through our Artists In Residence program
 
 ### Sprint Updates
 
-At the end of each sprint, CEO posts an update to a variety of social media channels. Here is the process:
+At the end of each sprint, C-Level posts an update to a variety of social media channels. Here is the process:
 
 1. Videos from each teammate are complete by AM on the Wednesday of the sprint end. See demo process for details on this.
 2. Confirm that all videos are compiled in a YouTube playlist titled Progress Updates YYYY-MM-DD
-3. Add CEO video as first video in playlist; reorder the others roughly with the most important / informative updates nearest the top
+3. Add C-Level video as first video in playlist; reorder the others roughly with the most important / informative updates nearest the top
 4. Post the video and 1-2 highlights to Twitter from the [@koor_tech](https://twitter.com/koor_tech) account. Add \# and #remotework hashtags.
-5. CEO retweets from his personal account and \[EA:\] using Hootsuite, schedules the same post in our other media channels: including Facebook: Koor Technologies, Inc., LinkedIn: Koor Technologies, Inc., and LinkedIn:.
+5. C-Level retweets from his personal account and \[EA:\] using Hootsuite (in the future), schedules the same post in our other media channels: including LinkedIn: Koor Technologies, Inc., and Twitter: Koor Technoliges, Inc..
 
 ### Sprint Update Video Guidelines
+
+!!! note
+    Currently we are not publishing sprint update videos.
 
 1. Deadlines:
     1. All individual-contributor (IC) videos are due by **end of day Tuesday** local time, unless your manager has set an earlier deadline
     2. All manager videos are due by **Wednesday 12p (noon) Pacific time**
-    3. CEO video is due by 9:30p Pacific Time
+    3. C-Level video is due by 9:30p Pacific Time
 2. All IC videos should be 2 minutes or less, and cover what work you completed in this sprint. Manager videos should be 5 minutes or less. (Times are not strictly enforced, e.g. going 2m10s is fine, but 3 minutes should be a sign that you're covering too much.)
 3. Each video should have the person's name, or role if preferred, and the date in its title. Remember that dates should be in yyyy-mm-dd format
 4. All team members should add their videos to the week's playlist. The first person to publish the video may need to create the playlist, titled Progress Updates YYYY-MM-DD

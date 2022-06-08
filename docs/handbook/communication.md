@@ -54,7 +54,7 @@ If you do share a document that includes Personally Identifying Information (PII
 
 ### YouTube
 
-We post our sprint meetings on YouTube. We value transparency about what we're working on and you're welcome to share strengths and weaknesses, works in progress, highlights or concerns. However, we must also respect that not every external partner will share this level of comfort. Therefore we must be sure to avoid any of the following, in both our verbal narrative and any screens we share in presentations:
+We might post our sprint meetings on YouTube in the future. We value transparency about what we're working on and you're welcome to share strengths and weaknesses, works in progress, highlights or concerns. However, we must also respect that not every external partner will share this level of comfort. Therefore we must be sure to avoid any of the following, in both our verbal narrative and any screens we share in presentations:
 
 1. Personally identifying information who are not Koor Technologies, Inc. team members. E.g. no mention of names, license plates, phone numbers, emails.
 2. Statistics or metrics of our partners' data

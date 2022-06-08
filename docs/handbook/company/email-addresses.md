@@ -18,7 +18,9 @@ We use Google Workspace for company emailing and group emails.
   * Aliases:
         * `info@koor.tech`
 * `payments@koor.tech`
-    * Description: Used for PayPal and Stripe.
+    * Description: Used for Payments processors and customer notifications.
+* `peopleops@koor.tech`
+    * Description: Used for People Ops, HR, etc.
 * `socialmedia@koor.tech`
     * Description: Used for our Social Media accounts.
 * `support@koor.tech`

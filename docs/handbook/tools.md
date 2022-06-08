@@ -19,7 +19,7 @@ We use a variety of productivity tools in addition to those mentioned in Communi
 | [Calendly](https://calendly.com/)                   | Calendar scheduling                                                                                                             |
 | [Cloudflare](https://cloudflare.com/)               | DNS Management + Zero Trust Access Control                                                                                      |
 | [Cloudflare Pages](https://pages.cloudflare.com/)   | (Static) website hosting                                                                                                        |
-| [Docker](https://www.docker.com/)                   | \[engineering\] Containerization of packages for deployment                                                                     |
+| [Docker Hub](https://www.docker.com/)               | \[engineering\] Containerization of packages for deployment                                                                     |
 | [Earth Class Mail](https://www.earthclassmail.com/) | Manage postal mail online                                                                                                       |
 | [Formspark.io](https://formspark.io/)               | Website form submissions                                                                                                        |
 | [GitHub](https://github.com/)                       | Source control                                                                                                                  |
@@ -27,10 +27,13 @@ We use a variety of productivity tools in addition to those mentioned in Communi
 | [Gusto](https://gusto.com/)                         | Payroll for US-based teammates                                                                                                  |
 | [Hootsuite](https://www.hootsuite.com/)             | Posts to and monitors a variety of social media channels                                                                        |
 | [LinkedIn](https://www.linkedin.com/)               | Social media:[https://www.linkedin.com/company/koor-technologies-inc/](https://www.linkedin.com/company/koor-technologies-inc/) |
+| [Linear](https://linear.app/)                       | Issue and project tracking                                                                                                      |
 | [Silicon Valley Bank](https://www.svb.com/)         | \[finance\] Manage cash and make wire transfers                                                                                 |
 | [Slack](https://slack.com/)                         | Team communications & chats                                                                                                     |
-| [Twitter](https://twitter.com/)                     | \[Marketing\] Handles: [@koor_tech](https://twitter.com/koor_tech) and [@galexrt](https://twitter.com/galexrt)                                                                                  |
+| [Status Hero](https://statushero.com/)              | Remote Syncing through daily check-ins and summaries.                                                                           |
+| [Twitter](https://twitter.com/)                     | \[Marketing\] Handles: [@koor_tech](https://twitter.com/koor_tech) and [@galexrt](https://twitter.com/galexrt)                  |
 | WhatsApp*                                           | Commonly used to communicate with people internationally                                                                        |
+| [ZenDesk](https://www.zendesk.com/)                 | Customer Service Desk                                                                                                           |
 | [Zoom](https://zoom.us/)                            | Video conference calls                                                                                                          |
 
 \* Not licensed, but commonly used for work-related activity.
@@ -56,13 +59,14 @@ We use a variety of productivity tools in addition to those mentioned in Communi
     * Google Meet
     * Zoom (mostly for "external" meetings)
 * Customer Relations Management (CRM)
-    * TODO
+    * ZenDesk Sell
 * Invoicing Tool
-    * TODO
+    * Billc.om
+    * Stripe
 * Service Desk
-    * TODO
+    * ZenDesk
 * Ticket Tracking
-    * TODO
+    * Linear
 
 ## Explained
 
