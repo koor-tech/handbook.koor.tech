@@ -105,7 +105,7 @@ Notes on our implementation of OKRs and KPIs:
 
 Our north star metric has monthly milestones. We aim to hit these month over month. However, growth is not always continuous and there are times when we won't hit the goal. When this happens, it's a good opportunity for us to understand what went wrong (if applicable) and refocus our energy and creative spirit to get back on track. Our process when this happens is as follows:
 
-1. Each teammate takes 10-15 minutes to [brainstorm 5-10 ideas](#TODO) to improve.
+1. Each teammate takes 10-15 minutes to brainstorm 5-10 ideas to improve.
 2. Flag ideas that you particularly like with Alexander Trost
 3. C-Level will review all ideas and choose a few to focus on
 4. In the next Sprint Retrospective, we will brainstorm what would be some iterative approaches to those ideas, focusing on simple and actionable near-term steps. For example: can we get 50% of the value of the idea at 10% of the cost? What's the smallest iteration that can make some progress toward the goal?

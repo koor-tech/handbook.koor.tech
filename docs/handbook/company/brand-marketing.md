@@ -116,7 +116,7 @@ We also have some social media presence through our Artists In Residence program
 - Key stakeholders from the start-up scene.
 - New Cities / Charter Cities organizations, leaders, and influencers.
 - Global Business magazines.
-- Media platforms focused on tech, emerging markets and urbanization (i.e. Techpoint Africa, TechCrunch, etc).
+- Media platforms focused on tech, big data and storage (i.e. Ceph, TechCrunch, etc).
 
 ### What should we tweet?
 

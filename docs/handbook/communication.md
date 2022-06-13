@@ -18,7 +18,7 @@ Remote communication can be difficult at times, especially spanning timezones, c
 
 ### Time Zones
 
-We aim that most of our work should be "asynchronous" \-- meaning that you can do it on your own schedule and not be dependent on meeting with another teammate in order to tackle it. However, coordination is also important both for work and social reasons. Since we span time zones, currently US/Pacific and Africa/Lusaka, we ask that team mates make themselves generally available on Slack and for meetings during those hours that are the best overlap between them.
+We aim that most of our work should be "asynchronous" \-- meaning that you can do it on your own schedule and not be dependent on meeting with another teammate in order to tackle it. However, coordination is also important both for work and social reasons. Since we span time zones, currently US/Pacific and Europe/Berlin, we ask that team mates make themselves generally available on Slack and for meetings during those hours that are the best overlap between them.
 
 ### Sharing bad news
 
