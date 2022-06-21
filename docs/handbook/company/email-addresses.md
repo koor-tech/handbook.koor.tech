@@ -15,7 +15,7 @@ We use Google Workspace for company emailing and group emails.
 * `mailmaster@koor.tech`
     * Description: postmaster didn't work..
 * `sales@koor.tech`
-  * Aliases:
+    * Aliases:
         * `info@koor.tech`
 * `payments@koor.tech`
     * Description: Used for Payments processors and customer notifications.

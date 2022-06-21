@@ -26,8 +26,9 @@ Answers to common investor questions are available in our [accelerator pitch res
 
 ### Product demo
 
-- We don't have a product demo available.
+- We don't have a product demo available (yet).
 
+<!-- markdownlint-disable MD026 -->
 ## About Koor Technologies, Inc.
 
 ### Values

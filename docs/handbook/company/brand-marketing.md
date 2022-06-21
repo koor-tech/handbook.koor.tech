@@ -2,9 +2,11 @@
 name: Brand / Marketing
 ---
 
+<!-- markdownlint-disable MD041 -->
+
 This handbook page includes information about our brand, and guidelines on using our name and logo externally.
 
-### Name
+## Name
 
 The name of our company is 'Koor Technologies, Inc.'. We use 'Koor' or 'Koor.Tech' as a shortcut - but be careful to use this only when in a context where it is clear that you are referring to Koor Technologies, Inc.
 
@@ -19,17 +21,17 @@ Correct Usage:
 - Koor Technologies, Inc. ✓
 - Koor.Tech ✓
 
-### Do we brand our app?
+## Do we brand our app?
 
 We include a "Powered by Koor Technologies, Inc." tag in the app, but want all branding to focus on our customers' communities. There are enough new concepts for residents of new cities to grapple with, and explaining "who is Koor Technologies, Inc." is not something we want to introduce into the equation at this point. Better for people to associate our application on the innovation of the community itself.
 
 We should think of our brand as important to entrepreneurs building new cities. This community is small enough that we do not think it's necessary to have a consumer facing brand.
 
-### Company letterhead
+## Company letterhead
 
 Our company Letterhead can be accessed [here](#TODO). This is read-only; make a copy to edit
 
-### Logos
+## Logos
 
 We use the following logos at Koor Technologies, Inc. When using the logos, please keep space between the logo and other images or text. Generally a good amount of separation space is the size of the Koor Technologies, Inc. 'K' away from the logo
 
@@ -37,17 +39,17 @@ We use the following logos at Koor Technologies, Inc. When using the logos, plea
 - Logo 2, The Koor Technologies, Inc. logo with text, orange:
 - Logo 3, The Koor Technologies, Inc. logoe with text, black
 
-### Marketing Assets
+## Marketing Assets
 
 Company assets, including full resolution versions of the logo, are available in our [Marketing Assets](https://github.com/koor-tech/media) shared drive
 
-### Vision
+## Vision
 
 Koor Technologies, Inc. succeeds by accelerating growth and delivering responsive public services to our city and real estate partners. We actively strive to push-out relevant content and provide marketing assets that attract prospective city and real estate partners of our platform, and prospective residents to our partner cities. This helps support our mission of accelerating the growth of new great places to live.
 
-### Koor Technologies, Inc. Marketing Audiences
+## Koor Technologies, Inc. Marketing Audiences
 
-#### Businesses using Rook Ceph
+### Businesses using Rook Ceph
 
 - Description: Koor is providing a storage distribution on Rook Ceph to further make it easier to provide block, filesystem and object storage to applications.
 - Marketing Style: Typically are curious about storage for their containerized and microservices applications.
@@ -55,14 +57,14 @@ Koor Technologies, Inc. succeeds by accelerating growth and delivering responsiv
 - Pre-Koor Technologies, Inc. Software Vendors: A suite of software products, not fit for purpose, poorly connected, and not designed for emerging markets
 - Goal: Marketing Qualified Leads (MQLs)
 
-### Outbound Marketing
+## Outbound Marketing
 
 - Account-Based Marketing
 - Social Media (Twitter, Youtube, Linkedin)
 - Targeted ads
 - **Note**: To manage the company LinkedIn page, your personal LinkedIn account must be added as an admin. There should be no separate login for that.
 
-### Inbound Marketing
+## Inbound Marketing
 
 - Website
 - Blog Posts
@@ -70,7 +72,7 @@ Koor Technologies, Inc. succeeds by accelerating growth and delivering responsiv
 - Traditional Earned Media (eg news articles)
 - Podcasts: To help reach niche targeted audiences by providing information and knowledge that is interesting to the listener.
 
-### Accounts
+## Accounts
 
 Koor Technologies, Inc. has the following social media accounts:
 
@@ -79,15 +81,15 @@ Koor Technologies, Inc. has the following social media accounts:
 
 We also have some social media presence through our Artists In Residence program. Those are listed here.
 
-### Twitter
+## Twitter
 
-### Purpose of building a Twitter presence
+## Purpose of building a Twitter presence
 
 - Build a network of people interested in building new cities
 - Increase visibility and credibility in the tech scene.
 - Leverage already existing connections and affiliations (by following and getting followed by industry leaders).
 
-### General Twitter Guidelines
+## General Twitter Guidelines
 
 - Tweet from @koor_tech account
 - Keep the tweet concise.
@@ -100,17 +102,17 @@ We also have some social media presence through our Artists In Residence program
 - Ask questions and run polls (see poll ideas here [https://business.twitter.com/en/blog/engaging-twitter-poll-ideas.html](https://business.twitter.com/en/blog/engaging-twitter-poll-ideas.html)).
 - Do not express political views.
 
-### Tweet Approval Process
+## Tweet Approval Process
 
 - All tweets should be posted to the Tweet Slack channel for approval.
 - Tweets are to be approved by Nolan, Doreen or Minza.
 - The main account handler is Doreen, although any team member can submit tweets.
 
-### At which frequency should we tweet?
+## At which frequency should we tweet?
 
 - 1 to 2 times a week, in addition to our bi-weekly sprint updates
 
-### Who should we follow?
+## Who should we follow?
 
 - C-level and executives from successful and interesting start-ups.
 - Key stakeholders from the start-up scene.
@@ -118,21 +120,20 @@ We also have some social media presence through our Artists In Residence program
 - Global Business magazines.
 - Media platforms focused on tech, big data and storage (i.e. Ceph, TechCrunch, etc).
 
-### What should we tweet?
+## What should we tweet?
 
 - Product updates and app features: #FridayFeature.
-- 
 - Media content from events taking place at (i.e. marathon, AIR events, Little Explorers, etc).
 - Original blog posts (**Note**: format links with Bitly).
 - Blog posts and news articles written by other platforms about: Urbanization in emerging markets, New Cities, and community building.
 
-### About hashtags
+## About hashtags
 
 - For tweets related to events at, the hashtag \# should be used.
 - For tweets related to news at, the hashtag \# should be used.
 - For tweets related to news about, hashtags related to the post itself can be used (i.e. \# \# #).
 
-### Sprint Updates
+## Sprint Updates
 
 At the end of each sprint, C-Level posts an update to a variety of social media channels. Here is the process:
 
@@ -142,7 +143,7 @@ At the end of each sprint, C-Level posts an update to a variety of social media 
 4. Post the video and 1-2 highlights to Twitter from the [@koor_tech](https://twitter.com/koor_tech) account. Add \# and #remotework hashtags.
 5. C-Level retweets from his personal account and \[EA:\] using Hootsuite (in the future), schedules the same post in our other media channels: including LinkedIn: Koor Technologies, Inc., and Twitter: Koor Technoliges, Inc..
 
-### Sprint Update Video Guidelines
+## Sprint Update Video Guidelines
 
 !!! note
     Currently we are not publishing sprint update videos.
@@ -159,6 +160,6 @@ At the end of each sprint, C-Level posts an update to a variety of social media 
 7. For non-engineers: accomplishments or learnings should be shared rather than that an event took place. e.g. "We trained 5 users and they were able to complete xyz (or had difficulty with abc)" is much better than "we completed a training"
 8. Heads of Departments will include a one-slide update on OKRs on each sprint update
 
-### Recruiting
+## Recruiting
 
 See [People Ops Recruiting page](../people-ops/recruiting.md).

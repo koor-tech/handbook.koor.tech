@@ -39,7 +39,7 @@ In brief, this means that as a Koor Technologies, Inc. team member, you may:
 
 For more developed thoughts about spending guidelines and limits, please read [GitLab's open expense policy](https://about.gitlab.com/handbook/spending-company-money/).
 
-#### Purchasing a company-issued device.
+#### Purchasing a company-issued device
 
 Koor Technologies, Inc. provides laptops for team members to use while working at Koor Technologies, Inc. As soon as an offer is accepted, eashaw will reach out to the new team member to start this process. eashaw will work with the new team member to get their laptop purchased and shipped to them.
 
@@ -112,7 +112,7 @@ Please add our company logo to your email signature.
 
 **Signature Template**:
 
-```
+```plain
 YOUR_FIRST_NAME YOUR_LAST_NAME
 YOUR_JOB_TITLE
 Koor Technologies, Inc.
@@ -154,7 +154,7 @@ If you're new to Mac, please review this helpful [video](https://www.youtube.com
 
 ### Security
 
-### In case of lost or stolen property Employee should immediately notify \[insert group email\].
+**In case of lost or stolen property Employee should immediately notify \[insert group email\].**
 
 ### Letters of Employment & Full-Time Contractor
 
