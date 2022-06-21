@@ -27,7 +27,7 @@ Speak with your line manager before setting up your LinkedIn Learning Subscripti
 Once a course is completed, LinkedIn provides a certificate. A copy of this must be shared at the end of each course. This process will be used to track utilization and therefore confirm extension after the pilot.
 
 !!! note
-    You can expense your LinkedIn Premium Membership via Expensify (currently please use the tool you need to use for your expenses, e.g., Pilot).
+    You can expense your LinkedIn Premium Membership via Expensify (currently please use the tool you need to use for your expenses, e.g., Non-US Employee Management).
 
 ### Other Learning Programs
 

@@ -187,7 +187,7 @@ Follow these steps to fill in the Consulting Agreement:
 - Schedule and coordinate international travel for the executive team
 - Call, calendar, meeting, and travel coordination, including creating itineraries, document preparation, etc.
 - Triage inbox for CEO on daily basis and notify them of high priority items
-- Consolidate receipts for the executive team and upload to Brex
+- Consolidate receipts for the executive team and upload to Credit Card Provider
 - Setup new accounts as requested and save credentials to 1Password
 - Establish and implement remote office procedures and controls and add to the Handbook
 - Act as an information source on group and company policies

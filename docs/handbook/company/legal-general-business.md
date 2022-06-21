@@ -88,8 +88,8 @@ Accounting is responsible to coordinate and manage these important dates and mak
 - For expense reports, receipts should be submitted through **Expensify**
 - If you paid business expenses with your personal card, submit your receipts through Expensify. And submit your Expensify Report for approval within the system.
 - You can do this through the app, or by forwarding the receipt to receipts@expensify.com from your Koor Technologies, Inc. email address.
-- The reimbursement for **US-based team members** will be processed in Bill.com unless otherwise advised.
-- The reimbursement for **non-US team members** will be processed in Pilot unless otherwise advised.
+- The reimbursement for **US-based team members** will be processed in US Billing Tool unless otherwise advised.
+- The reimbursement for **non-US team members** will be processed in Non-US Employee Management unless otherwise advised.
 - Please submit all receipts by the 7th of the month as Accounting has the deadline to close the books monthly. For example, the expense report and the receipts for October 2020 need to be submitted by November 7th, 2020
 
 ### Expense Report Approval & Reimbursement
@@ -97,10 +97,10 @@ Accounting is responsible to coordinate and manage these important dates and mak
 - Expensify approval process is automated
 - Once you submit your expense report, the system will route your expense report to your direct manager for approval
 - After the manager approves in Expensify, Accounting will validate the receipts for accuracy and process payment within 7 days through one of the following methods:
-    - Bill.com for **US-based team members**
-    - Pilot for **non-US team members**
-    - Frequency of Pilot Reimbursement
-        Given the company has implemented the monthly stipend payment to cover the bank fees associated with the monthly Pilot payroll, effective September 1, 2021, Accounting will process monthly reimbursement along with the monthly Pilot payroll to effectively manage the bank fees the company needs to pay. \*\* Exception\*\*: If the reimbursement amount is significant to the team member who needs to get the payment sooner than the monthly payment schedule, please send an e-mail request to [accounting@koor.tech](mailto:accounting@koor.tech) for an off-cycle reimbursement payment.
+    - US Billing Tool for **US-based team members**
+    - Non-US Employee Management for **non-US team members**
+    - Frequency of Non-US Employee Management Reimbursement
+        Given the company has implemented the monthly stipend payment to cover the bank fees associated with the monthly Non-US Employee Management payroll, effective September 1, 2021, Accounting will process monthly reimbursement along with the monthly Non-US Employee Management payroll to effectively manage the bank fees the company needs to pay. \*\* Exception\*\*: If the reimbursement amount is significant to the team member who needs to get the payment sooner than the monthly payment schedule, please send an e-mail request to [accounting@koor.tech](mailto:accounting@koor.tech) for an off-cycle reimbursement payment.
     - Your hiring agency, for non-US team members who are working with Koor Technologies, Inc. via an agency
     - For non contracted Koor Technologies, Inc. team members, Transferwise will be used to process reimbursement unless otherwise agreed
 
@@ -150,10 +150,10 @@ Accounting is responsible to coordinate and manage these important dates and mak
 - If you paid business expenses with the company's pre-paid card, please submit your receipts through Expensify.
 - Very importantly, please name the report with the wording such as " Receipts Submission Only". For example, "October 2020 Expenses\_ Receipts Submission Only". Including this specific wording will be very helpful for Accounting to differentiate the expense reports that do not require reimbursements versus the ones that they do.
 
-### Business Expenses paid by Koor Technologies, Inc.'s Brex Card
+### Business Expenses paid by Koor Technologies, Inc.'s Credit Card Provider Card
 
-- If you paid business expenses with the company's Brex card, please forward the receipts directly to `receipts@brex.com` or upload your receipts directly to [Brex](https://www.brex.com/), also make sure you add a memo with a brief description of the expense.
-- ALL business expenses require a receipt submitted to Brex
+- If you paid business expenses with the company's Credit Card Provider card, please forward the receipts directly to `receipts@brex.com` or upload your receipts directly to Credit Card Provider, also make sure you add a memo with a brief description of the expense.
+- ALL business expenses require a receipt submitted to Credit Card Provider
 - All transactions require a memo
 - Make sure to submit an itemized receipt, not the credit card payment
 - For business meals or client meetings, please list the business purpose and the names of all the participant in the receipt
@@ -165,7 +165,7 @@ Depending on the business trip or the special situation of certain vendors, a ca
 
 - Cash Advance requires an approval from the team member's manager
 - Cash Advance requestor should forward the manager's approval to [accounting@koor.tech](mailto:accounting@koor.tech) to coordinate a payment
-- Accounting will either issue a cash advance payment in Pilot or the Executive Assistant will issue a cash advance in Wise
+- Accounting will either issue a cash advance payment in Non-US Employee Management or the Executive Assistant will issue a cash advance in Wise
 - The requestor should submit all receipts to Expensify right after the advanced cash is used for business purposes. Timely submitted receipts is very important and this will help accounting team to record these transactions properly
 - Please name the expense report "Cash Advance expenses, receipt submission only" so the accounting team will know this is to offset the cash advance balance
 

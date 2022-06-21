@@ -24,32 +24,32 @@ title: Finance
 
 ### Invoices Approvals
 
-- All invoices that require Accounting to make a payment are required to be processed in Bill.com
-- Approvals of invoices are completed in Bill.com.
+- All invoices that require Accounting to make a payment are required to be processed in US Billing Tool
+- Approvals of invoices are completed in US Billing Tool.
 - Accounting will route the invoices according to the following approval hierarchy
 - In general, invoices up to $5000 can either be approved by CTO or CEO.
 - Invoices over $5000 require CEO approval
-- **Project Related Invoice Approval**. For Project-related invoices, ONLY the Head of Engineering team approves the bill in Bill.com. The CTO and the CEO can approve the payment in SVB for wires.
-- The Head of Engineering and Accounting can review and validate the spending according to the Project budget periodically. However, all Project-related bills will need the Head of Engineering to approve in Bill.com to enable proper internal control.
+- **Project Related Invoice Approval**. For Project-related invoices, ONLY the Head of Engineering team approves the bill in US Billing Tool. The CTO and the CEO can approve the payment in SVB for wires.
+- The Head of Engineering and Accounting can review and validate the spending according to the Project budget periodically. However, all Project-related bills will need the Head of Engineering to approve in US Billing Tool to enable proper internal control.
 
 ### Invoice Receiving Acknowledgement and Documentations (Accounting's Responsibilities)
 
-- Process invoices received in accounting@koor.tech in Bill.com and route the invoices for approval in Bill.com according to the Invoice Approval Hierarchy.
-- The AP accountant will reply to the `accounting@koor.tech` and the vendor to acknowledge that the invoice has been processed in Bill.com. The turnaround time is usually 1-2 business days from the day the invoice is submitted to Accounting and the acknowledgment.
-- AP Accountant needs to make sure to use the contractor's contact email to send out bill.com e-invite (do not use the contractor's Koor Technologies, Inc. email). This will help us to make sure the applicable contractors can receive their tax forms even if they are no longer working with Koor Technologies, Inc.
-- For US vendors, upload a copy of W-9 in Bill.com under the Document section
-- For non-US vendors, upload a copy of [W-8BEN Form](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf) in Bill.com under the Document section
+- Process invoices received in accounting@koor.tech in US Billing Tool and route the invoices for approval in US Billing Tool according to the Invoice Approval Hierarchy.
+- The AP accountant will reply to the `accounting@koor.tech` and the vendor to acknowledge that the invoice has been processed in US Billing Tool. The turnaround time is usually 1-2 business days from the day the invoice is submitted to Accounting and the acknowledgment.
+- AP Accountant needs to make sure to use the contractor's contact email to send out US Billing Tool e-invite (do not use the contractor's Koor Technologies, Inc. email). This will help us to make sure the applicable contractors can receive their tax forms even if they are no longer working with Koor Technologies, Inc.
+- For US vendors, upload a copy of W-9 in US Billing Tool under the Document section
+- For non-US vendors, upload a copy of [W-8BEN Form](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf) in US Billing Tool under the Document section
 
 ### Invoice Payments
 
-### Bill.com Payments
+### US Billing Tool Payments
 
 - Once an invoice is approved, payment is usually processed based on Net 30 payment terms unless otherwise specified in an agreement or invoice
-- Bill.com e-payment is recommended to pay all vendors
-- How Bill.com e-payment works?
-    - To establish Bill.com e-payment, Accounting will send an e-invite to an email that is provided by the vendor. The vendor accepts the invite and provides their bank information within Bill.com. The payment will be scheduled to deposit to the vendor's account according to the payment terms. E-payment will usually arrive in the recipient's account within 2-4 business days.
+- US Billing Tool e-payment is recommended to pay all vendors
+- How US Billing Tool e-payment works?
+    - To establish US Billing Tool e-payment, Accounting will send an e-invite to an email that is provided by the vendor. The vendor accepts the invite and provides their bank information within US Billing Tool. The payment will be scheduled to deposit to the vendor's account according to the payment terms. E-payment will usually arrive in the recipient's account within 2-4 business days.
 
-**Exception:** For some non-US vendors who may have difficulties setting up a Bill.com e-payment, a wire payment will be processed.
+**Exception:** For some non-US vendors who may have difficulties setting up a US Billing Tool e-payment, a wire payment will be processed.
 
 ### Wire Payments
 
@@ -60,7 +60,7 @@ All wires from SVB are initiated by Accounting and approved by Koor Technologies
 1. Make sure the vendor provides all the required information as outlined below before requesting a wire payment
 2. For a new vendor's 1st payment, please send an email to accounting@koor.tech with invoices, wire instructions, Form W-8BEN-E (if non-US vendors). For the 2nd payment and onward, send invoice only is okay unless the vendor requests any changes, such as bank changes
 3. Make sure the vendor provides a formal invoice. (A quotation and/or a Pro Forma Invoice cannot be accepted to issue a payment) Exceptions should be discussed with the CTO or CEO and Accounting.
-4. For non-US vendors, make sure the invoices indicate the proper currency Wire payment is used to pay any vendors who cannot get paid via Bill.com or to provides funds to **non-US team members** for business expenses. To request a wire payment, please send an email request to accounting@koor.tech along with:
+4. For non-US vendors, make sure the invoices indicate the proper currency Wire payment is used to pay any vendors who cannot get paid via US Billing Tool or to provides funds to **non-US team members** for business expenses. To request a wire payment, please send an email request to accounting@koor.tech along with:
 5. The invoice to be paid
 6. Vendor's wire instructions - see below-requested information about wire instructions
 7. If a foreign currency wire payment is required, please indicate which currency
@@ -83,21 +83,21 @@ All wires from SVB are initiated by Accounting and approved by Koor Technologies
 
 ### Payroll
 
-- Payroll for US-based full-time employees is managed via Gusto.
+- Payroll for US-based full-time employees is managed via US Employee Management.
 - Koor Technologies, Inc. runs a semi-monthly payroll schedule.
-- US Employees will complete the onboarding process through Gusto and set up direct deposits for their payroll payments.
+- US Employees will complete the onboarding process through US Employee Management and set up direct deposits for their payroll payments.
 
 ### Contracted Non-US Team Members
 
-- For contracted **non-US team members**, a completed W-8BEN Form is collected during the [Pilot](#pilot) onboarding process.
-- Payments related to the contracted services are usually processed in [Pilot](#pilot) monthly.
+[Non-US Employee Management](#non-us-employee-management)
+
 - Expense reimbursement reports from the **non-US team members** are required to submit in Expensify.
 
-Please refer to the Expense Reports and Pilot sections below for more details.
+Please refer to the Expense Reports and Non-US Employee Management sections below for more details.
 
-### Pilot
+### Non-US Employee Management
 
-Koor Technologies, Inc. uses [Pilot](https://pilot.co/) to process payments for **non-US team members.**
+Koor Technologies, Inc. uses a Non-US Employee Management to process payments for **non-US team members.**
 
 When a team member successfully completes the onboarding process, the direct manager of the new hire should notify Accounting immediately via sending an email to [accounting@koor.tech](mailto:accounting@koor.tech) with the information below:
 
@@ -106,7 +106,7 @@ When a team member successfully completes the onboarding process, the direct man
 - Annual or monthly compensation in USD$
 With the new hire's information, Accounting will help to pre-generate the monthly invoices for the next 12 months on behalf of the new hire. If there are any exceptions on this, please notify Accounting by sending an email to [accounting@koor.tech](mailto:accounting@koor.tech).
 
-Since the team members in Pilot are mostly based outside of the US and the processing time of non-US payment varies, Accounting has developed a monthly payment calendar to streamline the payment schedule and to allow the funds to arrive on or before the last day of each month.
+Since the team members in Non-US Employee Management are mostly based outside of the US and the processing time of non-US payment varies, Accounting has developed a monthly payment calendar to streamline the payment schedule and to allow the funds to arrive on or before the last day of each month.
 
 For new hires who joined on or before the 22nd of a given month, Accounting will try to include the new hire in the monthly payment schedule. If a new hire joined after the 22nd of a given month, Accounting may need to run an off-cycle payment for the new hire. Accounting will notify the new hire when the payment will arrive in the situation of an off-cycle payment.
 
