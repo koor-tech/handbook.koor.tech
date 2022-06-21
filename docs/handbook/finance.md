@@ -55,7 +55,7 @@ title: Finance
 
 All wires from SVB are initiated by Accounting and approved by Koor Technologies, Inc. authorized SVB signer(s) per the authorization that is set up with SVB.
 
-#### Wire requestor's responsibilities:
+#### Wire requestor's responsibilities
 
 1. Make sure the vendor provides all the required information as outlined below before requesting a wire payment
 2. For a new vendor's 1st payment, please send an email to accounting@koor.tech with invoices, wire instructions, Form W-8BEN-E (if non-US vendors). For the 2nd payment and onward, send invoice only is okay unless the vendor requests any changes, such as bank changes
