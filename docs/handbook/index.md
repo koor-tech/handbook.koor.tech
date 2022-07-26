@@ -37,4 +37,5 @@ It is a good idea to bookmark the following links:
         * [Checklist: Manager](people-ops/onboarding/checklist-manager.md)
         * [Checklist: New Employee](people-ops/onboarding/checklist-new-employee.md)
 * [Tools](tools.md)
+* [Troubleshooting Strategy](troubleshooting-strategy.md)
 * [Performance Metrics & Evaluation](performance-metrics-and-evaluation.md)
