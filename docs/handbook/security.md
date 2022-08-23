@@ -37,3 +37,6 @@ You can either put Two-Factor into our company password store tool or on your sm
 
 If you want to put the second factor on your smartphone, we recommend the following app: [https://github.com/beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis).
 (Please ensure that you have an encrypted backup of whatever Two-Factor app you are using)
+
+Google account Two-Factor settings can be found here: [https://myaccount.google.com/signinoptions/two-step-verification](https://myaccount.google.com/signinoptions/two-step-verification).
+(For Google accounts, the "Google prompts" two-factor is also okay)
