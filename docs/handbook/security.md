@@ -18,7 +18,7 @@ Do not click on any links or attachments in it! Forward the email to [security@k
 
 ### General Guidelines
 
-* Use Two Factor Authentication (2FA) or Multi Factor Authentication (MFA) whenever available.
+* Use Two Factor Authentication (2FA) or Multi Factor Authentication (MFA) whenever available, for more information [Two-Factor Authentication section](#two-factor-authentication).
 * Use encryption for your company devices (e.g., company laptop must be encrypted with a password or other token).
 
 ### Engineers, Developers and Administrators Guidelines
@@ -28,3 +28,12 @@ Do not click on any links or attachments in it! Forward the email to [security@k
 ## Security Resources
 
 * [Cloudflare Radar](https://radar.cloudflare.com/)
+
+***
+
+## Two-Factor Authentication
+
+You can either put Two-Factor into our company password store tool or on your smartphone using a TOTP/HOTP app.
+
+If you want to put the second factor on your smartphone, we recommend the following app: [https://github.com/beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis).
+(Please ensure that you have an encrypted backup of whatever Two-Factor app you are using)
