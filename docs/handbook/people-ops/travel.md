@@ -2,7 +2,7 @@
 title: Travel
 ---
 
-While Koor Technologies, Inc. is a remote company, at time team members may travel to visit partners and city sites for product testing, training, relationship building, and hands on experience. To maximize the benefits of the visit and share learnings of trip across the team, the following process is followed:
+While Koor Technologies, Inc. is a remote company, at time team members may travel to visit partners for product testing, training, relationship building, and hands on experience. To maximize the benefits of the visit and share learnings of trip across the team, the following process is followed:
 
 - Create a trip folder and share notes on trip goal and plans
 - Upload daily pictures from the visits

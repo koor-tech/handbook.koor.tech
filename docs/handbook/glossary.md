@@ -4,8 +4,7 @@ title: Glossary
 
 Here are some terms we use at Koor Technologies, Inc. that may require definition
 
-* Client: A paying customer of our customer, i.e. a person who is buying or leasing a plot of land.
-* Customer: Also referred to as "Partner" \-- a city administrative team who is leveraging the Koor Technologies, Inc. platform to connect with their residents
-* Partner: Also sometimes referred to as "Customer". See that entry for definition. We want to have partners to also believe in storage in and for Kubernetes
-* Prospect: Generally refers to a *prospective client* of our customer, i.e. a person who is considering buying a plot of land in the city : It may also refer to a *prospective partner* of ours, i.e. a city administrative team who we are discussing partnering with to use our software
-* User: One who is using the Koor Technologies, Inc. platform, who could be a client or prospect of our customer, or even someone on the administrative team
+* Customer: A paying customer of our customer, i.e. a person who is using the Koor Storage Distribution or pays for professional services/ consulting.
+* Partner: Other companies which are partnered with us to provide their customers that require storage for their applications.
+* Prospect: Generally refers to a *prospective customer*, i.e. a company needing storage for their applications: It may also refer to a *prospective partner* of ours, i.e. a company wanting to provide our storage solution to their customer's applications.
+* User: Someone who is using either Rook, Ceph or even the Koor Storage Distributiob, who could be a client or prospect of our partners.

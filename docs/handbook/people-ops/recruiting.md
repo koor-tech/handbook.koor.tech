@@ -102,7 +102,6 @@ Here are frequently asked questions and our answers:
     1. Our current team is listed on our [website](https://koor.tech/about/)
 4. What's your value proposition?
     1. For cities, we help them attract and build relationships with residents, deliver and improve municipal services, and have an innovative and cost-efficient software infrastructure.
-    2. For residents, we provide access to all city services in one place and a way to give feedback and be heard. We expect this to build strong communities and better places to live.
 5. What's the compensation range?
     1. We aim to pay at the 50th percentile of the local market in which we're hiring. We factor in the role, seniority, and location. Your exact compensation amount will be based on your experience level and market conditions. Note that we do not offer options/equity at this time. Some references we use to calibrate on market rates are reports from the [Birches Group](https://birchesgroup.com/), [Payscale.com](https://payscale.com/), [Glass Door](https://glassdoor.com/), [Salary.com](https://salary.com/), and [Blind](https://teamblind.com/).
 6. Why don't you offer options/equity?

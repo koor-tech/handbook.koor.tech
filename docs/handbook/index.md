@@ -34,7 +34,6 @@ It is a good idea to bookmark the following links:
     * [Knowledge, Training & Development](people-ops/knowledge-training-and-development.md)
     * [Travel](people-ops/travel.md)
     * [Onboarding](people-ops/onboarding/index.md)
-        * [Checklist: Manager](people-ops/onboarding/checklist-manager.md)
         * [Checklist: New Employee](people-ops/onboarding/checklist-new-employee.md)
 * [Tools](tools.md)
 * [Troubleshooting Strategy](troubleshooting-strategy.md)

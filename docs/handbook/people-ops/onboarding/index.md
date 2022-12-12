@@ -8,7 +8,7 @@ Welcome to the team!
 
 Before you join, your manager should create an onboarding ticket in GitHub. To do this:
 
-1. Go to the [Onboarding Checklist: Manager](checklist-manager.md) and [Onboarding Checklist: New Employee](checklist-new-employee.md)
+1. Go to the [Onboarding Checklist: New Employee](checklist-new-employee.md)
 2. Create a Title of `Onboarding -- <employee_name>`
 3. Select Choose a template next to "Description"
 4. Select the New Teammate Onboarding template. This template has todos for the new teammate, for their manager, and to help set up the proper administrative needs.
