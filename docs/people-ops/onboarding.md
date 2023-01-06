@@ -8,8 +8,8 @@ Welcome to the team!
 
 Before you join, your manager should create an onboarding ticket in GitHub. To do this:
 
-1. Go to the [Onboarding Checklist: New Employee](checklist-new-employee.md)
-2. Create a Title of `Onboarding -- <employee_name>`
+1. Go to the [Onboarding Checklist Section of our Internal Handbook](https://docs.google.com/document/d/1ab8In7SPnDbjUscdVxlxhTstrSJBav6ofxl4bF1BHF8/edit#heading=h.2ku6zr8p1u6w) and create a new document using the checklist.
+2. Create a document with the title of `Onboarding - <employee_name>`
 3. Select Choose a template next to "Description"
 4. Select the New Teammate Onboarding template. This template has todos for the new teammate, for their manager, and to help set up the proper administrative needs.
 5. Schedule a daily check-in for each day of the first two weeks. Status Hero will automatically ask the employee for their status.
@@ -48,8 +48,8 @@ If you're moving for work, Koor Technologies, Inc. will pay relocation costs sub
 
 When a new teammate joins, we take the opportunity for the whole company to come together and welcome them to the team. Like the Biweekly Team call, this call is different than all other Koor Technologies, Inc. meetings because it is mostly focused on the team we're building, not our product or programs or customer relationships. We do this ritual to celebrate the growth of our team, to reflect back on how we've grown over time and how every single new person has changed the trajectory of our company, to form new relationships among ourselves and to help everyone know the newest member of the Koor Technologies, Inc. team.
 
-- We use our [all-team notes document](https://docs.google.com/document/d/1XQiasChN13tK5RUCyGb5P6qjxWFrNWoe8WlKNYBSpCc/edit#) to guide the conversation
-- We go through in order of Start Date from our [Team Milestones](#TODO)
+- We use our [retro and planning notes document](https://docs.google.com/document/d/1TZiFUMAEFN1o6ymrE92SfW3OVEeMWcfifwaCSVWffXg/edit) to guide the conversation
+- We go through in order of Start Date from our [Product Milestones]([#TODO](https://koor.tech/development-roadmap/))
 - Each person introduces themselves, explains their role, and shares some tidbit about themselves (which changes for each meeting).
 - Each person then calls on the next teammate on the list.
 

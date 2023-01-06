@@ -14,4 +14,4 @@ USA
 ```
 
 !!! note
-    The company does not have any method of receiving packages or physical items.
+    We do not have any method of receiving packages or physical items.

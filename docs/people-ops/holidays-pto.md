@@ -35,7 +35,7 @@ Starting on December 24th, Koor Technologies, Inc. enjoys a company Christmas Ho
 !!! note
     We don't have a on call schedule at the moment.
 
-For Support during the holiday, please refer to the [2022 Holidays On Call Schedule](#TODO)
+For Support during the holiday, please refer to the [2022 Holidays On Call Schedule](#TODO).
 
 #### 2022 End of Year Celebration - *21.12.2022*
 

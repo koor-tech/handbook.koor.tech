@@ -12,7 +12,7 @@ At Koor Technologies, Inc. we use the concept of directly responsible individual
 | Aspect                                                         | DRI                      |
 | -------------------------------------------------------------- | ------------------------ |
 | How the product works                                          | \[insert teammate name\] |
-| Koor Technologies, Inc.ctl CLI interface (and other tools)     | \[insert teammate name\] |
+| Koor Storage Distribution (and other tools)                    | \[insert teammate name\] |
 | Terraform                                                      | \[insert teammate name\] |
 | Customer renewals                                              | \[insert teammate name\] |
 | Quality of Koor Storage Distribution                           | \[insert teammate name\] |
@@ -21,7 +21,6 @@ At Koor Technologies, Inc. we use the concept of directly responsible individual
 | Release notes                                                  | \[insert teammate name\] |
 | Publishing release blog post, and promoting releases           | \[insert teammate name\] |
 | koor.tech Website                                              | \[insert teammate name\] |
-| Self-service Koor Technologies, Inc. Premium license dispenser | \[insert teammate name\] |
 
 You can read more about directly responsible individuals in [Gitlab's handbook](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/).
 

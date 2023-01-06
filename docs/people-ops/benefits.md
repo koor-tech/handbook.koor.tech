@@ -11,7 +11,7 @@ In this section, we describe what we offer to our Team Members; our default poli
 
 We are providing a work laptop to employees with following minimum specifications:
 
-* CPU: Minimum Intel 11nd Gen or AMD Ryzen Zen 2
-* Memory (RAM): 32GB or more
-* Storage: 256GB or more
+* CPU: AMD Ryzen Zen 2 or Intel 12nd Gen (or better)
+* Memory (RAM): 32GB
+* Storage: 256GB
 * Display: 1080p or 4k

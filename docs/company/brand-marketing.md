@@ -21,46 +21,71 @@ Correct Usage:
 - Koor Technologies, Inc. ✓
 - Koor.Tech ✓
 
-## Do we brand our app?
+## Do we brand our product?
 
-We include a "Powered by Koor Technologies, Inc." tag in the app, but want all branding to focus on our customers' communities. There are enough new concepts for residents of new cities to grapple with, and explaining "who is Koor Technologies, Inc." is not something we want to introduce into the equation at this point. Better for people to associate our application on the innovation of the community itself.
+We include a "Powered by Koor Technologies, Inc." tag in the Koor Storage Distribution, but want all branding to focus on our customers' communities. There are enough new concepts for residents of new cities to grapple with, and explaining "who is Koor Technologies, Inc." is not something we want to introduce into the equation at this point. Better for people to associate our application on the innovation of the community itself.
 
-We should think of our brand as important to entrepreneurs building new cities. This community is small enough that we do not think it's necessary to have a consumer facing brand.
+We should think of our brand as important to companies in need of storage for their applications. This community is small enough that we do not think it's necessary to have a consumer facing brand.
 
 ## Company letterhead
 
 Our company Letterhead can be accessed [here](#TODO). This is read-only; make a copy to edit
 
+## Colors
+
+* Primary color: `#19dda5`, called "Medium Aquamarine"
+    * Darker version of primary color (e.g., for night mode): `#119671`, called "Paolo Veronese Green"
+* Secondary color: `#1d2628`, called "Charleston Green"
+
 ## Logos
 
 We use the following logos at Koor Technologies, Inc. When using the logos, please keep space between the logo and other images or text. Generally a good amount of separation space is the size of the Koor Technologies, Inc. 'K' away from the logo
 
-- Logo 1, The Koor Technologies, Inc. logo:
-- Logo 2, The Koor Technologies, Inc. logo with text, orange:
-- Logo 3, The Koor Technologies, Inc. logoe with text, black
+=== "Logos"
+
+    - Logo 1, The Koor Technologies, Inc. logo with icon and text, icon in primary color and secondary color accent, white text:
+        ![](https://koor.tech/images/koor/logos/Logo_1.png)
+    - Logo 2, The Koor Technologies, Inc. logo with icon and text, icon in primary color and white as color accent, text in secondary color:
+        ![](https://koor.tech/images/koor/logos/Logo_2.png)
+    - Logo 3, The Koor Technologies, Inc. logo with icon and text, icon and text in secondary color:
+        ![](https://koor.tech/images/koor/logos/Logo_3.png)
+    - Logo 4, The Koor Technologies, Inc. logo with icon and text, icon and text in full primary color:
+        ![](https://koor.tech/images/koor/logos/Logo_4.png)
+    - Logo 5, The Koor Technologies, Inc. logo with icon and text, icon and text in white:
+        ![](https://koor.tech/images/koor/logos/Logo_5.png)
+
+=== "Icons"
+    === "Icon 1"
+        ![](https://koor.tech/images/koor/icons/Icon_1.png)
+
+    === "Icon 2"
+        ![](https://koor.tech/images/koor/icons/Icon_2.png)
+
+    === "Icon 3"
+        ![](https://koor.tech/images/koor/icons/Icon_3.png)
 
 ## Marketing Assets
 
-Company assets, including full resolution versions of the logo, are available in our [Marketing Assets](https://github.com/koor-tech/media) shared drive
+Company assets, including full resolution versions of the logo and icons, are available in our [GitHub koor-tech/media repository](https://github.com/koor-tech/media).
 
 ## Vision
 
-Koor Technologies, Inc. succeeds by accelerating growth and delivering responsive public services to our city and real estate partners. We actively strive to push-out relevant content and provide marketing assets that attract prospective city and real estate partners of our platform, and prospective residents to our partner cities. This helps support our mission of accelerating the growth of new great places to live.
+Koor Technologies, Inc. succeeds by accelerating growth and delivering responsive public services to our city and real estate partners. We actively strive to push-out relevant content (e.g., blog posts, guides, tutorials) and provide marketing assets that attract prospective companies and Kubernetes platform partners. This helps support our mission of accelerating the growth of new great places to live.
 
 ## Koor Technologies, Inc. Marketing Audiences
 
 ### Businesses using Rook Ceph
 
-- Description: Koor is providing a storage distribution on Rook Ceph to further make it easier to provide block, filesystem and object storage to applications.
+- Description: Koor is developing the Koor storage distribution based on Rook Ceph to make it easy to provide block, filesystem and object storage to your applications.
 - Marketing Style: Typically are curious about storage for their containerized and microservices applications.
-- Examples: Blog post on common challenges at using storage in Kubernetes, OpenShift, etc.
-- Pre-Koor Technologies, Inc. Software Vendors: A suite of software products, not fit for purpose, poorly connected, and not designed for emerging markets
+- Examples: Blog post on common challenges at using storage in Kubernetes, OpenShift, Rancher, etc.
+- Pre-Koor Technologies, Inc. Software Vendors: A suite of software and hardware products, not designed for the cloud native "world"
 - Goal: Marketing Qualified Leads (MQLs)
 
 ## Outbound Marketing
 
 - Account-Based Marketing
-- Social Media (Twitter, Youtube, Linkedin)
+- Social Media (Twitter, Linkedin, Youtube)
 - Targeted ads
 - **Note**: To manage the company LinkedIn page, your personal LinkedIn account must be added as an admin. There should be no separate login for that.
 
@@ -70,6 +95,7 @@ Koor Technologies, Inc. succeeds by accelerating growth and delivering responsiv
 - Blog Posts
 - Overview Deck
 - Traditional Earned Media (eg news articles)
+- Community Slack Help
 - Podcasts: To help reach niche targeted audiences by providing information and knowledge that is interesting to the listener.
 
 ## Accounts
@@ -78,20 +104,19 @@ Koor Technologies, Inc. has the following social media accounts:
 
 - Twitter: [@koor_tech](https://twitter.com/koor_tech)
 - LinkedIn: [Koor Technologies, Inc.](https://www.linkedin.com/company/koor-technologies-inc/)
-
-We also have some social media presence through our Artists In Residence program. Those are listed here.
+- YouTube: [Koor Technologies, Inc.](https://www.youtube.com/@koor-tech)
 
 ## Twitter
 
-## Purpose of building a Twitter presence
+### Purpose of building a Twitter presence
 
 - Build a network of people interested in building new cities
 - Increase visibility and credibility in the tech scene.
 - Leverage already existing connections and affiliations (by following and getting followed by industry leaders).
 
-## General Twitter Guidelines
+### General Twitter Guidelines
 
-- Tweet from @koor_tech account
+- Tweet from `@koor_tech` account
 - Keep the tweet concise.
 - Limit hashtags to 1-2 per Tweet.
 - Include a clear call-to-action where applicable (i.e." Read the full story here").
@@ -101,33 +126,34 @@ We also have some social media presence through our Artists In Residence program
 - Use emojis to add emotion when it applies.
 - Ask questions and run polls (see poll ideas here [https://business.twitter.com/en/blog/engaging-twitter-poll-ideas.html](https://business.twitter.com/en/blog/engaging-twitter-poll-ideas.html)).
 - Do not express political views.
+- Use [Tweetdeck](https://tweetdeck.twitter.com/) for easier tweet scheduling.
 
-## Tweet Approval Process
+### Tweet Approval Process
 
 - All tweets should be posted to the Tweet Slack channel for approval.
-- Tweets are to be approved by Nolan, Doreen or Minza.
-- The main account handler is Doreen, although any team member can submit tweets.
+- Tweets are to be approved by Alexander.
+- The main account handler is Alexander, although any team member can submit tweets.
 
-## At which frequency should we tweet?
+### At which frequency should we tweet?
 
 - 1 to 2 times a week, in addition to our bi-weekly sprint updates
 
-## Who should we follow?
+### Who should we follow?
 
 - C-level and executives from successful and interesting start-ups.
 - Key stakeholders from the start-up scene.
-- New Cities / Charter Cities organizations, leaders, and influencers.
+- New leaders, and influencers in the cloud native and storage field.
 - Global Business magazines.
 - Media platforms focused on tech, big data and storage (i.e. Ceph, TechCrunch, etc).
 
-## What should we tweet?
+### What should we tweet?
 
 - Product updates and app features: #FridayFeature.
 - Media content from events taking place at (i.e. marathon, AIR events, Little Explorers, etc).
 - Original blog posts (**Note**: format links with Bitly).
 - Blog posts and news articles written by other platforms about: Urbanization in emerging markets, New Cities, and community building.
 
-## About hashtags
+### About hashtags
 
 - For tweets related to events at, the hashtag \# should be used.
 - For tweets related to news at, the hashtag \# should be used.

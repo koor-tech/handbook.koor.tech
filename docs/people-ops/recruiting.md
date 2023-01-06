@@ -6,7 +6,7 @@ We aim to build a world-class team. This page goes through processes for interna
 
 ## Jobs and boards
 
-We use [Greenhouse](https://app4.greenhouse.io/) to host all jobs and manage our recruiting and interview process. All team members are welcome to participate, and will be asked to play different roles for different positions. Our open jobs are listed on [our website](https://koor.tech/about/).
+We use a hiring and recruitment management tool to host all jobs and manage our recruiting and interview process. All team members are welcome to participate, and will be asked to play different roles for different positions. Our open jobs are listed on [our website](https://koor.tech/about/).
 
 ## Internal Referral Incentive Program for Software Engineers
 
@@ -52,7 +52,7 @@ For positions reporting to CEO, candidates will speak with multiple team members
 !!! note
     This process is currently still under development.
 
-Open positions are posted on our [job board](https://koor.tech). Please apply through there, and your application will be reviewed and responded to. If it appears there's a good potential fit, here's an overview of the steps in our engineering interview process:
+Open positions are posted on our [job board](https://koor.tech/career/). Please apply through there, and your application will be reviewed and responded to. If it appears there's a good potential fit, here's an overview of the steps in our engineering interview process:
 
 1. Initial introduction - 25 minutes with either CEO or Head of Engineering. What we'll go through:
     - High-level meeting call to ensure the candidate and Koor Technologies, Inc. align on job requirements
@@ -107,10 +107,10 @@ Here are frequently asked questions and our answers:
 6. Why don't you offer options/equity?
     1. We view this as a huge opportunity, but one that will take a while to mature. We envision a product with a large footprint and know that cities take a while to decide on and adopt new technology. This kind of opportunity better suits a visionary investor than a traditional venture capitalist. We're therefore structured as a sole-proprietorship LLC and our aim is to demonstrate product-market fit and a clear roadmap that warrants larger investment from outside investors. When we achieve this we will reconsider distributing equity to employees.
 7. Have you specified growth targets and timelines? How well are you doing against those goals?
-    1. Please see details on our [goals page](https://handbook.koor.tech/company/goals/#company-goal)
-    2. Please see progress against top-line goals from our latest "Progress Update" from our [YouTube Playlists](https://youtube.com/channel/UCALY7l5iisNVrEyvLgQa3ig/playlists).
+    1. Please see details on our [vision page](https://koor.tech/development-roadmap/)
+    2. Please see progress against top-line goals from our latest "Office Hours" from our [YouTube Playlists](https://www.youtube.com/playlist?list=PLns6hdNQZpizxgX7cQzzEiC2bq3TLd-aY).
 8. Is there a defined process that will guide how customers will transition from the current partnership status to revenue generating status?
-    1. Our plan is to grow revenue along with our partner cities' revenue. This aligns our incentives with the theirs: to create economic growth. As an end-to-end platform ([see vision here](https://docs.google.com/presentation/d/1c-Ci9QVSc-H0vwtelS0mL4Ka5v2kbzr-1BfOSfLp4d4/edit#slide=id.g5137e6e1a9_0_244)) there are many opportunities to monetize. We work with our partners to consider the best approach for them, and have explored transactions, revenue share, and monthly fees based on population.
+    1. Our plan is to grow revenue along with our partner cities' revenue. This aligns our incentives with the theirs: to create economic growth. As an end-to-end platform ([see vision here](https://koor.tech/development-roadmap/)) there are many opportunities to monetize. We work with our partners to consider the best approach for them, and have explored transactions, revenue share, and monthly fees based on population.
 
 ## Tips for a successful interview
 
@@ -136,15 +136,15 @@ We would like to talk with a current or former colleague from each of these cate
 4. Someone you've supervised, if you're applying for a management position
 5. Someone else of your choosing
 
-We encourage you to share people who have worked with you closely and know your capabilities well. We also encourage you to ask them to be candid so we can get to understand who you are and what you can bring to the team. We have a [reference script](https://docs.google.com/document/d/1xNIPigVRPgoZZX5fkLvsBY9Dgt77za6pgyIunz33PVs/edit#heading=h.hh2zfqnu4rt) that we use, but do not share in advance because we want candid and spontaneous responses.
+We encourage you to share people who have worked with you closely and know your capabilities well. We also encourage you to ask them to be candid so we can get to understand who you are and what you can bring to the team. We have a [reference script](#TODO) that we use, but do not share in advance because we want candid and spontaneous responses.
 
 ## Offer
 
-Offers should be delivered verbally, then with an email attaching a signed [Offer Letter](https://docs.google.com/document/d/1Amc2qu1UceRi_IKii6ThCQnEWqDDRO7Iz4I7Cl97Zj8/edit), and then with a legal contract. Some team members join us through an agency, in which case the details are worked out in the conversation with their agency. For independent, full-time team members, use this [offer template and script](https://docs.google.com/document/d/1ph51ZB_Cg1p3gkK47I_yBmQ1yEG_cVcwjtHGYdlTC8Y/edit).
+Offers should be delivered verbally, then with an email attaching a signed [Offer Letter](#TODO), and then with a legal contract. Some team members join us through an agency, in which case the details are worked out in the conversation with their agency. For independent, full-time team members, use this [offer template and script](#TODO).
 
 ## US Based Consultants
 
-When retaining the services of a U.S. based consultant, please use the following [Consulting Agreement](https://docs.google.com/document/d/108h0ksfFGc0J6u2MvDLJG9-hpR3W_LcJ6X-XBGInVSw/edit)
+When retaining the services of a U.S. based consultant, please use the following [Consulting Agreement](#TODO)
 
 Follow these steps to fill in the Consulting Agreement:
 
@@ -172,7 +172,7 @@ Follow these steps to fill in the Consulting Agreement:
 11. Email peopleops@koor.tech to inform them to set up the consultant with a 1099.
 12. Save the executed copy of the Agreement to our Shared Drive for contracts. (Ask CEO for link.)
 
-***After our annual*** ***[360 Performance Review](https://handbook.koor.tech/people-group/360-feedback/), each Head Team should update their team's Job Description to represent each member's actual role accurately.***
+***After our annual Performance Review, each Head Team should update their team's Job Description to represent each member's actual role accurately.***
 
 ## Roles
 

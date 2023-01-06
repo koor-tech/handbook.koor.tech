@@ -2,7 +2,7 @@
 title: Glossary
 ---
 
-Here are some terms we use at Koor Technologies, Inc. that may require definition
+Here are some terms we use at Koor Technologies, Inc. that may require definition:
 
 * Customer: A paying customer of our customer, i.e. a person who is using the Koor Storage Distribution or pays for professional services/ consulting.
 * Partner: Other companies which are partnered with us to provide their customers that require storage for their applications.
