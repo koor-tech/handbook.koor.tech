@@ -33,36 +33,35 @@ Our company Letterhead can be accessed [here](#TODO). This is read-only; make a 
 
 ## Colors
 
-* Primary color: `#19dda5`, called "Medium Aquamarine"
-    * Darker version of primary color (e.g., for night mode): `#119671`, called "Paolo Veronese Green"
-* Secondary color: `#1d2628`, called "Charleston Green"
+- Primary color: `#19dda5`, called "Medium Aquamarine"
+    - Darker version of primary color (e.g., for night mode): `#119671`, called "Paolo Veronese Green"
+- Secondary color: `#1d2628`, called "Charleston Green"
 
 ## Logos
 
 We use the following logos at Koor Technologies, Inc. When using the logos, please keep space between the logo and other images or text. Generally a good amount of separation space is the size of the Koor Technologies, Inc. 'K' away from the logo
 
 === "Logos"
-
     - Logo 1, The Koor Technologies, Inc. logo with icon and text, icon in primary color and secondary color accent, white text:
-        ![](https://koor.tech/images/koor/logos/Logo_1.png)
+        ![Logo 1, The Koor Technologies, Inc. logo with icon and text, icon in primary color and secondary color accent, white text](https://koor.tech/images/koor/logos/Logo_1.png)
     - Logo 2, The Koor Technologies, Inc. logo with icon and text, icon in primary color and white as color accent, text in secondary color:
-        ![](https://koor.tech/images/koor/logos/Logo_2.png)
+        ![Logo 2, The Koor Technologies, Inc. logo with icon and text, icon in primary color and white as color accent, text in secondary color](https://koor.tech/images/koor/logos/Logo_2.png)
     - Logo 3, The Koor Technologies, Inc. logo with icon and text, icon and text in secondary color:
-        ![](https://koor.tech/images/koor/logos/Logo_3.png)
+        ![Logo 3, The Koor Technologies, Inc. logo with icon and text, icon and text in secondary color](https://koor.tech/images/koor/logos/Logo_3.png)
     - Logo 4, The Koor Technologies, Inc. logo with icon and text, icon and text in full primary color:
-        ![](https://koor.tech/images/koor/logos/Logo_4.png)
+        ![Logo 4, The Koor Technologies, Inc. logo with icon and text, icon and text in full primary color](https://koor.tech/images/koor/logos/Logo_4.png)
     - Logo 5, The Koor Technologies, Inc. logo with icon and text, icon and text in white:
-        ![](https://koor.tech/images/koor/logos/Logo_5.png)
+        ![Logo 5, The Koor Technologies, Inc. logo with icon and text, icon and text in white](https://koor.tech/images/koor/logos/Logo_5.png)
 
 === "Icons"
     === "Icon 1"
-        ![](https://koor.tech/images/koor/icons/Icon_1.png)
+        ![Icon 1](https://koor.tech/images/koor/icons/Icon_1.png)
 
     === "Icon 2"
-        ![](https://koor.tech/images/koor/icons/Icon_2.png)
+        ![Icon 2](https://koor.tech/images/koor/icons/Icon_2.png)
 
     === "Icon 3"
-        ![](https://koor.tech/images/koor/icons/Icon_3.png)
+        ![Icon 3](https://koor.tech/images/koor/icons/Icon_3.png)
 
 ## Marketing Assets
 

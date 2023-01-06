@@ -30,7 +30,7 @@ Do not click on any links or attachments in it! Forward the email to [security@k
 * Write down passwords or credentials on paper.
 * Do not use your browser's built-in password manager, use our password manager tool browser extension for easy access to your credentials.
 
-### I have received my company laptop and want to install an operating system..
+### I have received my company laptop and want to install an operating system
 
 Make sure to enable disk encryption during installation. Your operating system and any data bearing partition(s)/ disk(s) must be encrypted with a deemed safe encryption.
 

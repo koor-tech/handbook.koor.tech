@@ -6,7 +6,7 @@ This is the Koor Technologies, Inc. company and employee handbook built using [M
 
 You currently need to have Docker installed to be able to preview and build the site locally.
 
-Please submit any code changes using a pull request.
+Please submit any code or text changes using a pull request.
 
 ### Local Preview
 
@@ -20,4 +20,8 @@ make serve
 
 ### Building & Deploying
 
-We use [Cloudflare Pages](https://pages.cloudflare.com/) for automatic building and deploying, and hosting of the handbook.
+To build the handbook locally run:
+
+```console
+make build
+```
