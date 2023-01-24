@@ -2,6 +2,19 @@
 title: Standards
 ---
 
+## Why?
+
+* It is important to have common grounds for working together.
+* Documenting everything, readable by everyone in the company is important.
+* These standards will help us provide quality services, code, products and more together.
+
+### "Why Should I Care?"
+
+* Having a common ground for certain aspects of our work, allows us to work together efficiently.
+* With, e.g., more CI (automatic checks) in place, you are going to be less blocked in your work, thus being able to be move faster.
+
+***
+
 ## Documentation
 
 * Use Markdown Syntax.
@@ -21,6 +34,13 @@ title: Standards
     * Capture the customer requirements
     * Additionally a changelog should be added to the requirements section, to track any changes in the requirements.
     * A primary contact from the customer side and Koor company should be specified. In case anything is unclear, the contacts can be contacted for more information/ any clarifications.
+    * Example of the contents of a typical `README.md` file:
+        * Information
+            * Start-, Due-, and -Date
+            * Contact Persons from customer and internally (project manager)
+            * Initial Requirements
+            * Changelog for requirements: Requirements can change over time, it is important to document these changes when they are made explicitly in a list with a reason of "Why?".
+            * Links to any important systems, websites, services, etc.
 
 ## Code
 
@@ -29,18 +49,21 @@ title: Standards
         * A project in the "cloud native" space should preferably use Golang as it is a common language that many people can work with.
         * A project that is close to (low level) hardware should probably use a language such as C, C++ or even Assembler if it makes sense.
 * Always use and apply best practices for code...:
-    * Cleanlieness (*DRY = Don't Repeat Yourself*)
+    * Cleanliness (*DRY = Don't Repeat Yourself*)
     * Comments
     * Continous Integration/ Testing
     * Usability
 * Examples:
     * [Effective Go - The Go Programming Language](https://go.dev/doc/effective_go)
+* Follow the [Conventional Commits specification v1.0.0](https://www.conventionalcommits.org/en/v1.0.0/)
+    * Subject should be kept on the point (short and concise).
+    * The body should contain, e.g., reasons why a change is needed, what a change fixes.
 
 ### Example
 
 Let's say you have a repository containing `bash` scripts. Implementing the standards mentioned on this page would mean the follwoing things should be present:
 
-* Cleanlieness: Try finding common "tasks" that your script is doing and de-duplicate them in a (wrapper) function.
+* Cleanliness: Try finding common "tasks" that your script is doing and de-duplicate them in a (wrapper) function.
     * E.g., if you use `curl` to access the same API multiple times, you can write a wrapper function to "abstract" the API call. This allows you to have one place to, e.g., allow the user to specify "additional" `curl` flags to debug issues.
 
         ```bash
@@ -72,3 +95,24 @@ Let's say you have a repository containing `bash` scripts. Implementing the stan
 
 * Depending on the usage internally or externally, a weekly or even daily test suite should be created to ensure functionality of the code.
 * In case of repeated failure of CI pipelines, a tracking issue/ task for investigation should be created.
+* Commonly used tools for code changes/ pull request linting:
+    * [Commitlint](https://commitlint.js.org/)
+    * [Shellcheck](https://www.shellcheck.net/)
+    * [PySpellCheck](https://github.com/barrust/pyspellchecker)
+
+## Time Management and Organization
+
+* Structuring tasks appropriatly based on the size (amount of work required)
+* Tasks with not enough information should be flagged to the creator.
+    * The creator should then add more information on what, why and how to achieve the task/ goal/ feature/ fix.
+
+## Team Work
+
+* "Ask for forgiveness and not permission."
+* Celebrate wins together, let the person that achieved it explain and show it to the others/ the world.
+* Ideas need to be constantly challenged -> Respectfully challenge your colleagues' and yourself's ideas to ensure you are going the "right path" together.
+    * "Why does solution ABC work better than solution XYZ?"
+    * "Why should we switch from framework ABC to XYZ?"
+* "Own the idea and solution" - Take care of the idea and solution.
+    * Document the idea/ design, the architecture, and everything else that is important to it.
+    * Make sure everyone can understand it and especially can understand "Why?" this is needed/ should be done.
