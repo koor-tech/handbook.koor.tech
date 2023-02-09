@@ -15,6 +15,24 @@ title: Standards
 
 ***
 
+## Time Management and Organization
+
+* Structuring tasks appropriatly based on the size (amount of work required)
+* Tasks with not enough information should be flagged to the creator.
+    * The creator should then add more information on what, why and how to achieve the task/ goal/ feature/ fix.
+
+## Team Work
+
+* "Ask for forgiveness and not permission."
+* Celebrate wins together, let the person that achieved it explain and show it to the others/ the world.
+* Ideas need to be constantly challenged -> Respectfully challenge your colleagues' and yourself's ideas to ensure you are going the "right path" together.
+    * "Why does solution ABC work better than solution XYZ?"
+    * "Why should we switch from framework ABC to XYZ?"
+* "Own the idea and solution" - Take care of the idea and solution.
+    * Document the idea/ design, the architecture, and everything else that is important to it.
+    * Make sure everyone can understand it and especially can understand "Why?" this is needed/ should be done.
+* Record all the team meetings.
+
 ## Documentation
 
 * Use Markdown Syntax.
@@ -99,20 +117,3 @@ Let's say you have a repository containing `bash` scripts. Implementing the stan
     * [Commitlint](https://commitlint.js.org/)
     * [Shellcheck](https://www.shellcheck.net/)
     * [PySpellCheck](https://github.com/barrust/pyspellchecker)
-
-## Time Management and Organization
-
-* Structuring tasks appropriatly based on the size (amount of work required)
-* Tasks with not enough information should be flagged to the creator.
-    * The creator should then add more information on what, why and how to achieve the task/ goal/ feature/ fix.
-
-## Team Work
-
-* "Ask for forgiveness and not permission."
-* Celebrate wins together, let the person that achieved it explain and show it to the others/ the world.
-* Ideas need to be constantly challenged -> Respectfully challenge your colleagues' and yourself's ideas to ensure you are going the "right path" together.
-    * "Why does solution ABC work better than solution XYZ?"
-    * "Why should we switch from framework ABC to XYZ?"
-* "Own the idea and solution" - Take care of the idea and solution.
-    * Document the idea/ design, the architecture, and everything else that is important to it.
-    * Make sure everyone can understand it and especially can understand "Why?" this is needed/ should be done.
