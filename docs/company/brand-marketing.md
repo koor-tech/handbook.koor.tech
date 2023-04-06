@@ -69,7 +69,7 @@ Company assets, including full resolution versions of the logo and icons, are av
 
 ## Vision
 
-Koor Technologies, Inc. succeeds by accelerating growth and delivering responsive public services to our city and real estate partners. We actively strive to push-out relevant content (e.g., blog posts, guides, tutorials) and provide marketing assets that attract prospective companies and Kubernetes platform partners. This helps support our mission of accelerating the growth of new great places to live.
+See [Vision/ Development Roadmap - koor.tech](https://koor.tech/development-roadmap/).
 
 ## Koor Technologies, Inc. Marketing Audiences
 
@@ -85,7 +85,6 @@ Koor Technologies, Inc. succeeds by accelerating growth and delivering responsiv
 
 - Account-Based Marketing
 - Social Media (Twitter, Linkedin, Youtube)
-- Targeted ads
 - **Note**: To manage the company LinkedIn page, your personal LinkedIn account must be added as an admin. There should be no separate login for that.
 
 ## Inbound Marketing
@@ -97,12 +96,13 @@ Koor Technologies, Inc. succeeds by accelerating growth and delivering responsiv
 - Community Slack Help
 - Podcasts: To help reach niche targeted audiences by providing information and knowledge that is interesting to the listener.
 
-## Accounts
+## Accounts (Social Media)
 
 Koor Technologies, Inc. has the following social media accounts:
 
 - Twitter: [@koor_tech](https://twitter.com/koor_tech)
 - LinkedIn: [Koor Technologies, Inc.](https://www.linkedin.com/company/koor-technologies-inc/)
+- Medium: [Koor Technologies, Inc.](https://medium.com/@koor_tech)
 - YouTube: [Koor Technologies, Inc.](https://www.youtube.com/@koor-tech)
 
 ## Twitter

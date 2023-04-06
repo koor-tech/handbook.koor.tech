@@ -100,7 +100,7 @@ C-Level has weekly 1:1 meetings with each of his direct reports. They use the ro
 
 Meetings are an important aspect of effective collaboration. They are also an expensive investment of teammate time, and (especially importantly) the synchronous time that can be scarce when working across disparate time zones. The following norms aim to establish efficient and effective practices.
 
-### Biweekly Team + Investor Call
+### Biweekly Investor Call
 
 We have an recurring biweekly calls for the entire team to meet with our investor and discuss different objectives for the business.
 
@@ -124,6 +124,6 @@ The process is:
 
 3. Articulate some of those strategies and see if some are reasonable to incorporate in to the current best plan
 
-### Virtual coffee talks
+### Virtual water cooler talks
 
-To keep a personal connection with how people are doing, the C-Level holds virtual coffee talks with each person in the company. The aim is to do these at least once per quarter, and more often as time permits. These do not have a formal agenda, but you are encouraged to share your thoughts about what's working well and what could be improved culturally. We'll use the 1:1 Agenda document to collect thoughts if there are specific topics. Preparation is encouraged but not required.
+To keep a personal connection with how people are doing, we hold virtual water cooler talks for everyone free to join in the company. The aim is to do these at least once a day, and more often as time permits. These do not have a formal agenda, but you are encouraged to share your thoughts about what's working well, what could be improved culturally and anything on your mind. Preparation is encouraged but not required.
