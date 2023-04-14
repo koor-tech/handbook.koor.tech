@@ -10,30 +10,27 @@ If you want to present or discuss a topic, please use the `#knowledge` Slack cha
 
 ## Training & Development
 
+### Certificates
+
+Depending on the requirements of your work, we can help with the following trainings and certificates:
+
+* [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/)
+
 ### Courses
 
 Koor Technologies, Inc. encourages team members to invest in their personal growth.
 
-### Coursera
+If you have found a course/ training that can help you grow, please discuss it with your manager.
 
-The company has an account with Coursera and any teammate may choose to join the company plan and take as many courses as they wish. This login is available in the OnePassword PeopleOps vault.
+### Training Platforms
 
-### LinkedIn Learning
+Here's a list of several course/ training platforms which you can look for courses/ trainings:
 
-Koor Technologies, Inc. is piloting LinkedIn Learning as an additional online course provider. Individuals can subscribe to LinkedIn Learning to take advantage of the numerous training courses. During the pilot period, the subscription is renewable monthly and can be expensed accordingly.
-
-Speak with your line manager before setting up your LinkedIn Learning Subscription. They will provide guidance on the course priorities for your team.
-
-Once a course is completed, LinkedIn provides a certificate. A copy of this must be shared at the end of each course. This process will be used to track utilization and therefore confirm extension after the pilot.
-
-!!! note
-    You can expense your LinkedIn Premium Membership via Expensify (currently please use the tool you need to use for your expenses, e.g., Non-US Employee Management).
-
-### Other Learning Programs
-
-In addition, teammates may spend up to $600 USD per year on other courses or professional certifications, so long as they are discussed with their manager in advance, they have the time available while fulfilling their work responsibilities, and relevant to their Koor Technologies, Inc. responsibilities.
-
-We have a set of videos for training and onboarding here. Note that videos themselves are private because some of them have personal details shown in screenshots.
+* Coursera - [https://www.coursera.org/](https://www.coursera.org/)
+* Edx - [https://www.edx.org/](https://www.edx.org/)
+* LinkedIn Learning - https[://www.linkedin.com/learning/](://www.linkedin.com/learning/)
+* Udacity - [https://www.udacity.com/](https://www.udacity.com/)
+* Udemy - [https://www.udemy.com/](https://www.udemy.com/)
 
 ### Product Overview
 
